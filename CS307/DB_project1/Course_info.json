@@ -1,0 +1,2706 @@
+[
+  {
+    "totalCapacity": 28,
+    "courseId": "GE232",
+    "courseName": "体育IV",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "体育中心"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "EE332",
+    "courseName": "数字系统设计",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "CH215",
+    "courseName": "配位化学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "BIO320",
+    "courseName": "分子生物学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESE212",
+    "courseName": "环境监测",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 85,
+    "courseId": "CH305-2",
+    "courseName": "仪器分析实践",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE210",
+    "courseName": "光学基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 35,
+    "courseId": "CS402",
+    "courseName": "计算机科学与技术前沿讲座 IV",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME306",
+    "courseName": "机器人基础",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "ESE218",
+    "courseName": "水力学基础实验",
+    "courseCredit": 0.5,
+    "courseHour": 16,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "CH323",
+    "courseName": "天然产物全合成",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE216",
+    "courseName": "水力学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BIO340",
+    "courseName": "蛋白质工程",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME303",
+    "courseName": "机械设计基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS401",
+    "courseName": "智能机器人",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "MSE202",
+    "courseName": "物理化学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "MED307",
+    "courseName": "病理学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "医学院"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE106",
+    "courseName": "光电子导论",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 70,
+    "courseId": "IPE105",
+    "courseName": "形势与政策",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESS102",
+    "courseName": "地质学原理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE306",
+    "courseName": "海洋地质学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA314",
+    "courseName": "抽样调查",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MA201b",
+    "courseName": "常微分方程B",
+    "courseCredit": 4.0,
+    "courseHour": 80,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 78,
+    "courseId": "CH305-1",
+    "courseName": "仪器分析原理",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MA322",
+    "courseName": "寿险精算",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME308",
+    "courseName": "先进制造实践",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "ESE304",
+    "courseName": "大气污染与防治",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE330-16",
+    "courseName": "金属材料粉末冶金及其3D打印",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 48,
+    "courseId": "OCE308",
+    "courseName": "微生物海洋学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "BMEB322",
+    "courseName": "生物医学工程实验（二）",
+    "courseCredit": 3.0,
+    "courseHour": 96,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "ESE310",
+    "courseName": "环境科学与工程实验（二）",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "MED305",
+    "courseName": "生理学与病理生理学II",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "医学院"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "MA224",
+    "courseName": "金融数学基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MAES001",
+    "courseName": "精益六西格玛设计",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE304",
+    "courseName": "计算海洋学基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ME305",
+    "courseName": "创新设计实践",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE307",
+    "courseName": "化学海洋学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "EE201-17L",
+    "courseName": "模拟电路实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "CH214",
+    "courseName": "金属有机化学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "EE202-17",
+    "courseName": "数字电路",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "PHY203-15",
+    "courseName": "数学物理方法",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESS312",
+    "courseName": " 连续介质力学基础",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MAE403",
+    "courseName": "计算流体力学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "IPE103",
+    "courseName": "中国近现代史纲要",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME102",
+    "courseName": "CAD与工程制图",
+    "courseCredit": 3.0,
+    "courseHour": 72,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "IPE102",
+    "courseName": "马克思主义基本原理概论",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ME301",
+    "courseName": "动力学与机械振动",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FET306",
+    "courseName": "商务大数据分析",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "IPE101",
+    "courseName": "思想道德修养与法律基础",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE404",
+    "courseName": "海洋沉积学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE318",
+    "courseName": "地下水水文学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME405",
+    "courseName": "创新设计理论与实践",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "BIO332",
+    "courseName": "干细胞与再生生物学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ME307",
+    "courseName": "控制工程基础",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "CH320",
+    "courseName": "有机人名反应",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MAE204",
+    "courseName": "理论力学 II",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MA201a",
+    "courseName": "常微分方程A",
+    "courseCredit": 4.0,
+    "courseHour": 80,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE316",
+    "courseName": "水资源评价与管理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "FET470",
+    "courseName": "金融工程理论实践课",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESS205",
+    "courseName": "计算方法",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE332",
+    "courseName": "土壤学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE330",
+    "courseName": "生物信息学在环境科学中的应用",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "EE201-17",
+    "courseName": "模拟电路",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS316",
+    "courseName": "并行与云计算",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "MA206",
+    "courseName": "数学建模",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "MA403",
+    "courseName": "广义线性模型",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESS202",
+    "courseName": "科学计算与计算机编程",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "BMEB312",
+    "courseName": "定量生理学（二）",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 78,
+    "courseId": "ESS201",
+    "courseName": "地球与空间科学导论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE305",
+    "courseName": "物理海洋学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MAT8010",
+    "courseName": "组合数学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "CH322",
+    "courseName": "高等质谱分析",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE201",
+    "courseName": "材料科学基础",
+    "courseCredit": 4.0,
+    "courseHour": 80,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 48,
+    "courseId": "FET303",
+    "courseName": "金融风险管理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 54,
+    "courseId": "MA327",
+    "courseName": "微分几何",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA208",
+    "courseName": "应用随机过程",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "MA406",
+    "courseName": "应用数学选讲：凸优化的一阶分裂算法",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE329",
+    "courseName": "遥感原理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "MED308",
+    "courseName": "生物医学综合实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "医学院"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ME304",
+    "courseName": "能源工程基础",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MAE202",
+    "courseName": "材料力学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "MA417",
+    "courseName": "非参数统计",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MAT7041",
+    "courseName": "贝叶斯统计",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME434",
+    "courseName": "行走机器人",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "FET302",
+    "courseName": "金融信息系统",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "BMEB325",
+    "courseName": "医学影像系统实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 15,
+    "courseId": "EE328",
+    "courseName": "语音信号处理",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE201",
+    "courseName": "地球科学概论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "MAT7012",
+    "courseName": "代数图论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MAE314",
+    "courseName": "高等数值分析",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 35,
+    "courseId": "CS307",
+    "courseName": "数据库原理",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE307",
+    "courseName": "水文学原理与应用",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "MAE302-16",
+    "courseName": "流体力学实验",
+    "courseCredit": 3.0,
+    "courseHour": 96,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "EE334",
+    "courseName": "集成电路前沿-机器学习芯片设计",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MAE310",
+    "courseName": "计算固体力学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE331",
+    "courseName": " 全球生物多样性保护",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "IPE104",
+    "courseName": "毛泽东思想和中国特色社会主义理论体系概论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY442",
+    "courseName": "量子计算",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS306",
+    "courseName": "数据挖掘",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FET206",
+    "courseName": "数据结构与金融应用",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA333",
+    "courseName": "大数据导论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "CH102-17",
+    "courseName": "化学原理实验A",
+    "courseCredit": 1.5,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS207",
+    "courseName": "数字逻辑",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA210",
+    "courseName": "运筹学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 130,
+    "courseId": "FET202",
+    "courseName": "金融科技案例分析I",
+    "courseCredit": 1.5,
+    "courseHour": 24,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME302",
+    "courseName": "机械制造基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "ESE214",
+    "courseName": "环境监测实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 24,
+    "courseId": "BIO342",
+    "courseName": "分子微生物学实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MA213-16",
+    "courseName": "数学分析精讲",
+    "courseCredit": 5.0,
+    "courseHour": 96,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY431",
+    "courseName": "量子输运理论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MA110",
+    "courseName": "MATLAB程序设计",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "CH212-16",
+    "courseName": "高级仪器系统的研发I",
+    "courseCredit": 4.0,
+    "courseHour": 96,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE408",
+    "courseName": "矿物学与岩石学实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY439",
+    "courseName": "广义相对论：从黑洞到宇宙学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 130,
+    "courseId": "FET204",
+    "courseName": "商业银行",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MAE308",
+    "courseName": "传热学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS209A",
+    "courseName": "计算机系统设计及应用A",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "CH308-14",
+    "courseName": "超分子化学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "CH318-14",
+    "courseName": "X-射线单晶结构解析",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS205",
+    "courseName": "C/C++程序设计",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 35,
+    "courseId": "BIO203",
+    "courseName": "微生物学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "BIO301",
+    "courseName": "遗传学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 18,
+    "courseId": "BIO303",
+    "courseName": "遗传学实验",
+    "courseCredit": 2.0,
+    "courseHour": 56,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "BIO305",
+    "courseName": "模式生物和发育生物学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 24,
+    "courseId": "BIO304",
+    "courseName": "系统生物学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 15,
+    "courseId": "BIO306",
+    "courseName": "生物信息学",
+    "courseCredit": 4.0,
+    "courseHour": 96,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BIO308",
+    "courseName": "生物科学前沿讲座与文献综述",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BIO104",
+    "courseName": "普通生物学实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "BIO202",
+    "courseName": "生物化学II（新陈代谢）",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "BIO310",
+    "courseName": "神经生物学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 9,
+    "courseId": "BIO302",
+    "courseName": "现代生物技术",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BIO331",
+    "courseName": "蛋白质结构与功能",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 200,
+    "courseId": "PHY104B",
+    "courseName": "基础物理实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESS310",
+    "courseName": "地球物理实验",
+    "courseCredit": 3.0,
+    "courseHour": 80,
+    "courseDept": "地球与空间科学系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "EE404",
+    "courseName": "有机电子学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE407",
+    "courseName": "矿物学与岩石学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ME112",
+    "courseName": "MATLAB工程应用",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "FET490",
+    "courseName": "毕业论文（设计）",
+    "courseCredit": 8.0,
+    "courseHour": 256,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MAT7045",
+    "courseName": "偏微分方程专题",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS208",
+    "courseName": "算法设计与分析",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CH328",
+    "courseName": "化学动力学和动态学 I",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "CH208",
+    "courseName": "有机化学实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CH206",
+    "courseName": "有机化学II",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "CH204",
+    "courseName": "无机化学实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 35,
+    "courseId": "CH302",
+    "courseName": "物理化学II",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "CH210",
+    "courseName": "化学前沿研究",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "CH403",
+    "courseName": "化工原理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 15,
+    "courseId": "CH306",
+    "courseName": "微纳合成、技术与应用实验",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CH314",
+    "courseName": "不对称合成",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "CH312",
+    "courseName": "有机波谱解析",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "CH304",
+    "courseName": "纳米材料合成与技术",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "CH316",
+    "courseName": "生物无机化学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 70,
+    "courseId": "CS201",
+    "courseName": "离散数学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS202",
+    "courseName": "计算机组成原理",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS302",
+    "courseName": "计算机操作系统",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS304",
+    "courseName": "软件工程",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS312",
+    "courseName": "计算机图形学",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 155,
+    "courseId": "CS318",
+    "courseName": "计算机科学与技术前沿讲座II",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 220,
+    "courseId": "CS322",
+    "courseName": "计算机科学创新实验II",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE202",
+    "courseName": "地球历史",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FMA307",
+    "courseName": "衍生证券模型与定价",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "BMEB314",
+    "courseName": "生物医学工程（二）",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 49,
+    "courseId": "OCE204",
+    "courseName": "海洋科学趣谈",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 24,
+    "courseId": "BIO222",
+    "courseName": "生物化学与分子生物学实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME101",
+    "courseName": "机械工程导论",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "ESE302",
+    "courseName": "固体废弃物处理处置与资源化",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS314",
+    "courseName": "物联网技术",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE201",
+    "courseName": "海洋科学导论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "EE330",
+    "courseName": "DSP系统设计与仿真",
+    "courseCredit": 1.5,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "ME103",
+    "courseName": "制造工程认知实践",
+    "courseCredit": 3.0,
+    "courseHour": 80,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "EE326",
+    "courseName": "数字图像处理",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BIO323",
+    "courseName": "高级细胞生物学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "BMEB324",
+    "courseName": "生物医学光学实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "PHY201-15",
+    "courseName": "综合物理实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE305",
+    "courseName": "材料力学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE313",
+    "courseName": "高分子材料",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE308",
+    "courseName": "能源材料学",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MSE310",
+    "courseName": "半导体材料与器件",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "BMEB315",
+    "courseName": "生物医学光学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "生物医学工程系"
+  },
+  {
+    "totalCapacity": 15,
+    "courseId": "CS406",
+    "courseName": "高级优化算法",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE104",
+    "courseName": "电路基础",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE203",
+    "courseName": "固态电子学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "EE204",
+    "courseName": "半导体器件导论",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE205",
+    "courseName": "信号和系统",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "EE206",
+    "courseName": "通信原理",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "CS203",
+    "courseName": "数据结构与算法分析",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "EE208",
+    "courseName": "工程电磁场理论",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 150,
+    "courseId": "EE302",
+    "courseName": "现代电子科学与技术前沿讲座II",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE304",
+    "courseName": "集成电路设计",
+    "courseCredit": 3.0,
+    "courseHour": 80,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 70,
+    "courseId": "EE306",
+    "courseName": "微机电系统基础",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE308",
+    "courseName": "光纤通信原理与技术",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "EE310",
+    "courseName": "激光原理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "EE314",
+    "courseName": "通信系统设计I",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "EE316",
+    "courseName": "微波工程",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 130,
+    "courseId": "EE318",
+    "courseName": "电子科学创新实验II",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 5,
+    "courseId": "EE320-15",
+    "courseName": "集成电路工艺实践",
+    "courseCredit": 3.0,
+    "courseHour": 72,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 6,
+    "courseId": "EE322",
+    "courseName": "光电器件工艺实践",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "EE402",
+    "courseName": "现代电子科学与技术前沿讲座IV",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE480",
+    "courseName": "科研创新项目",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "ESE202",
+    "courseName": "环境学导论",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ESE206",
+    "courseName": "环境化学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "环境科学与工程学院"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE208",
+    "courseName": "基础有机化学",
+    "courseCredit": 4.0,
+    "courseHour": 80,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "MA302",
+    "courseName": "泛函分析",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "OCE301",
+    "courseName": "大气科学导论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "海洋科学与工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MAE407",
+    "courseName": "喷气推进",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "EE202-17L",
+    "courseName": "数字电路实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "MAE304",
+    "courseName": "弹性力学",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "力学与航空航天工程系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "FMA301",
+    "courseName": "计量经济学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "ME310",
+    "courseName": "测试与检测技术基础",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "机械与能源工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "BIO403-16",
+    "courseName": "分子药理学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "EE423-14",
+    "courseName": "模式识别",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "电子与电气工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "FIN210",
+    "courseName": "货币银行学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FIN308",
+    "courseName": "金融经济学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "FIN490",
+    "courseName": "毕业论文（设计）",
+    "courseCredit": 8.0,
+    "courseHour": 288,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "FMA302",
+    "courseName": "金融经济学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "MA104b",
+    "courseName": "线性代数II",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA202",
+    "courseName": "复变函数",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "MA212",
+    "courseName": "概率论与数理统计",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA204",
+    "courseName": "数理统计",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FIN204",
+    "courseName": "宏观经济学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 78,
+    "courseId": "FIN206",
+    "courseName": "公司金融",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FIN201",
+    "courseName": "微观经济学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "FIN202",
+    "courseName": "金融与创业前沿论坛II",
+    "courseCredit": 1.5,
+    "courseHour": 24,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FIN203",
+    "courseName": "财务会计",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA214",
+    "courseName": "抽象代数",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 110,
+    "courseId": "FIN302",
+    "courseName": "金融实证分析方法",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 54,
+    "courseId": "FIN301",
+    "courseName": "金融投资概论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "FIN208",
+    "courseName": "金融数据分析与数据挖掘",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 78,
+    "courseId": "MA325",
+    "courseName": "偏微分方程数值解",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "MA304",
+    "courseName": "多元统计分析",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "FIN306",
+    "courseName": "固定收益产品",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 76,
+    "courseId": "FIN305",
+    "courseName": "金融衍生品",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "金融系"
+  },
+  {
+    "totalCapacity": 49,
+    "courseId": "MAT7003",
+    "courseName": "泛函分析（研究生）",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 180,
+    "courseId": "MSE102",
+    "courseName": "材料科学进展",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE204",
+    "courseName": "物理化学实验",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE328",
+    "courseName": "材料物理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE302",
+    "courseName": "现代材料科学与技术前沿讲座II",
+    "courseCredit": 1.0,
+    "courseHour": 16,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE304",
+    "courseName": "材料学综合实验II",
+    "courseCredit": 4.0,
+    "courseHour": 128,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE306",
+    "courseName": "材料测试分析技术",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MSE321",
+    "courseName": "材料科学创新实验I",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "MSE316",
+    "courseName": "生物材料",
+    "courseCredit": 4.0,
+    "courseHour": 96,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE318",
+    "courseName": "材料科学创新实验II",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE320",
+    "courseName": "光伏光热技术导论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE403",
+    "courseName": "先进材料表征技术",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "MSE480",
+    "courseName": "科技创新项目",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "材料科学与工程系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "PHY205-15",
+    "courseName": "分析力学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "PHY202",
+    "courseName": "现代物理技术实验",
+    "courseCredit": 2.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "PHY210",
+    "courseName": "原子物理学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "PHY204",
+    "courseName": "热力学与统计物理I",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY324",
+    "courseName": "激光原理",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY330",
+    "courseName": "固体光电子学",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 150,
+    "courseId": "PHY208",
+    "courseName": "电动力学II",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY328",
+    "courseName": "低温物理学",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 120,
+    "courseId": "PHY206-15",
+    "courseName": "量子力学I",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "PHY207-15",
+    "courseName": "电动力学I",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY326-15",
+    "courseName": "半导体物理与器件",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY332-15",
+    "courseName": "表面物理",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS018",
+    "courseName": "艺术鉴赏",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "SS043",
+    "courseName": "媒体与社会",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE039",
+    "courseName": "English for Career Development",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "GELS02",
+    "courseName": "TOEFL Preparation",
+    "courseCredit": 0.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "GEM029",
+    "courseName": "艺术与科学大讲堂",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "SS048",
+    "courseName": "西方文学与思想名篇讲读：人类与非人类世界专题",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE041",
+    "courseName": "国际学术会议英语",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "HUM028",
+    "courseName": "想象力入门",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "SS007",
+    "courseName": "理解死亡：哲学、社会与文化",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "GEM024",
+    "courseName": "西方音乐史",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "GEM032",
+    "courseName": "嗓音肌理及运用",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "SS016",
+    "courseName": "中外文化记忆研究   ",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS051",
+    "courseName": "当代中国城市问题",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "HUM017",
+    "courseName": "诗词格律与古诗词写作",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 250,
+    "courseId": "IE001",
+    "courseName": "创新创业大讲堂",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "创新创业学院"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "DHSSS002",
+    "courseName": "即兴创编",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "SS010",
+    "courseName": "中国审美哲学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GEM008",
+    "courseName": "乐理与视唱练耳",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "HUM013",
+    "courseName": "《孙子兵法》与中国兵学文化",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS054",
+    "courseName": "近现代日本文化史",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "DHSSS001",
+    "courseName": "体态律动",
+    "courseCredit": 1.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "GEM033",
+    "courseName": "中国区域民歌",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "SS009",
+    "courseName": "休闲文化与产业",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS041",
+    "courseName": "中外戏剧与性别",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "GE2229",
+    "courseName": "公共演讲",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GE2100",
+    "courseName": "市场营销管理",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE042",
+    "courseName": "The Science of Harry Potter",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS044",
+    "courseName": "木构建筑：从远古到未来 ",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "GEM026",
+    "courseName": "美术鉴赏",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 20,
+    "courseId": "SS024",
+    "courseName": "影视拍摄与编辑基础",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 36,
+    "courseId": "SS046",
+    "courseName": "个体与社会: 一个社会学的分析视角",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "SS028",
+    "courseName": "技术创新史",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "SS052",
+    "courseName": "传播与科技",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "HUM018",
+    "courseName": "科幻创作",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "HUM027",
+    "courseName": "岭南文化与岭南方言",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "HUM026",
+    "courseName": "朗读与演讲",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "SS053",
+    "courseName": "身体与情感",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE024",
+    "courseName": "美国文化",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS047",
+    "courseName": "全球化概论",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GEM034",
+    "courseName": "中国戏曲美学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GEM036",
+    "courseName": "工笔花鸟",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS025",
+    "courseName": "消费文化与当代社会",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "INO001",
+    "courseName": "设计工程",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "创新创业学院"
+  },
+  {
+    "totalCapacity": 10,
+    "courseId": "GEM035",
+    "courseName": "cubase软件运用与创编",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "HE004",
+    "courseName": "文献综述与内容分析",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "高等教育研究中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "SS049",
+    "courseName": "医术与社会",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "SS019",
+    "courseName": "城市研究",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "HUM009",
+    "courseName": "人文名家专题系列课程",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GEJ013",
+    "courseName": "人格塑造十五讲",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "SS050",
+    "courseName": "乡土世界：乡村人类学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "SS027",
+    "courseName": "文物精品研究鉴赏  ",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "SS042",
+    "courseName": "世界建筑：史前到巴洛克",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "社会科学中心"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GE212",
+    "courseName": "创业管理",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 25,
+    "courseId": "GEM022",
+    "courseName": "朗诵艺术",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "INO005",
+    "courseName": "创业思维与实践",
+    "courseCredit": 2.0,
+    "courseHour": 48,
+    "courseDept": "创新创业学院"
+  },
+  {
+    "totalCapacity": 30,
+    "courseId": "GEM006",
+    "courseName": "古典音乐零距离",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "艺术中心"
+  },
+  {
+    "totalCapacity": 40,
+    "courseId": "GE1221",
+    "courseName": "心理学",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "思想政治教育与研究中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "GEL006",
+    "courseName": "沟通技巧",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 160,
+    "courseId": "HUM005",
+    "courseName": "科幻电影鉴赏与批评",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "HUM007",
+    "courseName": "艺术设计的绘图表达",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "HUM008",
+    "courseName": "艺术造型初步",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "人文科学中心"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "BIO102B",
+    "courseName": "生命科学概论",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "BIO102A",
+    "courseName": "普通生物学",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "生物系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS102B",
+    "courseName": "计算机程序设计基础B",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY105A",
+    "courseName": "大学物理A(下)",
+    "courseCredit": 5.0,
+    "courseHour": 80,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 50,
+    "courseId": "MA203a",
+    "courseName": "数学分析III",
+    "courseCredit": 5.0,
+    "courseHour": 96,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 45,
+    "courseId": "CS102A",
+    "courseName": "计算机程序设计基础A",
+    "courseCredit": 3.0,
+    "courseHour": 64,
+    "courseDept": "计算机科学与工程系"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE023",
+    "courseName": "SUSTech English III",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE022",
+    "courseName": "SUSTech English II",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "MA101B",
+    "courseName": "高等数学（上）A",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE030",
+    "courseName": "EAP",
+    "courseCredit": 2.0,
+    "courseHour": 32,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "MA102B",
+    "courseName": "高等数学（下）A",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 65,
+    "courseId": "PHY103B",
+    "courseName": "大学物理 B(上)",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "MA103B",
+    "courseName": "线性代数I-B",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 22,
+    "courseId": "CLE021",
+    "courseName": "SUSTech English I",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "语言中心"
+  },
+  {
+    "totalCapacity": 60,
+    "courseId": "PHY105C",
+    "courseName": "大学物理 C(下)",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "物理系"
+  },
+  {
+    "totalCapacity": 90,
+    "courseId": "MA103A",
+    "courseName": "线性代数I-A",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "MA102a",
+    "courseName": "数学分析II",
+    "courseCredit": 5.0,
+    "courseHour": 96,
+    "courseDept": "数学系"
+  },
+  {
+    "totalCapacity": 100,
+    "courseId": "CH101B",
+    "courseName": "化学原理 B",
+    "courseCredit": 3.0,
+    "courseHour": 48,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 80,
+    "courseId": "CH101A",
+    "courseName": "化学原理 A",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "化学系"
+  },
+  {
+    "totalCapacity": 150,
+    "courseId": "PHY105B",
+    "courseName": "大学物理 B(下)",
+    "courseCredit": 4.0,
+    "courseHour": 64,
+    "courseDept": "物理系"
+  }
+]

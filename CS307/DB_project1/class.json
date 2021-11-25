@@ -1,0 +1,2987 @@
+[
+  {
+    "className": "乒乓球3班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "健美操2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "游泳1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "定向越野1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "羽毛球1班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "散打2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "羽毛球2班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "乒乓球1班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "网球1班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "羽毛球3班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "棒球1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "搏击2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "健身1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "乒乓球2班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "网球3班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "健美操1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "排球1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "游泳3班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "足球3班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "健身2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "足球1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "运动和体能1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "体育舞蹈1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "排球2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "游泳4班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "跆拳道1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "散打1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "足球2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "网球2班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "游泳2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "篮球1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "羽毛球4班",
+    "courseId": "GE232",
+    "totalCapacity": 28
+  },
+  {
+    "className": "轮滑1班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "篮球2班",
+    "courseId": "GE232",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文1班",
+    "courseId": "EE332",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文2班",
+    "courseId": "EE332",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH215",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO320",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO320",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE212",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH305-2",
+    "totalCapacity": 85
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE210",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS402",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME306",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "ESE218",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "CH323",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文班",
+    "courseId": "ESE216",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO340",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "ME303",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS401",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验4班",
+    "courseId": "CS401",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS401",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS401",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班（材料专业学生选此班）",
+    "courseId": "MSE202",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语（环境专业同学选此班）",
+    "courseId": "MSE202",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MED307",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE106",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文1班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文9班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文7班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文5班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文3班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文6班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文4班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文2班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中文8班",
+    "courseId": "IPE105",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS102",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE306",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA314",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班-习题1班",
+    "courseId": "MA201b",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班-习题2班",
+    "courseId": "MA201b",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-习题3班",
+    "courseId": "MA201b",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH305-1",
+    "totalCapacity": 78
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA322",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME308",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "ESE304",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE330-16",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE308",
+    "totalCapacity": 48
+  },
+  {
+    "className": "中英双语",
+    "courseId": "BMEB322",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "ESE310",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MED305",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA224",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAES001",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE304",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME305",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE307",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE201-17L",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH214",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文1班",
+    "courseId": "EE202-17",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中文2班",
+    "courseId": "EE202-17",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY203-15",
+    "totalCapacity": 120
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS312",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAE403",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文1班",
+    "courseId": "IPE103",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文4班",
+    "courseId": "IPE103",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文2班",
+    "courseId": "IPE103",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文5班",
+    "courseId": "IPE103",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文3班",
+    "courseId": "IPE103",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班-实验1班",
+    "courseId": "ME102",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班-实验4班",
+    "courseId": "ME102",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班-实验3班",
+    "courseId": "ME102",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "ME102",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文1班",
+    "courseId": "IPE102",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文8班",
+    "courseId": "IPE102",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中文5班",
+    "courseId": "IPE102",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中文7班",
+    "courseId": "IPE102",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中文4班",
+    "courseId": "IPE102",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中文2班",
+    "courseId": "IPE102",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文3班",
+    "courseId": "IPE102",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文6班",
+    "courseId": "IPE102",
+    "totalCapacity": 35
+  },
+  {
+    "className": "英文班",
+    "courseId": "ME301",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "FET306",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中文2班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文5班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文3班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文1班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文6班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文4班",
+    "courseId": "IPE101",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE404",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "ESE318",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME405",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO332",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "ME307",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH320",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中文班",
+    "courseId": "MAE204",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语习题2班",
+    "courseId": "MA201a",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班习题1班",
+    "courseId": "MA201a",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-习题3班",
+    "courseId": "MA201a",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE316",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "FET470",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS205",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE332",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE330",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE201-17",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS316",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA206",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA403",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS202",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "BMEB312",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS201",
+    "totalCapacity": 78
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE305",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAT8010",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH322",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE201",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE201",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验3班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE201",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "FET303",
+    "totalCapacity": 48
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA327",
+    "totalCapacity": 54
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA208",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA406",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE329",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "MED308",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME304",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "MAE202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA417",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MAT7041",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME434",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "FET302",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语",
+    "courseId": "BMEB325",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE328",
+    "totalCapacity": 15
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE201",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语",
+    "courseId": "MAT7012",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MAE314",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语1班-实验2班",
+    "courseId": "CS307",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语1班-实验5班",
+    "courseId": "CS307",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语1班-实验3班",
+    "courseId": "CS307",
+    "totalCapacity": 35
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS307",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语2班-实验6班",
+    "courseId": "CS307",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语1班-实验4班",
+    "courseId": "CS307",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESE307",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MAE302-16",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE334",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAE310",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "ESE331",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文2班",
+    "courseId": "IPE104",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文1班",
+    "courseId": "IPE104",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY442",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CS306",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "FET206",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA333",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH102-17",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH102-17",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH102-17",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS207",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA210",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FET202",
+    "totalCapacity": 130
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME302",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "ESE214",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO342",
+    "totalCapacity": 24
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA213-16",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY431",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "MA110",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH212-16",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE408",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "PHY439",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FET204",
+    "totalCapacity": 130
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAE308",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班-实验2班",
+    "courseId": "CS209A",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班-实验1班",
+    "courseId": "CS209A",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH308-14",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH318-14",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS205",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS205",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS205",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO203",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO301",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO303",
+    "totalCapacity": 18
+  },
+  {
+    "className": "中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO303",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO303",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO305",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO304",
+    "totalCapacity": 24
+  },
+  {
+    "className": "中文班",
+    "courseId": "BIO306",
+    "totalCapacity": 15
+  },
+  {
+    "className": "中英双语班（每次课都要做pre且计入最终成绩，不补课）",
+    "courseId": "BIO308",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO104",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语3班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO104",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO104",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO104",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文2班",
+    "courseId": "BIO202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文1班",
+    "courseId": "BIO202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO310",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文-实验中英双语2组（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO302",
+    "totalCapacity": 9
+  },
+  {
+    "className": "英文-实验中英双语1组（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO302",
+    "totalCapacity": 9
+  },
+  {
+    "className": "英文-实验英文组（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO302",
+    "totalCapacity": 9
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO331",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文3班",
+    "courseId": "PHY104B",
+    "totalCapacity": 200
+  },
+  {
+    "className": "中文4班",
+    "courseId": "PHY104B",
+    "totalCapacity": 200
+  },
+  {
+    "className": "中文2班",
+    "courseId": "PHY104B",
+    "totalCapacity": 200
+  },
+  {
+    "className": "中文1班",
+    "courseId": "PHY104B",
+    "totalCapacity": 180
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ESS310",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE404",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE407",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME112",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "FET490",
+    "totalCapacity": 120
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAT7045",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS208",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS208",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班",
+    "courseId": "CS208",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验4班",
+    "courseId": "CS208",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH328",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH208",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH208",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "CH206",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "CH206",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH204",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH204",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "CH302",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "CH302",
+    "totalCapacity": 35
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH210",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH403",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "courseId": "CH306",
+    "totalCapacity": 15
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH314",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "CH312",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH304",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH316",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS201",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CS201",
+    "totalCapacity": 180
+  },
+  {
+    "className": "中英双语班-实验2班",
+    "courseId": "CS202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班-实验4班",
+    "courseId": "CS202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS202",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中英双语班-实验3班",
+    "courseId": "CS202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班-实验5班",
+    "courseId": "CS202",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验4班",
+    "courseId": "CS302",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS302",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS302",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS302",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS304",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS304",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS304",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文班-实验4班",
+    "courseId": "CS304",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS312",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS318",
+    "totalCapacity": 155
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CS322",
+    "totalCapacity": 220
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE202",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "FMA307",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "BMEB314",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE204",
+    "totalCapacity": 49
+  },
+  {
+    "className": "英文班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO222",
+    "totalCapacity": 24
+  },
+  {
+    "className": "中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO222",
+    "totalCapacity": 24
+  },
+  {
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "BIO222",
+    "totalCapacity": 24
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME101",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "ESE302",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CS314",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE201",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "EE330",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "ME103",
+    "totalCapacity": 25
+  },
+  {
+    "className": "英文班-实验1班",
+    "courseId": "ME103",
+    "totalCapacity": 25
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE326",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "BIO323",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语",
+    "courseId": "BMEB324",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY201-15",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文1班",
+    "courseId": "MSE305",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文2班",
+    "courseId": "MSE305",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE313",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE308",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE308",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE310",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "BMEB315",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS406",
+    "totalCapacity": 15
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE104",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "EE104",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE203",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语2班，实验3班",
+    "courseId": "EE204",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语1班，实验1班",
+    "courseId": "EE204",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语2班，英文实验4班",
+    "courseId": "EE204",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语1班，实验2班",
+    "courseId": "EE204",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE205",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班，实验1班",
+    "courseId": "EE206",
+    "totalCapacity": 25
+  },
+  {
+    "className": "英文班，实验3班",
+    "courseId": "EE206",
+    "totalCapacity": 25
+  },
+  {
+    "className": "英文班，实验2班",
+    "courseId": "EE206",
+    "totalCapacity": 25
+  },
+  {
+    "className": "英文班",
+    "courseId": "CS203",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "EE208",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语4班",
+    "courseId": "EE208",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语3班",
+    "courseId": "EE208",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "EE208",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE302",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE304",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE306",
+    "totalCapacity": 70
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE308",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE310",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE314",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班，实验1班",
+    "courseId": "EE316",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班，实验2班",
+    "courseId": "EE316",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE318",
+    "totalCapacity": 130
+  },
+  {
+    "className": "中英双语班，实验3班",
+    "courseId": "EE320-15",
+    "totalCapacity": 5
+  },
+  {
+    "className": "中英双语班，实验2班",
+    "courseId": "EE320-15",
+    "totalCapacity": 5
+  },
+  {
+    "className": "中英双语班，实验1班",
+    "courseId": "EE320-15",
+    "totalCapacity": 5
+  },
+  {
+    "className": "中英双语班，实验2班",
+    "courseId": "EE322",
+    "totalCapacity": 6
+  },
+  {
+    "className": "中英双语班，实验1班",
+    "courseId": "EE322",
+    "totalCapacity": 6
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE402",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "EE480",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "ESE202",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "ESE206",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE208",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE208",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA302",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语",
+    "courseId": "OCE301",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAE407",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文1班",
+    "courseId": "EE202-17L",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE202-17L",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文2班",
+    "courseId": "EE202-17L",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文3班",
+    "courseId": "EE202-17L",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "MAE304",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FMA301",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "ME310",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO403-16",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "EE423-14",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN210",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN308",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中文班",
+    "courseId": "FIN490",
+    "totalCapacity": 120
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FMA302",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文4班",
+    "courseId": "MA104b",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文2班",
+    "courseId": "MA104b",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文3班",
+    "courseId": "MA104b",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文1班",
+    "courseId": "MA104b",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA202",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "MA212",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA212",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语3班",
+    "courseId": "MA212",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "MA212",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA204",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA204",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN204",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN204",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FIN204",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN206",
+    "totalCapacity": 78
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FIN206",
+    "totalCapacity": 78
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN201",
+    "totalCapacity": 76
+  },
+  {
+    "className": "中文班",
+    "courseId": "FIN202",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN203",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA214",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN302",
+    "totalCapacity": 110
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN301",
+    "totalCapacity": 54
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN208",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA325",
+    "totalCapacity": 78
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA304",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "FIN306",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "FIN305",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "FIN305",
+    "totalCapacity": 76
+  },
+  {
+    "className": "英文班",
+    "courseId": "MAT7003",
+    "totalCapacity": 49
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE102",
+    "totalCapacity": 180
+  },
+  {
+    "className": "英文1班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE204",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文1班-实验4班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE204",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文1班-实验3班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE204",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文1班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE204",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE328",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE302",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文3班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE304",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE304",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE304",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "MSE306",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MSE321",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE316",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "courseId": "MSE316",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MSE318",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MSE320",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MSE403",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MSE480",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY205-15",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY202",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY210",
+    "totalCapacity": 120
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY204",
+    "totalCapacity": 120
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY324",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY330",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY208",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY328",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY206-15",
+    "totalCapacity": 120
+  },
+  {
+    "className": "中文班",
+    "courseId": "PHY207-15",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY326-15",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY332-15",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS018",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS043",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE039",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE039",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "GELS02",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文2班",
+    "courseId": "GELS02",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM029",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班",
+    "courseId": "SS048",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE041",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE041",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM028",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS007",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM024",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM032",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS016",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS051",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM017",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "IE001",
+    "totalCapacity": 250
+  },
+  {
+    "className": "中文班",
+    "courseId": "DHSSS002",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS010",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM008",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM013",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS054",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "DHSSS001",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM033",
+    "totalCapacity": 20
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS009",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "SS041",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文2班",
+    "courseId": "GE2229",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "GE2229",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中文班",
+    "courseId": "GE2100",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE042",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE042",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "SS044",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM026",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS024",
+    "totalCapacity": 20
+  },
+  {
+    "className": "英文班",
+    "courseId": "SS046",
+    "totalCapacity": 36
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS028",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS052",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM018",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM027",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM026",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS053",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE024",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE024",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文班",
+    "courseId": "SS047",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM034",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM036",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS025",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "INO001",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM035",
+    "totalCapacity": 10
+  },
+  {
+    "className": "英文班",
+    "courseId": "HE004",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班",
+    "courseId": "SS049",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS019",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM009",
+    "totalCapacity": 100
+  },
+  {
+    "className": "中文2班",
+    "courseId": "GEJ013",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文1班",
+    "courseId": "GEJ013",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文3班",
+    "courseId": "GEJ013",
+    "totalCapacity": 30
+  },
+  {
+    "className": "英文班",
+    "courseId": "SS050",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "SS027",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "SS042",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "GE212",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM022",
+    "totalCapacity": 25
+  },
+  {
+    "className": "中文班",
+    "courseId": "INO005",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文班",
+    "courseId": "GEM006",
+    "totalCapacity": 30
+  },
+  {
+    "className": "中文1班",
+    "courseId": "GE1221",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文3班",
+    "courseId": "GE1221",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中文2班",
+    "courseId": "GE1221",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文3班",
+    "courseId": "GEL006",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "GEL006",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文4班",
+    "courseId": "GEL006",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文2班",
+    "courseId": "GEL006",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM005",
+    "totalCapacity": 160
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM007",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中文班",
+    "courseId": "HUM008",
+    "totalCapacity": 60
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO102B",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "BIO102B",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "BIO102B",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "BIO102A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "BIO102A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班",
+    "courseId": "BIO102A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS102B",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语班-实验2班",
+    "courseId": "CS102B",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班-实验3班",
+    "courseId": "CS102B",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY105A",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA203a",
+    "totalCapacity": 50
+  },
+  {
+    "className": "英文班-实验4班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语1班-实验7班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语2班-实验9班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语2班-实验10班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验2班",
+    "courseId": "CS102A",
+    "totalCapacity": 40
+  },
+  {
+    "className": "中英双语2班-实验11班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语1班-实验5班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语2班-实验12班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语1班-实验8班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "中英双语1班-实验6班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文班-实验1班（国际生）",
+    "courseId": "CS102A",
+    "totalCapacity": 40
+  },
+  {
+    "className": "英文班-实验3班",
+    "courseId": "CS102A",
+    "totalCapacity": 45
+  },
+  {
+    "className": "英文4班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文25班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文19班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文12班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文5班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文31班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文33班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文32班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文30班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文29班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文28班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文27班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文26班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文24班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文23班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文22班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文21班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文20班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文18班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文17班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文16班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文15班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文14班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文13班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文11班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文10班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文9班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文8班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文7班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文6班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文3班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE023",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文2班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文10班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文9班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文8班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文7班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文6班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文5班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文4班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文3班",
+    "courseId": "CLE022",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文1班",
+    "courseId": "MA101B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "MA101B",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文17班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文20班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文25班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文24班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文23班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文22班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文21班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文19班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文18班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文16班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文15班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "英文14班",
+    "courseId": "CLE030",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中英双语8班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文3班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语6班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语4班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文4班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语7班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文2班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文1班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语5班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语3班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "MA102B",
+    "totalCapacity": 90
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY103B",
+    "totalCapacity": 65
+  },
+  {
+    "className": "英文班",
+    "courseId": "PHY103B",
+    "totalCapacity": 65
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA103B",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班",
+    "courseId": "CLE021",
+    "totalCapacity": 22
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "PHY105C",
+    "totalCapacity": 60
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "MA103A",
+    "totalCapacity": 90
+  },
+  {
+    "className": "英文班",
+    "courseId": "MA103A",
+    "totalCapacity": 50
+  },
+  {
+    "className": "中文1班",
+    "courseId": "MA102a",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中文2班",
+    "courseId": "MA102a",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语班",
+    "courseId": "CH101B",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH101B",
+    "totalCapacity": 100
+  },
+  {
+    "className": "英文班",
+    "courseId": "CH101A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "CH101A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "CH101A",
+    "totalCapacity": 80
+  },
+  {
+    "className": "英文班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语1班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语7班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语6班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语5班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语4班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语3班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  },
+  {
+    "className": "中英双语2班",
+    "courseId": "PHY105B",
+    "totalCapacity": 150
+  }
+]

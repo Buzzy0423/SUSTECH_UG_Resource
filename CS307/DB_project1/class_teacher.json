@@ -1,0 +1,4958 @@
+[
+  {
+    "class_id": "Class_1",
+    "className": "乒乓球3班",
+    "teacher": "何紫琳",
+    "teacher_id": [
+      "Teacher_1"
+    ]
+  },
+  {
+    "class_id": "Class_2",
+    "className": "健美操2班",
+    "teacher": "赖莎",
+    "teacher_id": [
+      "Teacher_2"
+    ]
+  },
+  {
+    "class_id": "Class_3",
+    "className": "游泳1班",
+    "teacher": "魏伟成",
+    "teacher_id": [
+      "Teacher_3"
+    ]
+  },
+  {
+    "class_id": "Class_4",
+    "className": "定向越野1班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_5",
+    "className": "羽毛球1班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_6",
+    "className": "散打2班",
+    "teacher": "卢阳",
+    "teacher_id": [
+      "Teacher_5"
+    ]
+  },
+  {
+    "class_id": "Class_7",
+    "className": "羽毛球2班",
+    "teacher": "赵一品",
+    "teacher_id": [
+      "Teacher_6"
+    ]
+  },
+  {
+    "class_id": "Class_8",
+    "className": "乒乓球1班",
+    "teacher": "何紫琳",
+    "teacher_id": [
+      "Teacher_1"
+    ]
+  },
+  {
+    "class_id": "Class_9",
+    "className": "网球1班",
+    "teacher": "白波",
+    "teacher_id": [
+      "Teacher_7"
+    ]
+  },
+  {
+    "class_id": "Class_10",
+    "className": "羽毛球3班",
+    "teacher": "魏伟成",
+    "teacher_id": [
+      "Teacher_3"
+    ]
+  },
+  {
+    "class_id": "Class_11",
+    "className": "棒球1班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_12",
+    "className": "搏击2班",
+    "teacher": "卢阳",
+    "teacher_id": [
+      "Teacher_5"
+    ]
+  },
+  {
+    "class_id": "Class_13",
+    "className": "健身1班",
+    "teacher": "赵飞",
+    "teacher_id": [
+      "Teacher_8"
+    ]
+  },
+  {
+    "class_id": "Class_14",
+    "className": "乒乓球2班",
+    "teacher": "何紫琳",
+    "teacher_id": [
+      "Teacher_1"
+    ]
+  },
+  {
+    "class_id": "Class_15",
+    "className": "网球3班",
+    "teacher": "白波",
+    "teacher_id": [
+      "Teacher_7"
+    ]
+  },
+  {
+    "class_id": "Class_16",
+    "className": "健美操1班",
+    "teacher": "赖莎",
+    "teacher_id": [
+      "Teacher_2"
+    ]
+  },
+  {
+    "class_id": "Class_17",
+    "className": "排球1班",
+    "teacher": "侯思宇",
+    "teacher_id": [
+      "Teacher_9"
+    ]
+  },
+  {
+    "class_id": "Class_18",
+    "className": "游泳3班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_19",
+    "className": "足球3班",
+    "teacher": "孙颜",
+    "teacher_id": [
+      "Teacher_10"
+    ]
+  },
+  {
+    "class_id": "Class_20",
+    "className": "健身2班",
+    "teacher": "赵飞",
+    "teacher_id": [
+      "Teacher_8"
+    ]
+  },
+  {
+    "class_id": "Class_21",
+    "className": "足球1班",
+    "teacher": "赵一品",
+    "teacher_id": [
+      "Teacher_6"
+    ]
+  },
+  {
+    "class_id": "Class_22",
+    "className": "运动和体能1班",
+    "teacher": "董伦红",
+    "teacher_id": [
+      "Teacher_11"
+    ]
+  },
+  {
+    "class_id": "Class_23",
+    "className": "体育舞蹈1班",
+    "teacher": "赖莎",
+    "teacher_id": [
+      "Teacher_2"
+    ]
+  },
+  {
+    "class_id": "Class_24",
+    "className": "排球2班",
+    "teacher": "侯思宇",
+    "teacher_id": [
+      "Teacher_9"
+    ]
+  },
+  {
+    "class_id": "Class_25",
+    "className": "游泳4班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_26",
+    "className": "跆拳道1班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_27",
+    "className": "散打1班",
+    "teacher": "卢阳",
+    "teacher_id": [
+      "Teacher_5"
+    ]
+  },
+  {
+    "class_id": "Class_28",
+    "className": "足球2班",
+    "teacher": "赵一品",
+    "teacher_id": [
+      "Teacher_6"
+    ]
+  },
+  {
+    "class_id": "Class_29",
+    "className": "网球2班",
+    "teacher": "白波",
+    "teacher_id": [
+      "Teacher_7"
+    ]
+  },
+  {
+    "class_id": "Class_30",
+    "className": "游泳2班",
+    "teacher": "魏伟成",
+    "teacher_id": [
+      "Teacher_3"
+    ]
+  },
+  {
+    "class_id": "Class_31",
+    "className": "篮球1班",
+    "teacher": "侯思宇",
+    "teacher_id": [
+      "Teacher_9"
+    ]
+  },
+  {
+    "class_id": "Class_32",
+    "className": "羽毛球4班",
+    "teacher": "体育外聘教师",
+    "teacher_id": [
+      "Teacher_4"
+    ]
+  },
+  {
+    "class_id": "Class_33",
+    "className": "轮滑1班",
+    "teacher": "孙颜",
+    "teacher_id": [
+      "Teacher_10"
+    ]
+  },
+  {
+    "class_id": "Class_34",
+    "className": "篮球2班",
+    "teacher": "赵飞",
+    "teacher_id": [
+      "Teacher_8"
+    ]
+  },
+  {
+    "class_id": "Class_35",
+    "className": "英文1班",
+    "teacher": "虞亚军",
+    "teacher_id": [
+      "Teacher_12"
+    ]
+  },
+  {
+    "class_id": "Class_36",
+    "className": "英文2班",
+    "teacher": "虞亚军",
+    "teacher_id": [
+      "Teacher_12"
+    ]
+  },
+  {
+    "class_id": "Class_37",
+    "className": "英文班",
+    "teacher": "黄文忠",
+    "teacher_id": [
+      "Teacher_13"
+    ]
+  },
+  {
+    "class_id": "Class_38",
+    "className": "中英双语班",
+    "teacher": "李瑞熙",
+    "teacher_id": [
+      "Teacher_14"
+    ]
+  },
+  {
+    "class_id": "Class_39",
+    "className": "英文班",
+    "teacher": "邓怿",
+    "teacher_id": [
+      "Teacher_15"
+    ]
+  },
+  {
+    "class_id": "Class_40",
+    "className": "中英双语班",
+    "teacher": "唐圆圆",
+    "teacher_id": [
+      "Teacher_16"
+    ]
+  },
+  {
+    "class_id": "Class_41",
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "王春燕",
+    "teacher_id": [
+      "Teacher_17",
+      "Teacher_18",
+      "Teacher_19",
+      "Teacher_20",
+      "Teacher_21"
+    ]
+  },
+  {
+    "class_id": "Class_42",
+    "className": "英文班",
+    "teacher": "刘言军",
+    "teacher_id": [
+      "Teacher_22"
+    ]
+  },
+  {
+    "class_id": "Class_43",
+    "className": "英文班",
+    "teacher": "\t刘烨庞",
+    "teacher_id": [
+      "Teacher_23"
+    ]
+  },
+  {
+    "class_id": "Class_44",
+    "className": "中英双语班",
+    "teacher": "陈义明",
+    "teacher_id": [
+      "Teacher_24",
+      "Teacher_25"
+    ]
+  },
+  {
+    "class_id": "Class_45",
+    "className": "中文班",
+    "teacher": "匡星星",
+    "teacher_id": [
+      "Teacher_26"
+    ]
+  },
+  {
+    "class_id": "Class_46",
+    "className": "中文班",
+    "teacher": "徐晶",
+    "teacher_id": [
+      "Teacher_27"
+    ]
+  },
+  {
+    "class_id": "Class_47",
+    "className": "中文班",
+    "teacher": "匡星星",
+    "teacher_id": [
+      "Teacher_26"
+    ]
+  },
+  {
+    "class_id": "Class_48",
+    "className": "英文班",
+    "teacher": "Peter Pimpl",
+    "teacher_id": [
+      "Teacher_28"
+    ]
+  },
+  {
+    "class_id": "Class_49",
+    "className": "英文班",
+    "teacher": "肖啸川",
+    "teacher_id": [
+      "Teacher_29",
+      "Teacher_30"
+    ]
+  },
+  {
+    "class_id": "Class_50",
+    "className": "英文班-实验3班",
+    "teacher": "郝祁",
+    "teacher_id": [
+      "Teacher_31"
+    ]
+  },
+  {
+    "class_id": "Class_51",
+    "className": "英文班-实验4班",
+    "teacher": "郝祁",
+    "teacher_id": [
+      "Teacher_31"
+    ]
+  },
+  {
+    "class_id": "Class_52",
+    "className": "英文班-实验2班",
+    "teacher": "郝祁",
+    "teacher_id": [
+      "Teacher_31"
+    ]
+  },
+  {
+    "class_id": "Class_53",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "郝祁",
+    "teacher_id": [
+      "Teacher_31"
+    ]
+  },
+  {
+    "class_id": "Class_54",
+    "className": "英文班（材料专业学生选此班）",
+    "teacher": "田雷蕾",
+    "teacher_id": [
+      "Teacher_32"
+    ]
+  },
+  {
+    "class_id": "Class_55",
+    "className": "中英双语（环境专业同学选此班）",
+    "teacher": "唐圆圆",
+    "teacher_id": [
+      "Teacher_16"
+    ]
+  },
+  {
+    "class_id": "Class_56",
+    "className": "中英双语班",
+    "teacher": "张文勇",
+    "teacher_id": [
+      "Teacher_33"
+    ]
+  },
+  {
+    "class_id": "Class_57",
+    "className": "中英双语班",
+    "teacher": "罗丹",
+    "teacher_id": [
+      "Teacher_34"
+    ]
+  },
+  {
+    "class_id": "Class_58",
+    "className": "中文1班",
+    "teacher": "王德军",
+    "teacher_id": [
+      "Teacher_35"
+    ]
+  },
+  {
+    "class_id": "Class_59",
+    "className": "中文9班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_60",
+    "className": "中文7班",
+    "teacher": "王德军",
+    "teacher_id": [
+      "Teacher_35"
+    ]
+  },
+  {
+    "class_id": "Class_61",
+    "className": "中文5班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_62",
+    "className": "中文3班",
+    "teacher": "乐正",
+    "teacher_id": [
+      "Teacher_38"
+    ]
+  },
+  {
+    "class_id": "Class_63",
+    "className": "中文6班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_64",
+    "className": "中文4班",
+    "teacher": "乐正",
+    "teacher_id": [
+      "Teacher_38"
+    ]
+  },
+  {
+    "class_id": "Class_65",
+    "className": "中文2班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_66",
+    "className": "中文8班",
+    "teacher": "王德军",
+    "teacher_id": [
+      "Teacher_35"
+    ]
+  },
+  {
+    "class_id": "Class_67",
+    "className": "中英双语班",
+    "teacher": "陈斌",
+    "teacher_id": [
+      "Teacher_39"
+    ]
+  },
+  {
+    "class_id": "Class_68",
+    "className": "中英双语",
+    "teacher": "刘青松",
+    "teacher_id": [
+      "Teacher_40"
+    ]
+  },
+  {
+    "class_id": "Class_69",
+    "className": "中英双语班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_70",
+    "className": "中英双语班-习题1班",
+    "teacher": "何俊锋",
+    "teacher_id": [
+      "Teacher_41"
+    ]
+  },
+  {
+    "class_id": "Class_71",
+    "className": "中英双语班-习题2班",
+    "teacher": "何俊锋",
+    "teacher_id": [
+      "Teacher_41"
+    ]
+  },
+  {
+    "class_id": "Class_72",
+    "className": "英文班-习题3班",
+    "teacher": "GARG NAVEEN KUMAR ",
+    "teacher_id": [
+      "Teacher_42"
+    ]
+  },
+  {
+    "class_id": "Class_73",
+    "className": "中英双语班",
+    "teacher": "谢小江",
+    "teacher_id": [
+      "Teacher_43"
+    ]
+  },
+  {
+    "class_id": "Class_74",
+    "className": "中英双语班",
+    "teacher": "柳向东",
+    "teacher_id": [
+      "Teacher_44"
+    ]
+  },
+  {
+    "class_id": "Class_75",
+    "className": "中英双语班",
+    "teacher": "曾千里",
+    "teacher_id": [
+      "Teacher_45",
+      "Teacher_46"
+    ]
+  },
+  {
+    "class_id": "Class_76",
+    "className": "英文班",
+    "teacher": "傅宗玫",
+    "teacher_id": [
+      "Teacher_47"
+    ]
+  },
+  {
+    "class_id": "Class_77",
+    "className": "英文班",
+    "teacher": "严明",
+    "teacher_id": [
+      "Teacher_48"
+    ]
+  },
+  {
+    "class_id": "Class_78",
+    "className": "中英双语",
+    "teacher": "张传伦",
+    "teacher_id": [
+      "Teacher_49"
+    ]
+  },
+  {
+    "class_id": "Class_79",
+    "className": "中英双语",
+    "teacher": "彭诚",
+    "teacher_id": [
+      "Teacher_50"
+    ]
+  },
+  {
+    "class_id": "Class_80",
+    "className": "中文班",
+    "teacher": "熊鹰",
+    "teacher_id": [
+      "Teacher_51"
+    ]
+  },
+  {
+    "class_id": "Class_81",
+    "className": "中英双语班",
+    "teacher": "GUOAN CHEN",
+    "teacher_id": [
+      "Teacher_52",
+      "Teacher_53",
+      "Teacher_54",
+      "Teacher_55"
+    ]
+  },
+  {
+    "class_id": "Class_82",
+    "className": "中英双语班",
+    "teacher": "杨燕",
+    "teacher_id": [
+      "Teacher_56"
+    ]
+  },
+  {
+    "class_id": "Class_83",
+    "className": "英文班",
+    "teacher": "韩品连",
+    "teacher_id": [
+      "Teacher_57"
+    ]
+  },
+  {
+    "class_id": "Class_84",
+    "className": "中英双语",
+    "teacher": "郭震",
+    "teacher_id": [
+      "Teacher_58"
+    ]
+  },
+  {
+    "class_id": "Class_85",
+    "className": "中英双语班",
+    "teacher": "黄渊建",
+    "teacher_id": [
+      "Teacher_59",
+      "Teacher_60"
+    ]
+  },
+  {
+    "class_id": "Class_86",
+    "className": "中英双语",
+    "teacher": "李芯芯",
+    "teacher_id": [
+      "Teacher_61"
+    ]
+  },
+  {
+    "class_id": "Class_87",
+    "className": "英文班",
+    "teacher": "王小静",
+    "teacher_id": [
+      "Teacher_62",
+      "Teacher_63"
+    ]
+  },
+  {
+    "class_id": "Class_88",
+    "className": "英文班",
+    "teacher": "何振宇",
+    "teacher_id": [
+      "Teacher_64"
+    ]
+  },
+  {
+    "class_id": "Class_89",
+    "className": "中文1班",
+    "teacher": "汪飞",
+    "teacher_id": [
+      "Teacher_65"
+    ]
+  },
+  {
+    "class_id": "Class_90",
+    "className": "中文2班",
+    "teacher": "王恺",
+    "teacher_id": [
+      "Teacher_66"
+    ]
+  },
+  {
+    "class_id": "Class_91",
+    "className": "中文班",
+    "teacher": "刘凯军",
+    "teacher_id": [
+      "Teacher_67"
+    ]
+  },
+  {
+    "class_id": "Class_92",
+    "className": "中英双语班",
+    "teacher": "方鑫定",
+    "teacher_id": [
+      "Teacher_68"
+    ]
+  },
+  {
+    "class_id": "Class_93",
+    "className": "英文班",
+    "teacher": "王连平",
+    "teacher_id": [
+      "Teacher_69"
+    ]
+  },
+  {
+    "class_id": "Class_94",
+    "className": "中文1班",
+    "teacher": "乐正",
+    "teacher_id": [
+      "Teacher_38"
+    ]
+  },
+  {
+    "class_id": "Class_95",
+    "className": "中文4班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_96",
+    "className": "中文2班",
+    "teacher": "乐正",
+    "teacher_id": [
+      "Teacher_38"
+    ]
+  },
+  {
+    "class_id": "Class_97",
+    "className": "中文5班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_98",
+    "className": "中文3班",
+    "teacher": "李翔",
+    "teacher_id": [
+      "Teacher_37"
+    ]
+  },
+  {
+    "class_id": "Class_99",
+    "className": "英文班-实验1班",
+    "teacher": "肖啸川",
+    "teacher_id": [
+      "Teacher_70",
+      "Teacher_30"
+    ]
+  },
+  {
+    "class_id": "Class_100",
+    "className": "中英双语班-实验4班",
+    "teacher": "魏艳",
+    "teacher_id": [
+      "Teacher_70"
+    ]
+  },
+  {
+    "class_id": "Class_101",
+    "className": "\t中英双语班-实验3班",
+    "teacher": "魏艳",
+    "teacher_id": [
+      "Teacher_70"
+    ]
+  },
+  {
+    "class_id": "Class_102",
+    "className": "英文班-实验2班",
+    "teacher": "肖啸川",
+    "teacher_id": [
+      "Teacher_70",
+      "Teacher_30"
+    ]
+  },
+  {
+    "class_id": "Class_103",
+    "className": "中文1班",
+    "teacher": "张守民",
+    "teacher_id": [
+      "Teacher_71"
+    ]
+  },
+  {
+    "class_id": "Class_104",
+    "className": "中文8班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_105",
+    "className": "中文5班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_106",
+    "className": "中文7班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_107",
+    "className": "中文4班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_108",
+    "className": "中文2班",
+    "teacher": "张守民",
+    "teacher_id": [
+      "Teacher_71"
+    ]
+  },
+  {
+    "class_id": "Class_109",
+    "className": "中文3班",
+    "teacher": "张守民",
+    "teacher_id": [
+      "Teacher_71"
+    ]
+  },
+  {
+    "class_id": "Class_110",
+    "className": "中文6班",
+    "teacher": "杨晗旭",
+    "teacher_id": [
+      "Teacher_36"
+    ]
+  },
+  {
+    "class_id": "Class_111",
+    "className": "英文班",
+    "teacher": "曾千里",
+    "teacher_id": [
+      "Teacher_72",
+      "Teacher_46"
+    ]
+  },
+  {
+    "class_id": "Class_112",
+    "className": "英文班",
+    "teacher": "胡大宁",
+    "teacher_id": [
+      "Teacher_73"
+    ]
+  },
+  {
+    "class_id": "Class_113",
+    "className": "中文2班",
+    "teacher": "祖嘉合",
+    "teacher_id": [
+      "Teacher_74"
+    ]
+  },
+  {
+    "class_id": "Class_114",
+    "className": "中文5班",
+    "teacher": "帅松林",
+    "teacher_id": [
+      "Teacher_75"
+    ]
+  },
+  {
+    "class_id": "Class_115",
+    "className": "中文3班",
+    "teacher": "祖嘉合",
+    "teacher_id": [
+      "Teacher_74"
+    ]
+  },
+  {
+    "class_id": "Class_116",
+    "className": "中文1班",
+    "teacher": "祖嘉合",
+    "teacher_id": [
+      "Teacher_74"
+    ]
+  },
+  {
+    "class_id": "Class_117",
+    "className": "中文6班",
+    "teacher": "帅松林",
+    "teacher_id": [
+      "Teacher_75"
+    ]
+  },
+  {
+    "class_id": "Class_118",
+    "className": "中文4班",
+    "teacher": "帅松林",
+    "teacher_id": [
+      "Teacher_75"
+    ]
+  },
+  {
+    "class_id": "Class_119",
+    "className": "中英双语",
+    "teacher": "徐景平",
+    "teacher_id": [
+      "Teacher_76"
+    ]
+  },
+  {
+    "class_id": "Class_120",
+    "className": "英文班",
+    "teacher": "张幼宽",
+    "teacher_id": [
+      "Teacher_77"
+    ]
+  },
+  {
+    "class_id": "Class_121",
+    "className": "中英双语班",
+    "teacher": "黄业绪",
+    "teacher_id": [
+      "Teacher_60",
+      "Teacher_78",
+      "Teacher_79"
+    ]
+  },
+  {
+    "class_id": "Class_122",
+    "className": "中英双语班",
+    "teacher": "仲寒冰",
+    "teacher_id": [
+      "Teacher_80"
+    ]
+  },
+  {
+    "class_id": "Class_123",
+    "className": "英文班",
+    "teacher": "黄业绪",
+    "teacher_id": [
+      "Teacher_81",
+      "Teacher_79"
+    ]
+  },
+  {
+    "class_id": "Class_124",
+    "className": "中英双语班",
+    "teacher": "徐晶",
+    "teacher_id": [
+      "Teacher_27"
+    ]
+  },
+  {
+    "class_id": "Class_125",
+    "className": "中文班",
+    "teacher": "王建春",
+    "teacher_id": [
+      "Teacher_82"
+    ]
+  },
+  {
+    "class_id": "Class_126",
+    "className": "中英双语习题2班",
+    "teacher": "王勇",
+    "teacher_id": [
+      "Teacher_83"
+    ]
+  },
+  {
+    "class_id": "Class_127",
+    "className": "中英双语班习题1班",
+    "teacher": "王勇",
+    "teacher_id": [
+      "Teacher_83"
+    ]
+  },
+  {
+    "class_id": "Class_128",
+    "className": "英文班-习题3班",
+    "teacher": "Maria Alejandra Rodriguez Hert",
+    "teacher_id": [
+      "Teacher_84"
+    ]
+  },
+  {
+    "class_id": "Class_129",
+    "className": "中英双语班",
+    "teacher": "刘俊国",
+    "teacher_id": [
+      "Teacher_85"
+    ]
+  },
+  {
+    "class_id": "Class_130",
+    "className": "中文班",
+    "teacher": "黄冲",
+    "teacher_id": [
+      "Teacher_86"
+    ]
+  },
+  {
+    "class_id": "Class_131",
+    "className": "中英双语班",
+    "teacher": "杨剑",
+    "teacher_id": [
+      "Teacher_87"
+    ]
+  },
+  {
+    "class_id": "Class_132",
+    "className": "中英双语班",
+    "teacher": "王俊坚",
+    "teacher_id": [
+      "Teacher_88"
+    ]
+  },
+  {
+    "class_id": "Class_133",
+    "className": "中英双语班",
+    "teacher": "夏雨",
+    "teacher_id": [
+      "Teacher_89"
+    ]
+  },
+  {
+    "class_id": "Class_134",
+    "className": "中英双语班",
+    "teacher": "陈晓龙",
+    "teacher_id": [
+      "Teacher_90"
+    ]
+  },
+  {
+    "class_id": "Class_135",
+    "className": "英文班",
+    "teacher": "Georgios Theodoropoulos ",
+    "teacher_id": [
+      "Teacher_91"
+    ]
+  },
+  {
+    "class_id": "Class_136",
+    "className": "英文班",
+    "teacher": "李景治",
+    "teacher_id": [
+      "Teacher_92"
+    ]
+  },
+  {
+    "class_id": "Class_137",
+    "className": "英文班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_138",
+    "className": "中英双语班",
+    "teacher": "张振国",
+    "teacher_id": [
+      "Teacher_93"
+    ]
+  },
+  {
+    "class_id": "Class_139",
+    "className": "英文班",
+    "teacher": "陈放怡",
+    "teacher_id": [
+      "Teacher_94"
+    ]
+  },
+  {
+    "class_id": "Class_140",
+    "className": "中英双语班",
+    "teacher": "景志成",
+    "teacher_id": [
+      "Teacher_95"
+    ]
+  },
+  {
+    "class_id": "Class_141",
+    "className": "中英双语",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_142",
+    "className": "英文班",
+    "teacher": "朱一飞",
+    "teacher_id": [
+      "Teacher_96"
+    ]
+  },
+  {
+    "class_id": "Class_143",
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "朱秀珍",
+    "teacher_id": [
+      "Teacher_97",
+      "Teacher_98",
+      "Teacher_17"
+    ]
+  },
+  {
+    "class_id": "Class_144",
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "叶飞",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_100"
+    ]
+  },
+  {
+    "class_id": "Class_145",
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "叶飞",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_100"
+    ]
+  },
+  {
+    "class_id": "Class_146",
+    "className": "英文班-实验3班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "王海鸥",
+    "teacher_id": [
+      "Teacher_100",
+      "Teacher_101",
+      "Teacher_102"
+    ]
+  },
+  {
+    "class_id": "Class_147",
+    "className": "英文班",
+    "teacher": "王赫",
+    "teacher_id": [
+      "Teacher_103"
+    ]
+  },
+  {
+    "class_id": "Class_148",
+    "className": "英文班",
+    "teacher": "朱一飞",
+    "teacher_id": [
+      "Teacher_96"
+    ]
+  },
+  {
+    "class_id": "Class_149",
+    "className": "英文班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_150",
+    "className": "中英双语班",
+    "teacher": "何炳生",
+    "teacher_id": [
+      "Teacher_104"
+    ]
+  },
+  {
+    "class_id": "Class_151",
+    "className": "中英双语班",
+    "teacher": "冯炼",
+    "teacher_id": [
+      "Teacher_105"
+    ]
+  },
+  {
+    "class_id": "Class_152",
+    "className": "中文班",
+    "teacher": "GUOAN CHEN",
+    "teacher_id": [
+      "Teacher_33",
+      "Teacher_106",
+      "Teacher_107",
+      "Teacher_54",
+      "Teacher_55"
+    ]
+  },
+  {
+    "class_id": "Class_153",
+    "className": "中英双语班",
+    "teacher": "徐梽川",
+    "teacher_id": [
+      "Teacher_108"
+    ]
+  },
+  {
+    "class_id": "Class_154",
+    "className": "中文班",
+    "teacher": "王敏",
+    "teacher_id": [
+      "Teacher_109"
+    ]
+  },
+  {
+    "class_id": "Class_155",
+    "className": "英文班",
+    "teacher": "周敏",
+    "teacher_id": [
+      "Teacher_110"
+    ]
+  },
+  {
+    "class_id": "Class_156",
+    "className": "中英双语班",
+    "teacher": "蔡敬衡",
+    "teacher_id": [
+      "Teacher_111"
+    ]
+  },
+  {
+    "class_id": "Class_157",
+    "className": "中英双语班",
+    "teacher": "付成龙",
+    "teacher_id": [
+      "Teacher_112"
+    ]
+  },
+  {
+    "class_id": "Class_158",
+    "className": "英文班",
+    "teacher": "陈琨",
+    "teacher_id": [
+      "Teacher_113"
+    ]
+  },
+  {
+    "class_id": "Class_159",
+    "className": "中英双语",
+    "teacher": "彭诚",
+    "teacher_id": [
+      "Teacher_50"
+    ]
+  },
+  {
+    "class_id": "Class_160",
+    "className": "中英双语班",
+    "teacher": "陈霏",
+    "teacher_id": [
+      "Teacher_114"
+    ]
+  },
+  {
+    "class_id": "Class_161",
+    "className": "中英双语班",
+    "teacher": "易树平",
+    "teacher_id": [
+      "Teacher_115"
+    ]
+  },
+  {
+    "class_id": "Class_162",
+    "className": "中英双语",
+    "teacher": "陈继勇",
+    "teacher_id": [
+      "Teacher_116"
+    ]
+  },
+  {
+    "class_id": "Class_163",
+    "className": "中英双语班",
+    "teacher": "单肖文",
+    "teacher_id": [
+      "Teacher_117"
+    ]
+  },
+  {
+    "class_id": "Class_164",
+    "className": "中英双语1班-实验2班",
+    "teacher": "程京德",
+    "teacher_id": [
+      "Teacher_118"
+    ]
+  },
+  {
+    "class_id": "Class_165",
+    "className": "中英双语1班-实验5班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_118",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_166",
+    "className": "中英双语1班-实验3班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_118",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_167",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "程京德",
+    "teacher_id": [
+      "Teacher_118"
+    ]
+  },
+  {
+    "class_id": "Class_168",
+    "className": "中英双语2班-实验6班",
+    "teacher": "程京德",
+    "teacher_id": [
+      "Teacher_118"
+    ]
+  },
+  {
+    "class_id": "Class_169",
+    "className": "中英双语1班-实验4班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_118",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_170",
+    "className": "中英双语班",
+    "teacher": "郑一",
+    "teacher_id": [
+      "Teacher_120"
+    ]
+  },
+  {
+    "class_id": "Class_171",
+    "className": "中英双语班",
+    "teacher": "刘晓宇",
+    "teacher_id": [
+      "Teacher_121",
+      "Teacher_122"
+    ]
+  },
+  {
+    "class_id": "Class_172",
+    "className": "英文班",
+    "teacher": "余浩",
+    "teacher_id": [
+      "Teacher_123"
+    ]
+  },
+  {
+    "class_id": "Class_173",
+    "className": "英文班",
+    "teacher": "刘轶军",
+    "teacher_id": [
+      "Teacher_124"
+    ]
+  },
+  {
+    "class_id": "Class_174",
+    "className": "英文班",
+    "teacher": "Luke Gibson",
+    "teacher_id": [
+      "Teacher_125"
+    ]
+  },
+  {
+    "class_id": "Class_175",
+    "className": "中文2班",
+    "teacher": "张涛",
+    "teacher_id": [
+      "Teacher_126"
+    ]
+  },
+  {
+    "class_id": "Class_176",
+    "className": "中文1班",
+    "teacher": "张涛",
+    "teacher_id": [
+      "Teacher_126"
+    ]
+  },
+  {
+    "class_id": "Class_177",
+    "className": "中英双语班",
+    "teacher": "翁文康",
+    "teacher_id": [
+      "Teacher_127"
+    ]
+  },
+  {
+    "class_id": "Class_178",
+    "className": "中英双语班",
+    "teacher": "骆宗伟",
+    "teacher_id": [
+      "Teacher_128"
+    ]
+  },
+  {
+    "class_id": "Class_179",
+    "className": "英文班",
+    "teacher": "王新杰",
+    "teacher_id": [
+      "Teacher_129"
+    ]
+  },
+  {
+    "class_id": "Class_180",
+    "className": "英文班",
+    "teacher": "张振",
+    "teacher_id": [
+      "Teacher_130"
+    ]
+  },
+  {
+    "class_id": "Class_181",
+    "className": "英文班（缺课不补课，缺课当次成绩记为0分）\t",
+    "teacher": "刘星",
+    "teacher_id": [
+      "Teacher_18",
+      "Teacher_131",
+      "Teacher_19",
+      "Teacher_20",
+      "Teacher_97"
+    ]
+  },
+  {
+    "class_id": "Class_182",
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "刘星",
+    "teacher_id": [
+      "Teacher_18",
+      "Teacher_131",
+      "Teacher_19",
+      "Teacher_20",
+      "Teacher_97"
+    ]
+  },
+  {
+    "class_id": "Class_183",
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "刘星",
+    "teacher_id": [
+      "Teacher_18",
+      "Teacher_131",
+      "Teacher_19",
+      "Teacher_20",
+      "Teacher_97"
+    ]
+  },
+  {
+    "class_id": "Class_184",
+    "className": "英文班",
+    "teacher": "余剑峤",
+    "teacher_id": [
+      "Teacher_132"
+    ]
+  },
+  {
+    "class_id": "Class_185",
+    "className": "英文班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_186",
+    "className": "中英双语班",
+    "teacher": "杨旭宁",
+    "teacher_id": [
+      "Teacher_133"
+    ]
+  },
+  {
+    "class_id": "Class_187",
+    "className": "中英双语班",
+    "teacher": "吴勇波",
+    "teacher_id": [
+      "Teacher_134"
+    ]
+  },
+  {
+    "class_id": "Class_188",
+    "className": "中文班",
+    "teacher": "熊鹰",
+    "teacher_id": [
+      "Teacher_51"
+    ]
+  },
+  {
+    "class_id": "Class_189",
+    "className": "中英双语班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "吕沫",
+    "teacher_id": [
+      "Teacher_135",
+      "Teacher_136"
+    ]
+  },
+  {
+    "class_id": "Class_190",
+    "className": "中英双语班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_191",
+    "className": "中文班",
+    "teacher": "卢海舟",
+    "teacher_id": [
+      "Teacher_137"
+    ]
+  },
+  {
+    "class_id": "Class_192",
+    "className": "\t中英双语1班",
+    "teacher": "赵文举",
+    "teacher_id": [
+      "Teacher_138"
+    ]
+  },
+  {
+    "class_id": "Class_193",
+    "className": "英文班",
+    "teacher": "刘重阳",
+    "teacher_id": [
+      "Teacher_139"
+    ]
+  },
+  {
+    "class_id": "Class_194",
+    "className": "中英双语",
+    "teacher": "陈斌",
+    "teacher_id": [
+      "Teacher_39"
+    ]
+  },
+  {
+    "class_id": "Class_195",
+    "className": "英文班",
+    "teacher": "Leonardo Modesto",
+    "teacher_id": [
+      "Teacher_140"
+    ]
+  },
+  {
+    "class_id": "Class_196",
+    "className": "中英双语班",
+    "teacher": "金融外聘老师",
+    "teacher_id": [
+      "Teacher_141"
+    ]
+  },
+  {
+    "class_id": "Class_197",
+    "className": "英文班",
+    "teacher": "余鹏",
+    "teacher_id": [
+      "Teacher_142"
+    ]
+  },
+  {
+    "class_id": "Class_198",
+    "className": "中英双语班-实验2班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_143",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_199",
+    "className": "中英双语班-实验1班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_143",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_200",
+    "className": "中英双语班",
+    "teacher": "陆为",
+    "teacher_id": [
+      "Teacher_145"
+    ]
+  },
+  {
+    "class_id": "Class_201",
+    "className": "中英双语班",
+    "teacher": "张元竹",
+    "teacher_id": [
+      "Teacher_146"
+    ]
+  },
+  {
+    "class_id": "Class_202",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "郑锋",
+    "teacher_id": [
+      "Teacher_147"
+    ]
+  },
+  {
+    "class_id": "Class_203",
+    "className": "英文班-实验3班",
+    "teacher": "汤慧梅",
+    "teacher_id": [
+      "Teacher_147",
+      "Teacher_148"
+    ]
+  },
+  {
+    "class_id": "Class_204",
+    "className": "英文班-实验2班",
+    "teacher": "汤慧梅",
+    "teacher_id": [
+      "Teacher_147",
+      "Teacher_148"
+    ]
+  },
+  {
+    "class_id": "Class_205",
+    "className": "英文班",
+    "teacher": "欧西军",
+    "teacher_id": [
+      "Teacher_149"
+    ]
+  },
+  {
+    "class_id": "Class_206",
+    "className": "中英双语班",
+    "teacher": "黄鸿达",
+    "teacher_id": [
+      "Teacher_150"
+    ]
+  },
+  {
+    "class_id": "Class_207",
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "林飚",
+    "teacher_id": [
+      "Teacher_151",
+      "Teacher_152"
+    ]
+  },
+  {
+    "class_id": "Class_208",
+    "className": "\t中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "贾方兴",
+    "teacher_id": [
+      "Teacher_153",
+      "Teacher_154"
+    ]
+  },
+  {
+    "class_id": "Class_209",
+    "className": "\t英文班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "贾方兴",
+    "teacher_id": [
+      "Teacher_153",
+      "Teacher_154"
+    ]
+  },
+  {
+    "class_id": "Class_210",
+    "className": "中英双语班",
+    "teacher": "刘东",
+    "teacher_id": [
+      "Teacher_155"
+    ]
+  },
+  {
+    "class_id": "Class_211",
+    "className": "中英双语班",
+    "teacher": "黄巍",
+    "teacher_id": [
+      "Teacher_156"
+    ]
+  },
+  {
+    "class_id": "Class_212",
+    "className": "中文班",
+    "teacher": "生物系外聘老师",
+    "teacher_id": [
+      "Teacher_157"
+    ]
+  },
+  {
+    "class_id": "Class_213",
+    "className": "中英双语班（每次课都要做pre且计入最终成绩，不补课）",
+    "teacher": "郭红卫",
+    "teacher_id": [
+      "Teacher_158"
+    ]
+  },
+  {
+    "class_id": "Class_214",
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "张敏",
+    "teacher_id": [
+      "Teacher_136",
+      "Teacher_159"
+    ]
+  },
+  {
+    "class_id": "Class_215",
+    "className": "中英双语3班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "马小英",
+    "teacher_id": [
+      "Teacher_135",
+      "Teacher_153"
+    ]
+  },
+  {
+    "class_id": "Class_216",
+    "className": "中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "张敏",
+    "teacher_id": [
+      "Teacher_135",
+      "Teacher_159"
+    ]
+  },
+  {
+    "class_id": "Class_217",
+    "className": "英文班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "吕沫",
+    "teacher_id": [
+      "Teacher_136"
+    ]
+  },
+  {
+    "class_id": "Class_218",
+    "className": "英文2班",
+    "teacher": "王冠宇",
+    "teacher_id": [
+      "Teacher_160"
+    ]
+  },
+  {
+    "class_id": "Class_219",
+    "className": "英文1班",
+    "teacher": "肖国芝",
+    "teacher_id": [
+      "Teacher_161"
+    ]
+  },
+  {
+    "class_id": "Class_220",
+    "className": "英文班",
+    "teacher": "姬生健",
+    "teacher_id": [
+      "Teacher_162"
+    ]
+  },
+  {
+    "class_id": "Class_221",
+    "className": "英文-实验中英双语2组（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "张敏",
+    "teacher_id": [
+      "Teacher_156",
+      "Teacher_136",
+      "Teacher_159"
+    ]
+  },
+  {
+    "class_id": "Class_222",
+    "className": "英文-实验中英双语1组（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "张敏",
+    "teacher_id": [
+      "Teacher_156",
+      "Teacher_135",
+      "Teacher_159"
+    ]
+  },
+  {
+    "class_id": "Class_223",
+    "className": "英文-实验英文组（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "贾方兴",
+    "teacher_id": [
+      "Teacher_156",
+      "Teacher_135",
+      "Teacher_154"
+    ]
+  },
+  {
+    "class_id": "Class_224",
+    "className": "中英双语班",
+    "teacher": "魏志毅",
+    "teacher_id": [
+      "Teacher_163"
+    ]
+  },
+  {
+    "class_id": "Class_225",
+    "className": "中文3班",
+    "teacher": "杨珺",
+    "teacher_id": [
+      "Teacher_164",
+      "Teacher_165",
+      "Teacher_166",
+      "Teacher_167",
+      "Teacher_168",
+      "Teacher_169",
+      "Teacher_170",
+      "Teacher_171",
+      "Teacher_172",
+      "Teacher_173"
+    ]
+  },
+  {
+    "class_id": "Class_226",
+    "className": "中文4班",
+    "teacher": "杨珺",
+    "teacher_id": [
+      "Teacher_164",
+      "Teacher_165",
+      "Teacher_166",
+      "Teacher_167",
+      "Teacher_169",
+      "Teacher_168",
+      "Teacher_171",
+      "Teacher_170",
+      "Teacher_172",
+      "Teacher_173"
+    ]
+  },
+  {
+    "class_id": "Class_227",
+    "className": "中文2班",
+    "teacher": "杨珺",
+    "teacher_id": [
+      "Teacher_164",
+      "Teacher_165",
+      "Teacher_166",
+      "Teacher_167",
+      "Teacher_169",
+      "Teacher_168",
+      "Teacher_171",
+      "Teacher_170",
+      "Teacher_172",
+      "Teacher_173"
+    ]
+  },
+  {
+    "class_id": "Class_228",
+    "className": "中文1班",
+    "teacher": "杨珺",
+    "teacher_id": [
+      "Teacher_164",
+      "Teacher_165",
+      "Teacher_166",
+      "Teacher_167",
+      "Teacher_168",
+      "Teacher_169",
+      "Teacher_170",
+      "Teacher_171",
+      "Teacher_172",
+      "Teacher_173"
+    ]
+  },
+  {
+    "class_id": "Class_229",
+    "className": "中英双语班",
+    "teacher": "林玉峰",
+    "teacher_id": [
+      "Teacher_174",
+      "Teacher_68",
+      "Teacher_175",
+      "Teacher_176",
+      "Teacher_177"
+    ]
+  },
+  {
+    "class_id": "Class_230",
+    "className": "中英双语班",
+    "teacher": "孙小卫",
+    "teacher_id": [
+      "Teacher_178"
+    ]
+  },
+  {
+    "class_id": "Class_231",
+    "className": "中英双语",
+    "teacher": "陈斌",
+    "teacher_id": [
+      "Teacher_39"
+    ]
+  },
+  {
+    "class_id": "Class_232",
+    "className": "中英双语班",
+    "teacher": "魏艳",
+    "teacher_id": [
+      "Teacher_70"
+    ]
+  },
+  {
+    "class_id": "Class_233",
+    "className": "中文班",
+    "teacher": "黄冲",
+    "teacher_id": [
+      "Teacher_86"
+    ]
+  },
+  {
+    "class_id": "Class_234",
+    "className": "英文班",
+    "teacher": "苏琳琳",
+    "teacher_id": [
+      "Teacher_179"
+    ]
+  },
+  {
+    "class_id": "Class_235",
+    "className": "英文班-实验3班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_180",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_236",
+    "className": "英文班-实验2班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_180",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_237",
+    "className": "英文班-实验1班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_180",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_238",
+    "className": "英文班-实验4班",
+    "teacher": "赵耀",
+    "teacher_id": [
+      "Teacher_180",
+      "Teacher_144"
+    ]
+  },
+  {
+    "class_id": "Class_239",
+    "className": "英文班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_240",
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "于月娜",
+    "teacher_id": [
+      "Teacher_181",
+      "Teacher_182"
+    ]
+  },
+  {
+    "class_id": "Class_241",
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "于月娜",
+    "teacher_id": [
+      "Teacher_181",
+      "Teacher_182"
+    ]
+  },
+  {
+    "class_id": "Class_242",
+    "className": "中英双语2班",
+    "teacher": "舒伟",
+    "teacher_id": [
+      "Teacher_183"
+    ]
+  },
+  {
+    "class_id": "Class_243",
+    "className": "中英双语1班",
+    "teacher": "何川",
+    "teacher_id": [
+      "Teacher_184"
+    ]
+  },
+  {
+    "class_id": "Class_244",
+    "className": "中英双语2班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "刘华伟",
+    "teacher_id": [
+      "Teacher_21",
+      "Teacher_185"
+    ]
+  },
+  {
+    "class_id": "Class_245",
+    "className": "中英双语1班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "刘华伟",
+    "teacher_id": [
+      "Teacher_21",
+      "Teacher_185"
+    ]
+  },
+  {
+    "class_id": "Class_246",
+    "className": "中英双语1班",
+    "teacher": "李炳瑞",
+    "teacher_id": [
+      "Teacher_186"
+    ]
+  },
+  {
+    "class_id": "Class_247",
+    "className": "中英双语2班",
+    "teacher": "李炳瑞",
+    "teacher_id": [
+      "Teacher_186"
+    ]
+  },
+  {
+    "class_id": "Class_248",
+    "className": "中英双语班",
+    "teacher": "张绪穆",
+    "teacher_id": [
+      "Teacher_187"
+    ]
+  },
+  {
+    "class_id": "Class_249",
+    "className": "中英双语班",
+    "teacher": "陈忠仁",
+    "teacher_id": [
+      "Teacher_188"
+    ]
+  },
+  {
+    "class_id": "Class_250",
+    "className": "中英双语班（缺课不补课，缺课当次成绩记为0分）",
+    "teacher": "何绮婷",
+    "teacher_id": [
+      "Teacher_20",
+      "Teacher_131",
+      "Teacher_18"
+    ]
+  },
+  {
+    "class_id": "Class_251",
+    "className": "中英双语班",
+    "teacher": "刘心元",
+    "teacher_id": [
+      "Teacher_189"
+    ]
+  },
+  {
+    "class_id": "Class_252",
+    "className": "中文班",
+    "teacher": "徐晨",
+    "teacher_id": [
+      "Teacher_190"
+    ]
+  },
+  {
+    "class_id": "Class_253",
+    "className": "英文班",
+    "teacher": "黄立民",
+    "teacher_id": [
+      "Teacher_191"
+    ]
+  },
+  {
+    "class_id": "Class_254",
+    "className": "英文班",
+    "teacher": "钟龙华",
+    "teacher_id": [
+      "Teacher_192"
+    ]
+  },
+  {
+    "class_id": "Class_255",
+    "className": "英文班",
+    "teacher": "\tAdam Ghandar",
+    "teacher_id": [
+      "Teacher_193"
+    ]
+  },
+  {
+    "class_id": "Class_256",
+    "className": "中英双语班",
+    "teacher": "王琦",
+    "teacher_id": [
+      "Teacher_194"
+    ]
+  },
+  {
+    "class_id": "Class_257",
+    "className": "中英双语班-实验2班",
+    "teacher": "张进",
+    "teacher_id": [
+      "Teacher_195"
+    ]
+  },
+  {
+    "class_id": "Class_258",
+    "className": "中英双语班-实验4班",
+    "teacher": "张进",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_195"
+    ]
+  },
+  {
+    "class_id": "Class_259",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "Alia Asheralieva",
+    "teacher_id": [
+      "Teacher_197"
+    ]
+  },
+  {
+    "class_id": "Class_260",
+    "className": "中英双语班-实验3班",
+    "teacher": "张进",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_195"
+    ]
+  },
+  {
+    "class_id": "Class_261",
+    "className": "中英双语班-实验5班",
+    "teacher": "张进",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_195"
+    ]
+  },
+  {
+    "class_id": "Class_262",
+    "className": "英文班-实验4班",
+    "teacher": "唐博",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_199"
+    ]
+  },
+  {
+    "class_id": "Class_263",
+    "className": "英文班-实验3班",
+    "teacher": "唐博",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_199"
+    ]
+  },
+  {
+    "class_id": "Class_264",
+    "className": "英文班-实验2班",
+    "teacher": "唐博",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_199"
+    ]
+  },
+  {
+    "class_id": "Class_265",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "唐博",
+    "teacher_id": [
+      "Teacher_199"
+    ]
+  },
+  {
+    "class_id": "Class_266",
+    "className": "英文班-实验3班",
+    "teacher": "Shin Hwei Tan",
+    "teacher_id": [
+      "Teacher_200",
+      "Teacher_201"
+    ]
+  },
+  {
+    "class_id": "Class_267",
+    "className": "英文班-实验2班",
+    "teacher": "Shin Hwei Tan",
+    "teacher_id": [
+      "Teacher_200",
+      "Teacher_201"
+    ]
+  },
+  {
+    "class_id": "Class_268",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "Shin Hwei Tan",
+    "teacher_id": [
+      "Teacher_201"
+    ]
+  },
+  {
+    "class_id": "Class_269",
+    "className": "英文班-实验4班",
+    "teacher": "Shin Hwei Tan",
+    "teacher_id": [
+      "Teacher_200",
+      "Teacher_201"
+    ]
+  },
+  {
+    "class_id": "Class_270",
+    "className": "英文班",
+    "teacher": "Elvis Sze-Yeung Liu ",
+    "teacher_id": [
+      "Teacher_202"
+    ]
+  },
+  {
+    "class_id": "Class_271",
+    "className": "英文班",
+    "teacher": "\t刘烨庞",
+    "teacher_id": [
+      "Teacher_23"
+    ]
+  },
+  {
+    "class_id": "Class_272",
+    "className": "中英双语班",
+    "teacher": "程然",
+    "teacher_id": [
+      "Teacher_203"
+    ]
+  },
+  {
+    "class_id": "Class_273",
+    "className": "中英双语",
+    "teacher": "周祐民",
+    "teacher_id": [
+      "Teacher_204"
+    ]
+  },
+  {
+    "class_id": "Class_274",
+    "className": "英文班",
+    "teacher": "曾萍萍",
+    "teacher_id": [
+      "Teacher_205"
+    ]
+  },
+  {
+    "class_id": "Class_275",
+    "className": "英文班",
+    "teacher": "李凯",
+    "teacher_id": [
+      "Teacher_206",
+      "Teacher_207"
+    ]
+  },
+  {
+    "class_id": "Class_276",
+    "className": "中英双语",
+    "teacher": "张传伦",
+    "teacher_id": [
+      "Teacher_49"
+    ]
+  },
+  {
+    "class_id": "Class_277",
+    "className": "英文班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "贾方兴",
+    "teacher_id": [
+      "Teacher_151",
+      "Teacher_154"
+    ]
+  },
+  {
+    "class_id": "Class_278",
+    "className": "中英双语1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "林飚",
+    "teacher_id": [
+      "Teacher_153",
+      "Teacher_152"
+    ]
+  },
+  {
+    "class_id": "Class_279",
+    "className": "中英双语2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "林飚",
+    "teacher_id": [
+      "Teacher_151",
+      "Teacher_152"
+    ]
+  },
+  {
+    "class_id": "Class_280",
+    "className": "中英双语班",
+    "teacher": "融亦鸣",
+    "teacher_id": [
+      "Teacher_208"
+    ]
+  },
+  {
+    "class_id": "Class_281",
+    "className": "中文班",
+    "teacher": "张作泰",
+    "teacher_id": [
+      "Teacher_209"
+    ]
+  },
+  {
+    "class_id": "Class_282",
+    "className": "中英双语班",
+    "teacher": "杨双华",
+    "teacher_id": [
+      "Teacher_210"
+    ]
+  },
+  {
+    "class_id": "Class_283",
+    "className": "中英双语",
+    "teacher": "杨挺",
+    "teacher_id": [
+      "Teacher_211"
+    ]
+  },
+  {
+    "class_id": "Class_284",
+    "className": "中文班",
+    "teacher": "庞利会",
+    "teacher_id": [
+      "Teacher_212"
+    ]
+  },
+  {
+    "class_id": "Class_285",
+    "className": "英文班-实验2班",
+    "teacher": "黄渊建",
+    "teacher_id": [
+      "Teacher_45",
+      "Teacher_60"
+    ]
+  },
+  {
+    "class_id": "Class_286",
+    "className": "英文班-实验1班",
+    "teacher": "曾千里",
+    "teacher_id": [
+      "Teacher_45",
+      "Teacher_46"
+    ]
+  },
+  {
+    "class_id": "Class_287",
+    "className": "英文班",
+    "teacher": "虞亚军",
+    "teacher_id": [
+      "Teacher_12"
+    ]
+  },
+  {
+    "class_id": "Class_288",
+    "className": "中英双语班",
+    "teacher": "张严冬",
+    "teacher_id": [
+      "Teacher_213"
+    ]
+  },
+  {
+    "class_id": "Class_289",
+    "className": "中英双语",
+    "teacher": "吴长锋",
+    "teacher_id": [
+      "Teacher_214"
+    ]
+  },
+  {
+    "class_id": "Class_290",
+    "className": "中文班",
+    "teacher": "徐婷婷",
+    "teacher_id": [
+      "Teacher_165",
+      "Teacher_164",
+      "Teacher_173",
+      "Teacher_168",
+      "Teacher_167",
+      "Teacher_171",
+      "Teacher_172",
+      "Teacher_166",
+      "Teacher_169",
+      "Teacher_170"
+    ]
+  },
+  {
+    "class_id": "Class_291",
+    "className": "英文1班",
+    "teacher": "唐斌",
+    "teacher_id": [
+      "Teacher_206"
+    ]
+  },
+  {
+    "class_id": "Class_292",
+    "className": "英文2班",
+    "teacher": "SONG JINHUA",
+    "teacher_id": [
+      "Teacher_215"
+    ]
+  },
+  {
+    "class_id": "Class_293",
+    "className": "英文班",
+    "teacher": "孙大陟",
+    "teacher_id": [
+      "Teacher_216"
+    ]
+  },
+  {
+    "class_id": "Class_294",
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_217",
+      "Teacher_102",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_295",
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_217",
+      "Teacher_102",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_296",
+    "className": "英文班",
+    "teacher": "程鑫",
+    "teacher_id": [
+      "Teacher_219"
+    ]
+  },
+  {
+    "class_id": "Class_297",
+    "className": "英文班",
+    "teacher": "吴长锋",
+    "teacher_id": [
+      "Teacher_214"
+    ]
+  },
+  {
+    "class_id": "Class_298",
+    "className": "英文班",
+    "teacher": "\tHisao Ishibuchi",
+    "teacher_id": [
+      "Teacher_220"
+    ]
+  },
+  {
+    "class_id": "Class_299",
+    "className": "英文班",
+    "teacher": "张福才",
+    "teacher_id": [
+      "Teacher_221"
+    ]
+  },
+  {
+    "class_id": "Class_300",
+    "className": "中文班",
+    "teacher": "张福才",
+    "teacher_id": [
+      "Teacher_221"
+    ]
+  },
+  {
+    "class_id": "Class_301",
+    "className": "中英双语班",
+    "teacher": "崔德虎",
+    "teacher_id": [
+      "Teacher_222"
+    ]
+  },
+  {
+    "class_id": "Class_302",
+    "className": "中英双语2班，实验3班",
+    "teacher": "Aung Ko Ko KYAW",
+    "teacher_id": [
+      "Teacher_223",
+      "Teacher_224"
+    ]
+  },
+  {
+    "class_id": "Class_303",
+    "className": "中英双语1班，实验1班",
+    "teacher": "于洪宇",
+    "teacher_id": [
+      "Teacher_223",
+      "Teacher_225"
+    ]
+  },
+  {
+    "class_id": "Class_304",
+    "className": "中英双语2班，英文实验4班",
+    "teacher": "Aung Ko Ko KYAW",
+    "teacher_id": [
+      "Teacher_223",
+      "Teacher_224"
+    ]
+  },
+  {
+    "class_id": "Class_305",
+    "className": "中英双语1班，实验2班",
+    "teacher": "于洪宇",
+    "teacher_id": [
+      "Teacher_223",
+      "Teacher_225"
+    ]
+  },
+  {
+    "class_id": "Class_306",
+    "className": "中英双语班",
+    "teacher": "王锐",
+    "teacher_id": [
+      "Teacher_226",
+      "Teacher_227"
+    ]
+  },
+  {
+    "class_id": "Class_307",
+    "className": "英文班，实验1班",
+    "teacher": "吴光",
+    "teacher_id": [
+      "Teacher_228",
+      "Teacher_226"
+    ]
+  },
+  {
+    "class_id": "Class_308",
+    "className": "英文班，实验3班",
+    "teacher": "吴光",
+    "teacher_id": [
+      "Teacher_228",
+      "Teacher_226"
+    ]
+  },
+  {
+    "class_id": "Class_309",
+    "className": "英文班，实验2班",
+    "teacher": "吴光",
+    "teacher_id": [
+      "Teacher_228",
+      "Teacher_226"
+    ]
+  },
+  {
+    "class_id": "Class_310",
+    "className": "英文班",
+    "teacher": "程然",
+    "teacher_id": [
+      "Teacher_203"
+    ]
+  },
+  {
+    "class_id": "Class_311",
+    "className": "中英双语2班",
+    "teacher": "嘉有为",
+    "teacher_id": [
+      "Teacher_229"
+    ]
+  },
+  {
+    "class_id": "Class_312",
+    "className": "中英双语4班",
+    "teacher": "嘉有为",
+    "teacher_id": [
+      "Teacher_229"
+    ]
+  },
+  {
+    "class_id": "Class_313",
+    "className": "中英双语3班",
+    "teacher": "蹇林旎",
+    "teacher_id": [
+      "Teacher_230"
+    ]
+  },
+  {
+    "class_id": "Class_314",
+    "className": "中英双语1班",
+    "teacher": "蹇林旎",
+    "teacher_id": [
+      "Teacher_230"
+    ]
+  },
+  {
+    "class_id": "Class_315",
+    "className": "中英双语班",
+    "teacher": "邵理阳",
+    "teacher_id": [
+      "Teacher_231"
+    ]
+  },
+  {
+    "class_id": "Class_316",
+    "className": "中英双语班",
+    "teacher": "詹陈长",
+    "teacher_id": [
+      "Teacher_232"
+    ]
+  },
+  {
+    "class_id": "Class_317",
+    "className": "英文班",
+    "teacher": "Jaewon Park",
+    "teacher_id": [
+      "Teacher_233",
+      "Teacher_234"
+    ]
+  },
+  {
+    "class_id": "Class_318",
+    "className": "中英双语班",
+    "teacher": "徐琳琳",
+    "teacher_id": [
+      "Teacher_34",
+      "Teacher_235"
+    ]
+  },
+  {
+    "class_id": "Class_319",
+    "className": "中英双语班",
+    "teacher": "邵理阳",
+    "teacher_id": [
+      "Teacher_231"
+    ]
+  },
+  {
+    "class_id": "Class_320",
+    "className": "中英双语班",
+    "teacher": "吴光",
+    "teacher_id": [
+      "Teacher_227",
+      "Teacher_226"
+    ]
+  },
+  {
+    "class_id": "Class_321",
+    "className": "英文班，实验1班",
+    "teacher": "程庆沙",
+    "teacher_id": [
+      "Teacher_236",
+      "Teacher_237"
+    ]
+  },
+  {
+    "class_id": "Class_322",
+    "className": "英文班，实验2班",
+    "teacher": "程庆沙",
+    "teacher_id": [
+      "Teacher_236",
+      "Teacher_237"
+    ]
+  },
+  {
+    "class_id": "Class_323",
+    "className": "中英双语班",
+    "teacher": "崔德虎",
+    "teacher_id": [
+      "Teacher_222"
+    ]
+  },
+  {
+    "class_id": "Class_324",
+    "className": "中英双语班，实验3班",
+    "teacher": "于洪宇",
+    "teacher_id": [
+      "Teacher_238",
+      "Teacher_225"
+    ]
+  },
+  {
+    "class_id": "Class_325",
+    "className": "中英双语班，实验2班",
+    "teacher": "于洪宇",
+    "teacher_id": [
+      "Teacher_238",
+      "Teacher_225"
+    ]
+  },
+  {
+    "class_id": "Class_326",
+    "className": "中英双语班，实验1班",
+    "teacher": "于洪宇",
+    "teacher_id": [
+      "Teacher_238",
+      "Teacher_225"
+    ]
+  },
+  {
+    "class_id": "Class_327",
+    "className": "中英双语班，实验2班",
+    "teacher": "陈树明",
+    "teacher_id": [
+      "Teacher_239"
+    ]
+  },
+  {
+    "class_id": "Class_328",
+    "className": "中英双语班，实验1班",
+    "teacher": "陈树明",
+    "teacher_id": [
+      "Teacher_239"
+    ]
+  },
+  {
+    "class_id": "Class_329",
+    "className": "中英双语班",
+    "teacher": "邵理阳",
+    "teacher_id": [
+      "Teacher_231"
+    ]
+  },
+  {
+    "class_id": "Class_330",
+    "className": "中英双语班",
+    "teacher": "班莹莹",
+    "teacher_id": [
+      "Teacher_240"
+    ]
+  },
+  {
+    "class_id": "Class_331",
+    "className": "英文班",
+    "teacher": "郑焰",
+    "teacher_id": [
+      "Teacher_241"
+    ]
+  },
+  {
+    "class_id": "Class_332",
+    "className": "英文班",
+    "teacher": "陈洪",
+    "teacher_id": [
+      "Teacher_242"
+    ]
+  },
+  {
+    "class_id": "Class_333",
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李慧丽",
+    "teacher_id": [
+      "Teacher_243",
+      "Teacher_101",
+      "Teacher_244"
+    ]
+  },
+  {
+    "class_id": "Class_334",
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李慧丽",
+    "teacher_id": [
+      "Teacher_243",
+      "Teacher_101",
+      "Teacher_244"
+    ]
+  },
+  {
+    "class_id": "Class_335",
+    "className": "英文班",
+    "teacher": "欧阳天成",
+    "teacher_id": [
+      "Teacher_245"
+    ]
+  },
+  {
+    "class_id": "Class_336",
+    "className": "中英双语",
+    "teacher": "李莹",
+    "teacher_id": [
+      "Teacher_246"
+    ]
+  },
+  {
+    "class_id": "Class_337",
+    "className": "英文班",
+    "teacher": "刘宇",
+    "teacher_id": [
+      "Teacher_121"
+    ]
+  },
+  {
+    "class_id": "Class_338",
+    "className": "中文1班",
+    "teacher": "张利君",
+    "teacher_id": [
+      "Teacher_62"
+    ]
+  },
+  {
+    "class_id": "Class_339",
+    "className": "英文班",
+    "teacher": "张利君",
+    "teacher_id": [
+      "Teacher_62"
+    ]
+  },
+  {
+    "class_id": "Class_340",
+    "className": "中文2班",
+    "teacher": "王小静",
+    "teacher_id": [
+      "Teacher_63"
+    ]
+  },
+  {
+    "class_id": "Class_341",
+    "className": "中文3班",
+    "teacher": "王小静",
+    "teacher_id": [
+      "Teacher_63"
+    ]
+  },
+  {
+    "class_id": "Class_342",
+    "className": "中文班",
+    "teacher": "黄克服",
+    "teacher_id": [
+      "Teacher_247"
+    ]
+  },
+  {
+    "class_id": "Class_343",
+    "className": "中英双语班",
+    "teacher": "杨燕",
+    "teacher_id": [
+      "Teacher_56"
+    ]
+  },
+  {
+    "class_id": "Class_344",
+    "className": "中英双语班",
+    "teacher": "黄业绪",
+    "teacher_id": [
+      "Teacher_79"
+    ]
+  },
+  {
+    "class_id": "Class_345",
+    "className": "英文班",
+    "teacher": "饶枫",
+    "teacher_id": [
+      "Teacher_248"
+    ]
+  },
+  {
+    "class_id": "Class_346",
+    "className": "英文班",
+    "teacher": "时紅建",
+    "teacher_id": [
+      "Teacher_249"
+    ]
+  },
+  {
+    "class_id": "Class_347",
+    "className": "英文班",
+    "teacher": "孙便霞",
+    "teacher_id": [
+      "Teacher_250"
+    ]
+  },
+  {
+    "class_id": "Class_348",
+    "className": "英文班",
+    "teacher": "杨旭宁",
+    "teacher_id": [
+      "Teacher_133"
+    ]
+  },
+  {
+    "class_id": "Class_349",
+    "className": "中文班",
+    "teacher": "黄冲",
+    "teacher_id": [
+      "Teacher_86"
+    ]
+  },
+  {
+    "class_id": "Class_350",
+    "className": "中英双语班",
+    "teacher": "古嘉雯",
+    "teacher_id": [
+      "Teacher_251"
+    ]
+  },
+  {
+    "class_id": "Class_351",
+    "className": "英文4班",
+    "teacher": "陈懿茂",
+    "teacher_id": [
+      "Teacher_252"
+    ]
+  },
+  {
+    "class_id": "Class_352",
+    "className": "英文2班",
+    "teacher": "李才恒",
+    "teacher_id": [
+      "Teacher_253"
+    ]
+  },
+  {
+    "class_id": "Class_353",
+    "className": "英文3班",
+    "teacher": "陈懿茂",
+    "teacher_id": [
+      "Teacher_252"
+    ]
+  },
+  {
+    "class_id": "Class_354",
+    "className": "英文1班",
+    "teacher": "陈懿茂",
+    "teacher_id": [
+      "Teacher_252"
+    ]
+  },
+  {
+    "class_id": "Class_355",
+    "className": "英文班",
+    "teacher": "李勤",
+    "teacher_id": [
+      "Teacher_254"
+    ]
+  },
+  {
+    "class_id": "Class_356",
+    "className": "中英双语1班",
+    "teacher": "姚静",
+    "teacher_id": [
+      "Teacher_255"
+    ]
+  },
+  {
+    "class_id": "Class_357",
+    "className": "英文班",
+    "teacher": "杨丽丽",
+    "teacher_id": [
+      "Teacher_256"
+    ]
+  },
+  {
+    "class_id": "Class_358",
+    "className": "中英双语3班",
+    "teacher": "陶菊春",
+    "teacher_id": [
+      "Teacher_257"
+    ]
+  },
+  {
+    "class_id": "Class_359",
+    "className": "中英双语2班",
+    "teacher": "姚静",
+    "teacher_id": [
+      "Teacher_255"
+    ]
+  },
+  {
+    "class_id": "Class_360",
+    "className": "英文班",
+    "teacher": "田国梁",
+    "teacher_id": [
+      "Teacher_258"
+    ]
+  },
+  {
+    "class_id": "Class_361",
+    "className": "中英双语班",
+    "teacher": "姚静",
+    "teacher_id": [
+      "Teacher_255"
+    ]
+  },
+  {
+    "class_id": "Class_362",
+    "className": "英文班",
+    "teacher": "刘威汉",
+    "teacher_id": [
+      "Teacher_259"
+    ]
+  },
+  {
+    "class_id": "Class_363",
+    "className": "英文班",
+    "teacher": "刘鲁川",
+    "teacher_id": [
+      "Teacher_260"
+    ]
+  },
+  {
+    "class_id": "Class_364",
+    "className": "中英双语班",
+    "teacher": "孙便霞",
+    "teacher_id": [
+      "Teacher_250"
+    ]
+  },
+  {
+    "class_id": "Class_365",
+    "className": "英文班",
+    "teacher": "金融外聘老师",
+    "teacher_id": [
+      "Teacher_141"
+    ]
+  },
+  {
+    "class_id": "Class_366",
+    "className": "中英双语班",
+    "teacher": "杨旭宁",
+    "teacher_id": [
+      "Teacher_133"
+    ]
+  },
+  {
+    "class_id": "Class_367",
+    "className": "英文班",
+    "teacher": "刘威汉",
+    "teacher_id": [
+      "Teacher_259"
+    ]
+  },
+  {
+    "class_id": "Class_368",
+    "className": "中文班",
+    "teacher": "何佳",
+    "teacher_id": [
+      "Teacher_261"
+    ]
+  },
+  {
+    "class_id": "Class_369",
+    "className": "英文班",
+    "teacher": "赖舒芳",
+    "teacher_id": [
+      "Teacher_262"
+    ]
+  },
+  {
+    "class_id": "Class_370",
+    "className": "英文班",
+    "teacher": "胡勇",
+    "teacher_id": [
+      "Teacher_263"
+    ]
+  },
+  {
+    "class_id": "Class_371",
+    "className": "英文班",
+    "teacher": "刘鲁川",
+    "teacher_id": [
+      "Teacher_260"
+    ]
+  },
+  {
+    "class_id": "Class_372",
+    "className": "英文班",
+    "teacher": "栗沛沛",
+    "teacher_id": [
+      "Teacher_264"
+    ]
+  },
+  {
+    "class_id": "Class_373",
+    "className": "英文班",
+    "teacher": "陈琨",
+    "teacher_id": [
+      "Teacher_113"
+    ]
+  },
+  {
+    "class_id": "Class_374",
+    "className": "英文班",
+    "teacher": "杨将",
+    "teacher_id": [
+      "Teacher_265"
+    ]
+  },
+  {
+    "class_id": "Class_375",
+    "className": "中英双语班",
+    "teacher": "蒋学军",
+    "teacher_id": [
+      "Teacher_266"
+    ]
+  },
+  {
+    "class_id": "Class_376",
+    "className": "中英双语班",
+    "teacher": "杨招军",
+    "teacher_id": [
+      "Teacher_267"
+    ]
+  },
+  {
+    "class_id": "Class_377",
+    "className": "中文班",
+    "teacher": "周倜",
+    "teacher_id": [
+      "Teacher_268"
+    ]
+  },
+  {
+    "class_id": "Class_378",
+    "className": "英文班",
+    "teacher": "周倜",
+    "teacher_id": [
+      "Teacher_268"
+    ]
+  },
+  {
+    "class_id": "Class_379",
+    "className": "英文班",
+    "teacher": "Raul Ures",
+    "teacher_id": [
+      "Teacher_269"
+    ]
+  },
+  {
+    "class_id": "Class_380",
+    "className": "英文班",
+    "teacher": "谷猛",
+    "teacher_id": [
+      "Teacher_270"
+    ]
+  },
+  {
+    "class_id": "Class_381",
+    "className": "英文1班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_382",
+    "className": "英文1班-实验4班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_383",
+    "className": "英文1班-实验3班（实验课每次都计入期末成绩，且没有补课）\t",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_384",
+    "className": "英文1班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_385",
+    "className": "英文班",
+    "teacher": "徐保民",
+    "teacher_id": [
+      "Teacher_271"
+    ]
+  },
+  {
+    "class_id": "Class_386",
+    "className": "英文班",
+    "teacher": "田颜清",
+    "teacher_id": [
+      "Teacher_272"
+    ]
+  },
+  {
+    "class_id": "Class_387",
+    "className": "英文3班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_273",
+      "Teacher_274",
+      "Teacher_102",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_388",
+    "className": "英文1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_273",
+      "Teacher_274",
+      "Teacher_102",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_389",
+    "className": "英文2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李艳艳",
+    "teacher_id": [
+      "Teacher_99",
+      "Teacher_273",
+      "Teacher_274",
+      "Teacher_102",
+      "Teacher_218"
+    ]
+  },
+  {
+    "class_id": "Class_390",
+    "className": "英文班",
+    "teacher": "谷猛",
+    "teacher_id": [
+      "Teacher_270"
+    ]
+  },
+  {
+    "class_id": "Class_391",
+    "className": "中英双语班",
+    "teacher": "孙大陟",
+    "teacher_id": [
+      "Teacher_216"
+    ]
+  },
+  {
+    "class_id": "Class_392",
+    "className": "英文班-实验1班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李慧丽",
+    "teacher_id": [
+      "Teacher_272",
+      "Teacher_101",
+      "Teacher_244"
+    ]
+  },
+  {
+    "class_id": "Class_393",
+    "className": "英文班-实验2班（实验课每次都计入期末成绩，且没有补课）",
+    "teacher": "李慧丽",
+    "teacher_id": [
+      "Teacher_101",
+      "Teacher_272",
+      "Teacher_244"
+    ]
+  },
+  {
+    "class_id": "Class_394",
+    "className": "中英双语班",
+    "teacher": "孙大陟",
+    "teacher_id": [
+      "Teacher_216"
+    ]
+  },
+  {
+    "class_id": "Class_395",
+    "className": "中英双语班",
+    "teacher": "何祝兵",
+    "teacher_id": [
+      "Teacher_275"
+    ]
+  },
+  {
+    "class_id": "Class_396",
+    "className": "中英双语班",
+    "teacher": "任富增",
+    "teacher_id": [
+      "Teacher_276"
+    ]
+  },
+  {
+    "class_id": "Class_397",
+    "className": "中英双语班",
+    "teacher": "田颜清",
+    "teacher_id": [
+      "Teacher_272"
+    ]
+  },
+  {
+    "class_id": "Class_398",
+    "className": "中文班",
+    "teacher": "夏钶",
+    "teacher_id": [
+      "Teacher_277"
+    ]
+  },
+  {
+    "class_id": "Class_399",
+    "className": "中文班",
+    "teacher": "张贤高",
+    "teacher_id": [
+      "Teacher_165",
+      "Teacher_164",
+      "Teacher_166",
+      "Teacher_168",
+      "Teacher_173",
+      "Teacher_167",
+      "Teacher_171",
+      "Teacher_170",
+      "Teacher_172",
+      "Teacher_169"
+    ]
+  },
+  {
+    "class_id": "Class_400",
+    "className": "中文班",
+    "teacher": "王干",
+    "teacher_id": [
+      "Teacher_278"
+    ]
+  },
+  {
+    "class_id": "Class_401",
+    "className": "中英双语班",
+    "teacher": "王克东",
+    "teacher_id": [
+      "Teacher_279"
+    ]
+  },
+  {
+    "class_id": "Class_402",
+    "className": "中文班",
+    "teacher": "黄明远",
+    "teacher_id": [
+      "Teacher_280"
+    ]
+  },
+  {
+    "class_id": "Class_403",
+    "className": "中英双语班",
+    "teacher": "张立源",
+    "teacher_id": [
+      "Teacher_281"
+    ]
+  },
+  {
+    "class_id": "Class_404",
+    "className": "中文班",
+    "teacher": "叶飞",
+    "teacher_id": [
+      "Teacher_100"
+    ]
+  },
+  {
+    "class_id": "Class_405",
+    "className": "中英双语班",
+    "teacher": "戴俊峰",
+    "teacher_id": [
+      "Teacher_282"
+    ]
+  },
+  {
+    "class_id": "Class_406",
+    "className": "中英双语班",
+    "teacher": "许志芳",
+    "teacher_id": [
+      "Teacher_283"
+    ]
+  },
+  {
+    "class_id": "Class_407",
+    "className": "中文班",
+    "teacher": "叶飞",
+    "teacher_id": [
+      "Teacher_100"
+    ]
+  },
+  {
+    "class_id": "Class_408",
+    "className": "中英双语班",
+    "teacher": "何洪涛",
+    "teacher_id": [
+      "Teacher_284"
+    ]
+  },
+  {
+    "class_id": "Class_409",
+    "className": "中英双语班",
+    "teacher": "徐虎",
+    "teacher_id": [
+      "Teacher_285"
+    ]
+  },
+  {
+    "class_id": "Class_410",
+    "className": "中文班",
+    "teacher": "万书元",
+    "teacher_id": [
+      "Teacher_286"
+    ]
+  },
+  {
+    "class_id": "Class_411",
+    "className": "中文班",
+    "teacher": "雷伟",
+    "teacher_id": [
+      "Teacher_287"
+    ]
+  },
+  {
+    "class_id": "Class_412",
+    "className": "英文1班",
+    "teacher": "Natalie Ferguson",
+    "teacher_id": [
+      "Teacher_288"
+    ]
+  },
+  {
+    "class_id": "Class_413",
+    "className": "英文2班",
+    "teacher": "Natalie Ferguson",
+    "teacher_id": [
+      "Teacher_288"
+    ]
+  },
+  {
+    "class_id": "Class_414",
+    "className": "英文1班",
+    "teacher": "喻永阳",
+    "teacher_id": [
+      "Teacher_289"
+    ]
+  },
+  {
+    "class_id": "Class_415",
+    "className": "英文2班",
+    "teacher": "喻永阳",
+    "teacher_id": [
+      "Teacher_289"
+    ]
+  },
+  {
+    "class_id": "Class_416",
+    "className": "中文班",
+    "teacher": "毕宝仪",
+    "teacher_id": [
+      "Teacher_290"
+    ]
+  },
+  {
+    "class_id": "Class_417",
+    "className": "英文班",
+    "teacher": "周星月",
+    "teacher_id": [
+      "Teacher_291"
+    ]
+  },
+  {
+    "class_id": "Class_418",
+    "className": "英文2班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_419",
+    "className": "英文1班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_420",
+    "className": "中文班",
+    "teacher": "吴岩",
+    "teacher_id": [
+      "Teacher_293"
+    ]
+  },
+  {
+    "class_id": "Class_421",
+    "className": "中文班",
+    "teacher": "袁长庚",
+    "teacher_id": [
+      "Teacher_294"
+    ]
+  },
+  {
+    "class_id": "Class_422",
+    "className": "中文班",
+    "teacher": "艺术中心外聘老师",
+    "teacher_id": [
+      "Teacher_295"
+    ]
+  },
+  {
+    "class_id": "Class_423",
+    "className": "中文班",
+    "teacher": "纪涛",
+    "teacher_id": [
+      "Teacher_296"
+    ]
+  },
+  {
+    "class_id": "Class_424",
+    "className": "中文班",
+    "teacher": "王晓葵",
+    "teacher_id": [
+      "Teacher_297"
+    ]
+  },
+  {
+    "class_id": "Class_425",
+    "className": "中文班",
+    "teacher": "韦雪霁",
+    "teacher_id": [
+      "Teacher_298"
+    ]
+  },
+  {
+    "class_id": "Class_426",
+    "className": "中文班",
+    "teacher": "李蓝",
+    "teacher_id": [
+      "Teacher_299"
+    ]
+  },
+  {
+    "class_id": "Class_427",
+    "className": "中文班",
+    "teacher": "刘科",
+    "teacher_id": [
+      "Teacher_300"
+    ]
+  },
+  {
+    "class_id": "Class_428",
+    "className": "中文班",
+    "teacher": "艺术中心外聘老师",
+    "teacher_id": [
+      "Teacher_295"
+    ]
+  },
+  {
+    "class_id": "Class_429",
+    "className": "中文班",
+    "teacher": "潘立勇",
+    "teacher_id": [
+      "Teacher_301"
+    ]
+  },
+  {
+    "class_id": "Class_430",
+    "className": "中文班",
+    "teacher": "皮晟",
+    "teacher_id": [
+      "Teacher_302"
+    ]
+  },
+  {
+    "class_id": "Class_431",
+    "className": "中文班",
+    "teacher": "黄朴民",
+    "teacher_id": [
+      "Teacher_303"
+    ]
+  },
+  {
+    "class_id": "Class_432",
+    "className": "中文班",
+    "teacher": "王晓葵",
+    "teacher_id": [
+      "Teacher_297"
+    ]
+  },
+  {
+    "class_id": "Class_433",
+    "className": "中文班",
+    "teacher": "艺术中心外聘老师",
+    "teacher_id": [
+      "Teacher_295"
+    ]
+  },
+  {
+    "class_id": "Class_434",
+    "className": "中文班",
+    "teacher": "纪涛",
+    "teacher_id": [
+      "Teacher_296"
+    ]
+  },
+  {
+    "class_id": "Class_435",
+    "className": "中文班",
+    "teacher": "潘立勇",
+    "teacher_id": [
+      "Teacher_301"
+    ]
+  },
+  {
+    "class_id": "Class_436",
+    "className": "中英双语班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_437",
+    "className": "英文2班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_438",
+    "className": "英文1班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_439",
+    "className": "中文班",
+    "teacher": "王捷",
+    "teacher_id": [
+      "Teacher_305"
+    ]
+  },
+  {
+    "class_id": "Class_440",
+    "className": "英文2班",
+    "teacher": "Allison Dansie",
+    "teacher_id": [
+      "Teacher_306"
+    ]
+  },
+  {
+    "class_id": "Class_441",
+    "className": "英文1班",
+    "teacher": "Allison Dansie",
+    "teacher_id": [
+      "Teacher_306"
+    ]
+  },
+  {
+    "class_id": "Class_442",
+    "className": "中英双语班",
+    "teacher": "刘妍",
+    "teacher_id": [
+      "Teacher_307"
+    ]
+  },
+  {
+    "class_id": "Class_443",
+    "className": "中文班",
+    "teacher": "艺术中心外聘老师",
+    "teacher_id": [
+      "Teacher_295"
+    ]
+  },
+  {
+    "class_id": "Class_444",
+    "className": "中文班",
+    "teacher": "张静红",
+    "teacher_id": [
+      "Teacher_308"
+    ]
+  },
+  {
+    "class_id": "Class_445",
+    "className": "英文班",
+    "teacher": "陈惠云",
+    "teacher_id": [
+      "Teacher_309"
+    ]
+  },
+  {
+    "class_id": "Class_446",
+    "className": "中文班",
+    "teacher": "戴吾三",
+    "teacher_id": [
+      "Teacher_310"
+    ]
+  },
+  {
+    "class_id": "Class_447",
+    "className": "中文班",
+    "teacher": "苗伟山",
+    "teacher_id": [
+      "Teacher_311"
+    ]
+  },
+  {
+    "class_id": "Class_448",
+    "className": "中文班",
+    "teacher": "刘洋",
+    "teacher_id": [
+      "Teacher_312"
+    ]
+  },
+  {
+    "class_id": "Class_449",
+    "className": "中文班",
+    "teacher": "人文外聘老师",
+    "teacher_id": [
+      "Teacher_313"
+    ]
+  },
+  {
+    "class_id": "Class_450",
+    "className": "中文班",
+    "teacher": "人文外聘老师",
+    "teacher_id": [
+      "Teacher_313"
+    ]
+  },
+  {
+    "class_id": "Class_451",
+    "className": "中文班",
+    "teacher": "袁长庚",
+    "teacher_id": [
+      "Teacher_294"
+    ]
+  },
+  {
+    "class_id": "Class_452",
+    "className": "英文2班",
+    "teacher": "Pamela Mansutti",
+    "teacher_id": [
+      "Teacher_314"
+    ]
+  },
+  {
+    "class_id": "Class_453",
+    "className": "英文1班",
+    "teacher": "Pamela Mansutti",
+    "teacher_id": [
+      "Teacher_314"
+    ]
+  },
+  {
+    "class_id": "Class_454",
+    "className": "英文班",
+    "teacher": "王莉莉",
+    "teacher_id": [
+      "Teacher_315"
+    ]
+  },
+  {
+    "class_id": "Class_455",
+    "className": "中文班",
+    "teacher": "皮晟",
+    "teacher_id": [
+      "Teacher_302"
+    ]
+  },
+  {
+    "class_id": "Class_456",
+    "className": "中文班",
+    "teacher": "艺术中心外聘老师",
+    "teacher_id": [
+      "Teacher_295"
+    ]
+  },
+  {
+    "class_id": "Class_457",
+    "className": "中文班",
+    "teacher": "张静红",
+    "teacher_id": [
+      "Teacher_308"
+    ]
+  },
+  {
+    "class_id": "Class_458",
+    "className": "中文班",
+    "teacher": "张冬",
+    "teacher_id": [
+      "Teacher_59"
+    ]
+  },
+  {
+    "class_id": "Class_459",
+    "className": "中文班",
+    "teacher": "孙光军",
+    "teacher_id": [
+      "Teacher_316"
+    ]
+  },
+  {
+    "class_id": "Class_460",
+    "className": "英文班",
+    "teacher": "赵建华",
+    "teacher_id": [
+      "Teacher_317"
+    ]
+  },
+  {
+    "class_id": "Class_461",
+    "className": "英文班",
+    "teacher": "Amir Hampel",
+    "teacher_id": [
+      "Teacher_318"
+    ]
+  },
+  {
+    "class_id": "Class_462",
+    "className": "中文班",
+    "teacher": "万书元",
+    "teacher_id": [
+      "Teacher_286"
+    ]
+  },
+  {
+    "class_id": "Class_463",
+    "className": "中文班",
+    "teacher": "陈跃红",
+    "teacher_id": [
+      "Teacher_319"
+    ]
+  },
+  {
+    "class_id": "Class_464",
+    "className": "中文2班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_465",
+    "className": "中文1班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_466",
+    "className": "中文3班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_467",
+    "className": "英文班",
+    "teacher": "Erin Thomason",
+    "teacher_id": [
+      "Teacher_321"
+    ]
+  },
+  {
+    "class_id": "Class_468",
+    "className": "中文班",
+    "teacher": "唐际根",
+    "teacher_id": [
+      "Teacher_322"
+    ]
+  },
+  {
+    "class_id": "Class_469",
+    "className": "中英双语班",
+    "teacher": "熊庠楠",
+    "teacher_id": [
+      "Teacher_323"
+    ]
+  },
+  {
+    "class_id": "Class_470",
+    "className": "中文班",
+    "teacher": "王捷",
+    "teacher_id": [
+      "Teacher_305"
+    ]
+  },
+  {
+    "class_id": "Class_471",
+    "className": "中文班",
+    "teacher": "纪涛",
+    "teacher_id": [
+      "Teacher_296"
+    ]
+  },
+  {
+    "class_id": "Class_472",
+    "className": "中文班",
+    "teacher": "张冬",
+    "teacher_id": [
+      "Teacher_59"
+    ]
+  },
+  {
+    "class_id": "Class_473",
+    "className": "中文班",
+    "teacher": "皮晟",
+    "teacher_id": [
+      "Teacher_302"
+    ]
+  },
+  {
+    "class_id": "Class_474",
+    "className": "中文1班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_475",
+    "className": "中文3班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_476",
+    "className": "中文2班",
+    "teacher": "孙志凤",
+    "teacher_id": [
+      "Teacher_320"
+    ]
+  },
+  {
+    "class_id": "Class_477",
+    "className": "英文3班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_478",
+    "className": "英文1班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_479",
+    "className": "英文4班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_480",
+    "className": "英文2班",
+    "teacher": "徐嗣群",
+    "teacher_id": [
+      "Teacher_292"
+    ]
+  },
+  {
+    "class_id": "Class_481",
+    "className": "中文班",
+    "teacher": "吴岩",
+    "teacher_id": [
+      "Teacher_293"
+    ]
+  },
+  {
+    "class_id": "Class_482",
+    "className": "中文班",
+    "teacher": "唐克扬",
+    "teacher_id": [
+      "Teacher_324"
+    ]
+  },
+  {
+    "class_id": "Class_483",
+    "className": "中文班",
+    "teacher": "唐克扬",
+    "teacher_id": [
+      "Teacher_324"
+    ]
+  },
+  {
+    "class_id": "Class_484",
+    "className": "英文班",
+    "teacher": "Andrew Hutchins",
+    "teacher_id": [
+      "Teacher_325"
+    ]
+  },
+  {
+    "class_id": "Class_485",
+    "className": "中英双语2班",
+    "teacher": "李妍",
+    "teacher_id": [
+      "Teacher_326"
+    ]
+  },
+  {
+    "class_id": "Class_486",
+    "className": "中英双语1班",
+    "teacher": "邓怿",
+    "teacher_id": [
+      "Teacher_15"
+    ]
+  },
+  {
+    "class_id": "Class_487",
+    "className": "中英双语1班",
+    "teacher": "陈永龙",
+    "teacher_id": [
+      "Teacher_327"
+    ]
+  },
+  {
+    "class_id": "Class_488",
+    "className": "中英双语2班",
+    "teacher": "吴柘",
+    "teacher_id": [
+      "Teacher_328"
+    ]
+  },
+  {
+    "class_id": "Class_489",
+    "className": "英文班",
+    "teacher": "肖波",
+    "teacher_id": [
+      "Teacher_329"
+    ]
+  },
+  {
+    "class_id": "Class_490",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "何明昕",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_143"
+    ]
+  },
+  {
+    "class_id": "Class_491",
+    "className": "中英双语班-实验2班",
+    "teacher": "何明昕",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_143"
+    ]
+  },
+  {
+    "class_id": "Class_492",
+    "className": "中英双语班-实验3班",
+    "teacher": "何明昕",
+    "teacher_id": [
+      "Teacher_196",
+      "Teacher_143"
+    ]
+  },
+  {
+    "class_id": "Class_493",
+    "className": "中英双语班",
+    "teacher": "张文清",
+    "teacher_id": [
+      "Teacher_330"
+    ]
+  },
+  {
+    "class_id": "Class_494",
+    "className": "中英双语班",
+    "teacher": "陶菊春",
+    "teacher_id": [
+      "Teacher_257"
+    ]
+  },
+  {
+    "class_id": "Class_495",
+    "className": "英文班-实验4班",
+    "teacher": "胡春风",
+    "teacher_id": [
+      "Teacher_200"
+    ]
+  },
+  {
+    "class_id": "Class_496",
+    "className": "中英双语1班-实验7班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_23",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_497",
+    "className": "中英双语2班-实验9班",
+    "teacher": "张煜群",
+    "teacher_id": [
+      "Teacher_331"
+    ]
+  },
+  {
+    "class_id": "Class_498",
+    "className": "中英双语2班-实验10班",
+    "teacher": "张煜群",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_331"
+    ]
+  },
+  {
+    "class_id": "Class_499",
+    "className": "英文班-实验2班",
+    "teacher": "胡春风",
+    "teacher_id": [
+      "Teacher_332",
+      "Teacher_200"
+    ]
+  },
+  {
+    "class_id": "Class_500",
+    "className": "中英双语2班-实验11班",
+    "teacher": "张煜群",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_331"
+    ]
+  },
+  {
+    "class_id": "Class_501",
+    "className": "中英双语1班-实验5班",
+    "teacher": "\t刘烨庞",
+    "teacher_id": [
+      "Teacher_23"
+    ]
+  },
+  {
+    "class_id": "Class_502",
+    "className": "中英双语2班-实验12班",
+    "teacher": "张煜群",
+    "teacher_id": [
+      "Teacher_198",
+      "Teacher_331"
+    ]
+  },
+  {
+    "class_id": "Class_503",
+    "className": "中英双语1班-实验8班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_23",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_504",
+    "className": "中英双语1班-实验6班",
+    "teacher": "朱悦铭",
+    "teacher_id": [
+      "Teacher_23",
+      "Teacher_119"
+    ]
+  },
+  {
+    "class_id": "Class_505",
+    "className": "英文班-实验1班（国际生）",
+    "teacher": "TOM Ko Yu Ting",
+    "teacher_id": [
+      "Teacher_332"
+    ]
+  },
+  {
+    "class_id": "Class_506",
+    "className": "英文班-实验3班",
+    "teacher": "胡春风",
+    "teacher_id": [
+      "Teacher_200"
+    ]
+  },
+  {
+    "class_id": "Class_507",
+    "className": "英文4班",
+    "teacher": "柳青",
+    "teacher_id": [
+      "Teacher_333"
+    ]
+  },
+  {
+    "class_id": "Class_508",
+    "className": "英文1班",
+    "teacher": "刘丽莎",
+    "teacher_id": [
+      "Teacher_334"
+    ]
+  },
+  {
+    "class_id": "Class_509",
+    "className": "英文25班",
+    "teacher": "Natalie Ferguson",
+    "teacher_id": [
+      "Teacher_288"
+    ]
+  },
+  {
+    "class_id": "Class_510",
+    "className": "英文19班",
+    "teacher": "Tyler Horton",
+    "teacher_id": [
+      "Teacher_335"
+    ]
+  },
+  {
+    "class_id": "Class_511",
+    "className": "英文12班",
+    "teacher": "Jesse Cancelmo IV",
+    "teacher_id": [
+      "Teacher_336"
+    ]
+  },
+  {
+    "class_id": "Class_512",
+    "className": "英文5班",
+    "teacher": "柳青",
+    "teacher_id": [
+      "Teacher_333"
+    ]
+  },
+  {
+    "class_id": "Class_513",
+    "className": "英文31班",
+    "teacher": "Pamela Mansutti",
+    "teacher_id": [
+      "Teacher_314"
+    ]
+  },
+  {
+    "class_id": "Class_514",
+    "className": "英文33班",
+    "teacher": "刘子瑞",
+    "teacher_id": [
+      "Teacher_337"
+    ]
+  },
+  {
+    "class_id": "Class_515",
+    "className": "英文32班",
+    "teacher": "刘子瑞",
+    "teacher_id": [
+      "Teacher_337"
+    ]
+  },
+  {
+    "class_id": "Class_516",
+    "className": "英文30班",
+    "teacher": "Pamela Mansutti",
+    "teacher_id": [
+      "Teacher_314"
+    ]
+  },
+  {
+    "class_id": "Class_517",
+    "className": "英文29班",
+    "teacher": "Allison Dansie",
+    "teacher_id": [
+      "Teacher_306"
+    ]
+  },
+  {
+    "class_id": "Class_518",
+    "className": "英文28班",
+    "teacher": "Allison Dansie",
+    "teacher_id": [
+      "Teacher_306"
+    ]
+  },
+  {
+    "class_id": "Class_519",
+    "className": "英文27班",
+    "teacher": "Allison Dansie",
+    "teacher_id": [
+      "Teacher_306"
+    ]
+  },
+  {
+    "class_id": "Class_520",
+    "className": "英文26班",
+    "teacher": "Natalie Ferguson",
+    "teacher_id": [
+      "Teacher_288"
+    ]
+  },
+  {
+    "class_id": "Class_521",
+    "className": "英文24班",
+    "teacher": "Natalie Ferguson",
+    "teacher_id": [
+      "Teacher_288"
+    ]
+  },
+  {
+    "class_id": "Class_522",
+    "className": "英文23班",
+    "teacher": "Stephen Pellerine",
+    "teacher_id": [
+      "Teacher_338"
+    ]
+  },
+  {
+    "class_id": "Class_523",
+    "className": "英文22班",
+    "teacher": "Stephen Pellerine",
+    "teacher_id": [
+      "Teacher_338"
+    ]
+  },
+  {
+    "class_id": "Class_524",
+    "className": "英文21班",
+    "teacher": "Stephen Pellerine",
+    "teacher_id": [
+      "Teacher_338"
+    ]
+  },
+  {
+    "class_id": "Class_525",
+    "className": "英文20班",
+    "teacher": "Stephen Pellerine",
+    "teacher_id": [
+      "Teacher_338"
+    ]
+  },
+  {
+    "class_id": "Class_526",
+    "className": "英文18班",
+    "teacher": "Tyler Horton",
+    "teacher_id": [
+      "Teacher_335"
+    ]
+  },
+  {
+    "class_id": "Class_527",
+    "className": "英文17班",
+    "teacher": "Tyler Horton",
+    "teacher_id": [
+      "Teacher_335"
+    ]
+  },
+  {
+    "class_id": "Class_528",
+    "className": "英文16班",
+    "teacher": "Tyler Horton",
+    "teacher_id": [
+      "Teacher_335"
+    ]
+  },
+  {
+    "class_id": "Class_529",
+    "className": "英文15班",
+    "teacher": "董蓉蓉",
+    "teacher_id": [
+      "Teacher_339"
+    ]
+  },
+  {
+    "class_id": "Class_530",
+    "className": "英文14班",
+    "teacher": "董蓉蓉",
+    "teacher_id": [
+      "Teacher_339"
+    ]
+  },
+  {
+    "class_id": "Class_531",
+    "className": "英文13班",
+    "teacher": "董蓉蓉",
+    "teacher_id": [
+      "Teacher_339"
+    ]
+  },
+  {
+    "class_id": "Class_532",
+    "className": "英文11班",
+    "teacher": "Jesse Cancelmo IV",
+    "teacher_id": [
+      "Teacher_336"
+    ]
+  },
+  {
+    "class_id": "Class_533",
+    "className": "英文10班",
+    "teacher": "Jesse Cancelmo IV",
+    "teacher_id": [
+      "Teacher_336"
+    ]
+  },
+  {
+    "class_id": "Class_534",
+    "className": "英文9班",
+    "teacher": "Jesse Cancelmo IV",
+    "teacher_id": [
+      "Teacher_336"
+    ]
+  },
+  {
+    "class_id": "Class_535",
+    "className": "英文8班",
+    "teacher": "Brian Butler",
+    "teacher_id": [
+      "Teacher_340"
+    ]
+  },
+  {
+    "class_id": "Class_536",
+    "className": "英文7班",
+    "teacher": "Brian Butler",
+    "teacher_id": [
+      "Teacher_340"
+    ]
+  },
+  {
+    "class_id": "Class_537",
+    "className": "英文6班",
+    "teacher": "柳青",
+    "teacher_id": [
+      "Teacher_333"
+    ]
+  },
+  {
+    "class_id": "Class_538",
+    "className": "英文3班",
+    "teacher": "刘丽莎",
+    "teacher_id": [
+      "Teacher_334"
+    ]
+  },
+  {
+    "class_id": "Class_539",
+    "className": "英文2班",
+    "teacher": "刘丽莎",
+    "teacher_id": [
+      "Teacher_334"
+    ]
+  },
+  {
+    "class_id": "Class_540",
+    "className": "英文2班",
+    "teacher": "张新婷",
+    "teacher_id": [
+      "Teacher_341"
+    ]
+  },
+  {
+    "class_id": "Class_541",
+    "className": "英文1班",
+    "teacher": "张新婷",
+    "teacher_id": [
+      "Teacher_341"
+    ]
+  },
+  {
+    "class_id": "Class_542",
+    "className": "英文10班",
+    "teacher": "Kent Patterson",
+    "teacher_id": [
+      "Teacher_342"
+    ]
+  },
+  {
+    "class_id": "Class_543",
+    "className": "英文9班",
+    "teacher": "Kent Patterson",
+    "teacher_id": [
+      "Teacher_342"
+    ]
+  },
+  {
+    "class_id": "Class_544",
+    "className": "英文8班",
+    "teacher": "Kent Patterson",
+    "teacher_id": [
+      "Teacher_342"
+    ]
+  },
+  {
+    "class_id": "Class_545",
+    "className": "英文7班",
+    "teacher": "Kent Patterson",
+    "teacher_id": [
+      "Teacher_342"
+    ]
+  },
+  {
+    "class_id": "Class_546",
+    "className": "英文6班",
+    "teacher": "喻永阳",
+    "teacher_id": [
+      "Teacher_289"
+    ]
+  },
+  {
+    "class_id": "Class_547",
+    "className": "英文5班",
+    "teacher": "喻永阳",
+    "teacher_id": [
+      "Teacher_289"
+    ]
+  },
+  {
+    "class_id": "Class_548",
+    "className": "英文4班",
+    "teacher": "喻永阳",
+    "teacher_id": [
+      "Teacher_289"
+    ]
+  },
+  {
+    "class_id": "Class_549",
+    "className": "英文3班",
+    "teacher": "张新婷",
+    "teacher_id": [
+      "Teacher_341"
+    ]
+  },
+  {
+    "class_id": "Class_550",
+    "className": "英文1班",
+    "teacher": "Viktor",
+    "teacher_id": [
+      "Teacher_343"
+    ]
+  },
+  {
+    "class_id": "Class_551",
+    "className": "中英双语1班",
+    "teacher": null,
+    "teacher_id": []
+  },
+  {
+    "class_id": "Class_552",
+    "className": "英文17班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_553",
+    "className": "英文20班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_554",
+    "className": "英文25班",
+    "teacher": "石潇",
+    "teacher_id": [
+      "Teacher_345"
+    ]
+  },
+  {
+    "class_id": "Class_555",
+    "className": "英文24班",
+    "teacher": "石潇",
+    "teacher_id": [
+      "Teacher_345"
+    ]
+  },
+  {
+    "class_id": "Class_556",
+    "className": "英文23班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_557",
+    "className": "英文22班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_558",
+    "className": "英文21班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_559",
+    "className": "英文19班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_560",
+    "className": "英文18班",
+    "teacher": "Albert Evans",
+    "teacher_id": [
+      "Teacher_344"
+    ]
+  },
+  {
+    "class_id": "Class_561",
+    "className": "英文16班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_562",
+    "className": "英文15班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_563",
+    "className": "英文14班",
+    "teacher": "李卓",
+    "teacher_id": [
+      "Teacher_304"
+    ]
+  },
+  {
+    "class_id": "Class_564",
+    "className": "\t中英双语8班",
+    "teacher": "花永霞",
+    "teacher_id": [
+      "Teacher_346"
+    ]
+  },
+  {
+    "class_id": "Class_565",
+    "className": "英文3班",
+    "teacher": "王融",
+    "teacher_id": [
+      "Teacher_347"
+    ]
+  },
+  {
+    "class_id": "Class_566",
+    "className": "中英双语6班",
+    "teacher": "张晓妮",
+    "teacher_id": [
+      "Teacher_348"
+    ]
+  },
+  {
+    "class_id": "Class_567",
+    "className": "中英双语4班",
+    "teacher": "张振",
+    "teacher_id": [
+      "Teacher_130"
+    ]
+  },
+  {
+    "class_id": "Class_568",
+    "className": "中英双语2班",
+    "teacher": "吴纪桃",
+    "teacher_id": [
+      "Teacher_349"
+    ]
+  },
+  {
+    "class_id": "Class_569",
+    "className": "英文4班",
+    "teacher": "杨燕",
+    "teacher_id": [
+      "Teacher_56"
+    ]
+  },
+  {
+    "class_id": "Class_570",
+    "className": "\t中英双语7班",
+    "teacher": "花永霞",
+    "teacher_id": [
+      "Teacher_346"
+    ]
+  },
+  {
+    "class_id": "Class_571",
+    "className": "英文2班",
+    "teacher": "王融",
+    "teacher_id": [
+      "Teacher_347"
+    ]
+  },
+  {
+    "class_id": "Class_572",
+    "className": "英文1班",
+    "teacher": "王融",
+    "teacher_id": [
+      "Teacher_347"
+    ]
+  },
+  {
+    "class_id": "Class_573",
+    "className": "中英双语5班",
+    "teacher": "杨柳青",
+    "teacher_id": [
+      "Teacher_350"
+    ]
+  },
+  {
+    "class_id": "Class_574",
+    "className": "中英双语3班",
+    "teacher": "吴纪桃",
+    "teacher_id": [
+      "Teacher_349"
+    ]
+  },
+  {
+    "class_id": "Class_575",
+    "className": "中英双语1班",
+    "teacher": "张晓妮",
+    "teacher_id": [
+      "Teacher_348"
+    ]
+  },
+  {
+    "class_id": "Class_576",
+    "className": "中英双语班",
+    "teacher": "梅佳伟",
+    "teacher_id": [
+      "Teacher_351"
+    ]
+  },
+  {
+    "class_id": "Class_577",
+    "className": "英文班",
+    "teacher": "Oscar Dahlsten",
+    "teacher_id": [
+      "Teacher_352"
+    ]
+  },
+  {
+    "class_id": "Class_578",
+    "className": "中英双语班",
+    "teacher": "杨佳刚",
+    "teacher_id": [
+      "Teacher_353"
+    ]
+  },
+  {
+    "class_id": "Class_579",
+    "className": "英文班",
+    "teacher": "CLETBA1",
+    "teacher_id": [
+      "Teacher_354"
+    ]
+  },
+  {
+    "class_id": "Class_580",
+    "className": "中英双语班",
+    "teacher": "黄丽",
+    "teacher_id": [
+      "Teacher_355"
+    ]
+  },
+  {
+    "class_id": "Class_581",
+    "className": "中英双语班",
+    "teacher": "杨佳刚",
+    "teacher_id": [
+      "Teacher_353"
+    ]
+  },
+  {
+    "class_id": "Class_582",
+    "className": "英文班",
+    "teacher": "花永霞",
+    "teacher_id": [
+      "Teacher_346"
+    ]
+  },
+  {
+    "class_id": "Class_583",
+    "className": "\t中文1班",
+    "teacher": "马富明",
+    "teacher_id": [
+      "Teacher_356"
+    ]
+  },
+  {
+    "class_id": "Class_584",
+    "className": "中文2班",
+    "teacher": "吴纪桃",
+    "teacher_id": [
+      "Teacher_349"
+    ]
+  },
+  {
+    "class_id": "Class_585",
+    "className": "中英双语班",
+    "teacher": "段乐乐",
+    "teacher_id": [
+      "Teacher_357"
+    ]
+  },
+  {
+    "class_id": "Class_586",
+    "className": "英文班",
+    "teacher": "贾铁争",
+    "teacher_id": [
+      "Teacher_358"
+    ]
+  },
+  {
+    "class_id": "Class_587",
+    "className": "英文班",
+    "teacher": "梁永晔",
+    "teacher_id": [
+      "Teacher_217"
+    ]
+  },
+  {
+    "class_id": "Class_588",
+    "className": "中英双语1班",
+    "teacher": "叶青",
+    "teacher_id": [
+      "Teacher_359"
+    ]
+  },
+  {
+    "class_id": "Class_589",
+    "className": "中英双语2班",
+    "teacher": "王阳刚",
+    "teacher_id": [
+      "Teacher_360"
+    ]
+  },
+  {
+    "class_id": "Class_590",
+    "className": "英文班",
+    "teacher": "赵悦",
+    "teacher_id": [
+      "Teacher_361"
+    ]
+  },
+  {
+    "class_id": "Class_591",
+    "className": "中英双语1班",
+    "teacher": "陈朗",
+    "teacher_id": [
+      "Teacher_362"
+    ]
+  },
+  {
+    "class_id": "Class_592",
+    "className": "中英双语7班",
+    "teacher": "王善民",
+    "teacher_id": [
+      "Teacher_363"
+    ]
+  },
+  {
+    "class_id": "Class_593",
+    "className": "中英双语6班",
+    "teacher": "吴健生",
+    "teacher_id": [
+      "Teacher_364"
+    ]
+  },
+  {
+    "class_id": "Class_594",
+    "className": "中英双语5班",
+    "teacher": "鲁大为",
+    "teacher_id": [
+      "Teacher_365"
+    ]
+  },
+  {
+    "class_id": "Class_595",
+    "className": "中英双语4班",
+    "teacher": "吴文政",
+    "teacher_id": [
+      "Teacher_366"
+    ]
+  },
+  {
+    "class_id": "Class_596",
+    "className": "中英双语3班",
+    "teacher": "刘畅",
+    "teacher_id": [
+      "Teacher_367"
+    ]
+  },
+  {
+    "class_id": "Class_597",
+    "className": "中英双语2班",
+    "teacher": "陈远珍",
+    "teacher_id": [
+      "Teacher_368"
+    ]
+  }
+]

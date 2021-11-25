@@ -1,0 +1,1657 @@
+[
+  {
+    "courseId": "ESE212",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 1,
+    "course": "化学原理 B"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 3,
+    "course": "化学原理实验A"
+  },
+  {
+    "courseId": "EE332",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE332",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE332",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "BIO320",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO320",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "CH305-2",
+    "group_num": 1,
+    "course": "仪器分析原理"
+  },
+  {
+    "courseId": "ME306",
+    "group_num": 1,
+    "course": "机械设计基础"
+  },
+  {
+    "courseId": "ME306",
+    "group_num": 2,
+    "course": "控制工程基础"
+  },
+  {
+    "courseId": "ESE218",
+    "group_num": 1,
+    "course": "水力学"
+  },
+  {
+    "courseId": "CH323",
+    "group_num": 1,
+    "course": "有机化学II"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "ME303",
+    "group_num": 1,
+    "course": "材料力学"
+  },
+  {
+    "courseId": "ME303",
+    "group_num": 2,
+    "course": "CAD与工程制图"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 2,
+    "course": "数据结构与算法分析"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 3,
+    "course": "计算机组成原理"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 2,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 2,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MED307",
+    "group_num": 1,
+    "course": "分子生物学"
+  },
+  {
+    "courseId": "MA314",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "MA314",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "MA314",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "MA201b",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MA322",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "ME308",
+    "group_num": 1,
+    "course": "机械制造基础"
+  },
+  {
+    "courseId": "ESE304",
+    "group_num": 1,
+    "course": "环境化学"
+  },
+  {
+    "courseId": "ESE304",
+    "group_num": 1,
+    "course": "物理化学"
+  },
+  {
+    "courseId": "ESE310",
+    "group_num": 1,
+    "course": "固体废弃物处理处置与资源化"
+  },
+  {
+    "courseId": "ESE310",
+    "group_num": 1,
+    "course": "大气污染与防治"
+  },
+  {
+    "courseId": "MA224",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "OCE304",
+    "group_num": 1,
+    "course": "计算机程序设计基础B"
+  },
+  {
+    "courseId": "OCE304",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "ME305",
+    "group_num": 1,
+    "course": "机械设计基础"
+  },
+  {
+    "courseId": "EE201-17L",
+    "group_num": 1,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "EE201-17L",
+    "group_num": 1,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "EE202-17",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "EE202-17",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 3,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "ESS312",
+    "group_num": 1,
+    "course": "高等数学（上）A"
+  },
+  {
+    "courseId": "ESS312",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "ME301",
+    "group_num": 1,
+    "course": "常微分方程A"
+  },
+  {
+    "courseId": "ME301",
+    "group_num": 1,
+    "course": "常微分方程B"
+  },
+  {
+    "courseId": "OCE404",
+    "group_num": 1,
+    "course": "海洋科学导论"
+  },
+  {
+    "courseId": "OCE404",
+    "group_num": 1,
+    "course": "海洋地质学"
+  },
+  {
+    "courseId": "ESE318",
+    "group_num": 1,
+    "course": "地球科学概论"
+  },
+  {
+    "courseId": "ME405",
+    "group_num": 1,
+    "course": "机械设计基础"
+  },
+  {
+    "courseId": "ME405",
+    "group_num": 1,
+    "course": "创新设计实践"
+  },
+  {
+    "courseId": "ME307",
+    "group_num": 1,
+    "course": "电路基础"
+  },
+  {
+    "courseId": "CH320",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 2,
+    "course": "线性代数II"
+  },
+  {
+    "courseId": "ESE316",
+    "group_num": 1,
+    "course": "水文学原理与应用"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 3,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 3,
+    "course": "化学原理 B"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 2,
+    "course": "电路基础"
+  },
+  {
+    "courseId": "MA206",
+    "group_num": 1,
+    "course": "常微分方程A"
+  },
+  {
+    "courseId": "MA206",
+    "group_num": 1,
+    "course": "常微分方程B"
+  },
+  {
+    "courseId": "ESS202",
+    "group_num": 1,
+    "course": "计算机程序设计基础B"
+  },
+  {
+    "courseId": "ESS202",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "OCE305",
+    "group_num": 1,
+    "course": "海洋科学导论"
+  },
+  {
+    "courseId": "MAT8010",
+    "group_num": 1,
+    "course": "抽象代数"
+  },
+  {
+    "courseId": "MAT8010",
+    "group_num": 1,
+    "course": "抽象代数"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 2,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 2,
+    "course": "公司金融"
+  },
+  {
+    "courseId": "MA327",
+    "group_num": 1,
+    "course": "常微分方程A"
+  },
+  {
+    "courseId": "MA327",
+    "group_num": 1,
+    "course": "常微分方程B"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 2,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 3,
+    "course": "线性代数II"
+  },
+  {
+    "courseId": "MA406",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA406",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA406",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 3,
+    "course": "地球科学概论"
+  },
+  {
+    "courseId": "ME304",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "ME304",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "ME304",
+    "group_num": 2,
+    "course": "传热学"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "MA417",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "MA417",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "MA417",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "ME434",
+    "group_num": 1,
+    "course": "机器人基础"
+  },
+  {
+    "courseId": "MAT7012",
+    "group_num": 1,
+    "course": "抽象代数"
+  },
+  {
+    "courseId": "MAT7012",
+    "group_num": 1,
+    "course": "抽象代数"
+  },
+  {
+    "courseId": "MAE314",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MAE314",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MAE314",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "ESE307",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "ESE307",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "EE334",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE334",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE334",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "MAE310",
+    "group_num": 1,
+    "course": "弹性力学"
+  },
+  {
+    "courseId": "MAE310",
+    "group_num": 1,
+    "course": "弹性力学"
+  },
+  {
+    "courseId": "PHY442",
+    "group_num": 1,
+    "course": "量子力学I"
+  },
+  {
+    "courseId": "CS306",
+    "group_num": 1,
+    "course": "数据结构与算法分析"
+  },
+  {
+    "courseId": "FET206",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "MA333",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "CH102-17",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "ME302",
+    "group_num": 1,
+    "course": "制造工程认知实践"
+  },
+  {
+    "courseId": "ME302",
+    "group_num": 1,
+    "course": "机械设计基础"
+  },
+  {
+    "courseId": "ESE214",
+    "group_num": 1,
+    "course": "环境监测"
+  },
+  {
+    "courseId": "MA213-16",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MA110",
+    "group_num": 1,
+    "course": "线性代数II"
+  },
+  {
+    "courseId": "CH212-16",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "OCE408",
+    "group_num": 1,
+    "course": "矿物学与岩石学"
+  },
+  {
+    "courseId": "PHY439",
+    "group_num": 1,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "PHY439",
+    "group_num": 2,
+    "course": "分析力学"
+  },
+  {
+    "courseId": "FET204",
+    "group_num": 1,
+    "course": "微观经济学"
+  },
+  {
+    "courseId": "FET204",
+    "group_num": 1,
+    "course": "财务会计"
+  },
+  {
+    "courseId": "MAE308",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MAE308",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MAE308",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CS209A",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "CS209A",
+    "group_num": 1,
+    "course": "计算机程序设计基础B"
+  },
+  {
+    "courseId": "CH308-14",
+    "group_num": 1,
+    "course": "有机化学II"
+  },
+  {
+    "courseId": "CH318-14",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "BIO303",
+    "group_num": 1,
+    "course": "生物化学与分子生物学实验"
+  },
+  {
+    "courseId": "BIO303",
+    "group_num": 1,
+    "course": "遗传学"
+  },
+  {
+    "courseId": "BIO305",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO304",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO304",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO304",
+    "group_num": 2,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "BIO104",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO104",
+    "group_num": 1,
+    "course": "普通生物学"
+  },
+  {
+    "courseId": "BIO104",
+    "group_num": 2,
+    "course": "生命科学概论"
+  },
+  {
+    "courseId": "BIO302",
+    "group_num": 1,
+    "course": "普通生物学实验"
+  },
+  {
+    "courseId": "CS208",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "CS208",
+    "group_num": 2,
+    "course": "数据结构与算法分析"
+  },
+  {
+    "courseId": "CH208",
+    "group_num": 1,
+    "course": "化学原理实验A"
+  },
+  {
+    "courseId": "CH204",
+    "group_num": 1,
+    "course": "化学原理实验A"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 2,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 2,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "CH306",
+    "group_num": 2,
+    "course": "金属有机化学"
+  },
+  {
+    "courseId": "CH306",
+    "group_num": 2,
+    "course": "配位化学"
+  },
+  {
+    "courseId": "CH314",
+    "group_num": 1,
+    "course": "有机化学II"
+  },
+  {
+    "courseId": "CH312",
+    "group_num": 1,
+    "course": "有机化学II"
+  },
+  {
+    "courseId": "CH304",
+    "group_num": 2,
+    "course": "金属有机化学"
+  },
+  {
+    "courseId": "CH304",
+    "group_num": 2,
+    "course": "配位化学"
+  },
+  {
+    "courseId": "CH316",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "CS202",
+    "group_num": 1,
+    "course": "数字逻辑"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 1,
+    "course": "数据结构与算法分析"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 2,
+    "course": "计算机组成原理"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 3,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "FMA307",
+    "group_num": 1,
+    "course": "应用随机过程"
+  },
+  {
+    "courseId": "FMA307",
+    "group_num": 1,
+    "course": "应用随机过程"
+  },
+  {
+    "courseId": "BIO222",
+    "group_num": 1,
+    "course": "普通生物学实验"
+  },
+  {
+    "courseId": "ESE302",
+    "group_num": 1,
+    "course": "物理化学"
+  },
+  {
+    "courseId": "EE326",
+    "group_num": 1,
+    "course": "信号和系统"
+  },
+  {
+    "courseId": "BMEB324",
+    "group_num": 1,
+    "course": "生物医学光学"
+  },
+  {
+    "courseId": "BMEB324",
+    "group_num": 1,
+    "course": "生物医学光学"
+  },
+  {
+    "courseId": "PHY201-15",
+    "group_num": 1,
+    "course": "大学物理 B(上)"
+  },
+  {
+    "courseId": "MSE305",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE305",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE313",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE313",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 1,
+    "course": "基础物理实验"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 1,
+    "course": "基础物理实验"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 2,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 2,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 1,
+    "course": "高等数学（上）A"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 2,
+    "course": "线性代数I-B"
+  },
+  {
+    "courseId": "EE204",
+    "group_num": 1,
+    "course": "固态电子学"
+  },
+  {
+    "courseId": "EE206",
+    "group_num": 1,
+    "course": "信号和系统"
+  },
+  {
+    "courseId": "CS203",
+    "group_num": 1,
+    "course": "计算机程序设计基础A"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 1,
+    "course": "高等数学（上）A"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 3,
+    "course": "电路基础"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 2,
+    "course": "半导体器件导论"
+  },
+  {
+    "courseId": "EE306",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "EE306",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 1,
+    "course": "电路基础"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 1,
+    "course": "工程电磁场理论"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 2,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 2,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "EE320-15",
+    "group_num": 1,
+    "course": "半导体器件导论"
+  },
+  {
+    "courseId": "EE322",
+    "group_num": 1,
+    "course": "半导体器件导论"
+  },
+  {
+    "courseId": "ESE206",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "ESE206",
+    "group_num": 1,
+    "course": "化学原理 B"
+  },
+  {
+    "courseId": "MSE208",
+    "group_num": 1,
+    "course": "化学原理 A"
+  },
+  {
+    "courseId": "MA302",
+    "group_num": 1,
+    "course": "复变函数"
+  },
+  {
+    "courseId": "MA302",
+    "group_num": 1,
+    "course": "复变函数"
+  },
+  {
+    "courseId": "MA302",
+    "group_num": 2,
+    "course": "线性代数II"
+  },
+  {
+    "courseId": "MAE407",
+    "group_num": 1,
+    "course": "热力学与统计物理I"
+  },
+  {
+    "courseId": "EE202-17L",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "EE202-17L",
+    "group_num": 1,
+    "course": "数字电路"
+  },
+  {
+    "courseId": "MAE304",
+    "group_num": 1,
+    "course": "材料力学"
+  },
+  {
+    "courseId": "MAE304",
+    "group_num": 1,
+    "course": "材料力学"
+  },
+  {
+    "courseId": "FMA301",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FMA301",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FMA301",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "ME310",
+    "group_num": 1,
+    "course": "控制工程基础"
+  },
+  {
+    "courseId": "ME310",
+    "group_num": 2,
+    "course": "信号和系统"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 1,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 2,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 3,
+    "course": "信号和系统"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 2,
+    "course": "公司金融"
+  },
+  {
+    "courseId": "FMA302",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "MA104b",
+    "group_num": 1,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "数学分析III"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "数学分析精讲"
+  },
+  {
+    "courseId": "MA212",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MA212",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MA212",
+    "group_num": 1,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MA204",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FIN206",
+    "group_num": 1,
+    "course": "财务会计"
+  },
+  {
+    "courseId": "MA214",
+    "group_num": 1,
+    "course": "线性代数II"
+  },
+  {
+    "courseId": "FIN302",
+    "group_num": 1,
+    "course": "金融投资概论"
+  },
+  {
+    "courseId": "FIN302",
+    "group_num": 2,
+    "course": "计量经济学"
+  },
+  {
+    "courseId": "FIN302",
+    "group_num": 2,
+    "course": "计量经济学"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 2,
+    "course": "宏观经济学"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 2,
+    "course": "微观经济学"
+  },
+  {
+    "courseId": "FIN208",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FIN208",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "MA304",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "MA304",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "MA304",
+    "group_num": 1,
+    "course": "数理统计"
+  },
+  {
+    "courseId": "FIN306",
+    "group_num": 1,
+    "course": "金融衍生品"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 1,
+    "course": "概率论与数理统计"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 2,
+    "course": "公司金融"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 3,
+    "course": "金融投资概论"
+  },
+  {
+    "courseId": "MAT7003",
+    "group_num": 1,
+    "course": "泛函分析"
+  },
+  {
+    "courseId": "MSE204",
+    "group_num": 1,
+    "course": "物理化学"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 2,
+    "course": "高等数学（下）A"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 2,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MSE302",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE302",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE306",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE321",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE316",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE316",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "MSE318",
+    "group_num": 1,
+    "course": "材料科学创新实验I"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 2,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 2,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 2,
+    "course": "模拟电路"
+  },
+  {
+    "courseId": "MSE403",
+    "group_num": 1,
+    "course": "材料科学基础"
+  },
+  {
+    "courseId": "PHY205-15",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY205-15",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "PHY202",
+    "group_num": 1,
+    "course": "大学物理 B(上)"
+  },
+  {
+    "courseId": "PHY210",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY210",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "PHY204",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY204",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "PHY324",
+    "group_num": 1,
+    "course": "原子物理学"
+  },
+  {
+    "courseId": "PHY330",
+    "group_num": 1,
+    "course": "量子力学I"
+  },
+  {
+    "courseId": "PHY208",
+    "group_num": 1,
+    "course": "电动力学I"
+  },
+  {
+    "courseId": "PHY328",
+    "group_num": 1,
+    "course": "热力学与统计物理I"
+  },
+  {
+    "courseId": "PHY206-15",
+    "group_num": 1,
+    "course": "数学物理方法"
+  },
+  {
+    "courseId": "PHY206-15",
+    "group_num": 1,
+    "course": "分析力学"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 1,
+    "course": "大学物理A(下)"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 1,
+    "course": "大学物理 B(下)"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 2,
+    "course": "线性代数I-A"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 3,
+    "course": "数学物理方法"
+  },
+  {
+    "courseId": "CLE039",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "CLE041",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "GE2229",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "CLE042",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "HUM018",
+    "group_num": 1,
+    "course": "科幻电影鉴赏与批评"
+  },
+  {
+    "courseId": "CLE024",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "GEL006",
+    "group_num": 1,
+    "course": "EAP"
+  },
+  {
+    "courseId": "MA203a",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "MA203a",
+    "group_num": 1,
+    "course": "数学分析II"
+  },
+  {
+    "courseId": "CLE030",
+    "group_num": 1,
+    "course": "SUSTech English III"
+  },
+  {
+    "courseId": "MA102B",
+    "group_num": 1,
+    "course": "高等数学（上）A"
+  },
+  {
+    "courseId": "PHY105C",
+    "group_num": 1,
+    "course": "大学物理 B(上)"
+  },
+  {
+    "courseId": "PHY105B",
+    "group_num": 1,
+    "course": "大学物理 B(上)"
+  }
+]

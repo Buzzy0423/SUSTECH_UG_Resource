@@ -1,0 +1,1397 @@
+[
+  {
+    "courseId": "ESE212",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 1,
+    "course": "CH101B"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "ESE212",
+    "group_num": 3,
+    "course": "CH102-17"
+  },
+  {
+    "courseId": "EE332",
+    "group_num": 1,
+    "course": "EE202-17"
+  },
+  {
+    "courseId": "BIO320",
+    "group_num": 1,
+    "course": "BIO102A"
+  },
+  {
+    "courseId": "CH305-2",
+    "group_num": 1,
+    "course": "CH305-1"
+  },
+  {
+    "courseId": "ME306",
+    "group_num": 1,
+    "course": "ME303"
+  },
+  {
+    "courseId": "ME306",
+    "group_num": 2,
+    "course": "ME307"
+  },
+  {
+    "courseId": "ESE218",
+    "group_num": 1,
+    "course": "ESE216"
+  },
+  {
+    "courseId": "CH323",
+    "group_num": 1,
+    "course": "CH206"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "ESE216",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "ME303",
+    "group_num": 1,
+    "course": "MSE305"
+  },
+  {
+    "courseId": "ME303",
+    "group_num": 2,
+    "course": "ME102"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 2,
+    "course": "CS203"
+  },
+  {
+    "courseId": "CS401",
+    "group_num": 3,
+    "course": "CS202"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 2,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MSE202",
+    "group_num": 2,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "MED307",
+    "group_num": 1,
+    "course": "BIO320"
+  },
+  {
+    "courseId": "MA314",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "MA314",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "MA201b",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MA322",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "ME308",
+    "group_num": 1,
+    "course": "ME302"
+  },
+  {
+    "courseId": "ESE304",
+    "group_num": 1,
+    "course": "ESE206"
+  },
+  {
+    "courseId": "ESE304",
+    "group_num": 1,
+    "course": "MSE202"
+  },
+  {
+    "courseId": "ESE310",
+    "group_num": 1,
+    "course": "ESE302"
+  },
+  {
+    "courseId": "ESE310",
+    "group_num": 1,
+    "course": "ESE304"
+  },
+  {
+    "courseId": "MA224",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "OCE304",
+    "group_num": 1,
+    "course": "CS102B"
+  },
+  {
+    "courseId": "OCE304",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "ME305",
+    "group_num": 1,
+    "course": "ME303"
+  },
+  {
+    "courseId": "EE201-17L",
+    "group_num": 1,
+    "course": "EE201-17"
+  },
+  {
+    "courseId": "EE202-17",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "EE202-17",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "PHY203-15",
+    "group_num": 3,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "ESS312",
+    "group_num": 1,
+    "course": "MA101B"
+  },
+  {
+    "courseId": "ESS312",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "ME301",
+    "group_num": 1,
+    "course": "MA201a"
+  },
+  {
+    "courseId": "ME301",
+    "group_num": 1,
+    "course": "MA201b"
+  },
+  {
+    "courseId": "OCE404",
+    "group_num": 1,
+    "course": "OCE201"
+  },
+  {
+    "courseId": "OCE404",
+    "group_num": 1,
+    "course": "OCE306"
+  },
+  {
+    "courseId": "ESE318",
+    "group_num": 1,
+    "course": "ESE201"
+  },
+  {
+    "courseId": "ME405",
+    "group_num": 1,
+    "course": "ME303"
+  },
+  {
+    "courseId": "ME405",
+    "group_num": 1,
+    "course": "ME305"
+  },
+  {
+    "courseId": "ME307",
+    "group_num": 1,
+    "course": "EE104"
+  },
+  {
+    "courseId": "CH320",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "MAE204",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 1,
+    "course": "MA213-16"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 1,
+    "course": "MA203a"
+  },
+  {
+    "courseId": "MA201a",
+    "group_num": 2,
+    "course": "MA104b"
+  },
+  {
+    "courseId": "ESE316",
+    "group_num": 1,
+    "course": "ESE307"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 3,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "ESE332",
+    "group_num": 3,
+    "course": "CH101B"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "EE201-17",
+    "group_num": 2,
+    "course": "EE104"
+  },
+  {
+    "courseId": "MA206",
+    "group_num": 1,
+    "course": "MA201a"
+  },
+  {
+    "courseId": "MA206",
+    "group_num": 1,
+    "course": "MA201b"
+  },
+  {
+    "courseId": "ESS202",
+    "group_num": 1,
+    "course": "CS102B"
+  },
+  {
+    "courseId": "ESS202",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "OCE305",
+    "group_num": 1,
+    "course": "OCE201"
+  },
+  {
+    "courseId": "MAT8010",
+    "group_num": 1,
+    "course": "MA214"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "MSE201",
+    "group_num": 2,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "FET303",
+    "group_num": 2,
+    "course": "FIN206"
+  },
+  {
+    "courseId": "MA327",
+    "group_num": 1,
+    "course": "MA201a"
+  },
+  {
+    "courseId": "MA327",
+    "group_num": 1,
+    "course": "MA201b"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 1,
+    "course": "MA203a"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 1,
+    "course": "MA213-16"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 2,
+    "course": "MA212"
+  },
+  {
+    "courseId": "MA208",
+    "group_num": 3,
+    "course": "MA104b"
+  },
+  {
+    "courseId": "MA406",
+    "group_num": 1,
+    "course": "MA203a"
+  },
+  {
+    "courseId": "MA406",
+    "group_num": 1,
+    "course": "MA213-16"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "ESE329",
+    "group_num": 3,
+    "course": "ESE201"
+  },
+  {
+    "courseId": "ME304",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "ME304",
+    "group_num": 2,
+    "course": "MAE308"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "MAE202",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "MA417",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "MA417",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "ME434",
+    "group_num": 1,
+    "course": "ME306"
+  },
+  {
+    "courseId": "MAT7012",
+    "group_num": 1,
+    "course": "MA214"
+  },
+  {
+    "courseId": "MAE314",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MAE314",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "ESE307",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "ESE307",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "EE334",
+    "group_num": 1,
+    "course": "EE202-17"
+  },
+  {
+    "courseId": "MAE310",
+    "group_num": 1,
+    "course": "MAE304"
+  },
+  {
+    "courseId": "PHY442",
+    "group_num": 1,
+    "course": "PHY206-15"
+  },
+  {
+    "courseId": "CS306",
+    "group_num": 1,
+    "course": "CS203"
+  },
+  {
+    "courseId": "FET206",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "MA333",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "CH102-17",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "MA203a"
+  },
+  {
+    "courseId": "MA210",
+    "group_num": 1,
+    "course": "MA213-16"
+  },
+  {
+    "courseId": "ME302",
+    "group_num": 1,
+    "course": "ME103"
+  },
+  {
+    "courseId": "ME302",
+    "group_num": 1,
+    "course": "ME303"
+  },
+  {
+    "courseId": "ESE214",
+    "group_num": 1,
+    "course": "ESE212"
+  },
+  {
+    "courseId": "MA213-16",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MA110",
+    "group_num": 1,
+    "course": "MA104b"
+  },
+  {
+    "courseId": "CH212-16",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "OCE408",
+    "group_num": 1,
+    "course": "OCE407"
+  },
+  {
+    "courseId": "PHY439",
+    "group_num": 1,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "PHY439",
+    "group_num": 2,
+    "course": "PHY205-15"
+  },
+  {
+    "courseId": "FET204",
+    "group_num": 1,
+    "course": "FIN201"
+  },
+  {
+    "courseId": "FET204",
+    "group_num": 1,
+    "course": "FIN203"
+  },
+  {
+    "courseId": "MAE308",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MAE308",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "CS209A",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "CS209A",
+    "group_num": 1,
+    "course": "CS102B"
+  },
+  {
+    "courseId": "CH308-14",
+    "group_num": 1,
+    "course": "CH206"
+  },
+  {
+    "courseId": "CH318-14",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "BIO303",
+    "group_num": 1,
+    "course": "BIO222"
+  },
+  {
+    "courseId": "BIO303",
+    "group_num": 1,
+    "course": "BIO301"
+  },
+  {
+    "courseId": "BIO305",
+    "group_num": 1,
+    "course": "BIO102A"
+  },
+  {
+    "courseId": "BIO304",
+    "group_num": 1,
+    "course": "BIO102A"
+  },
+  {
+    "courseId": "BIO304",
+    "group_num": 2,
+    "course": "MA212"
+  },
+  {
+    "courseId": "BIO104",
+    "group_num": 1,
+    "course": "BIO102A"
+  },
+  {
+    "courseId": "BIO104",
+    "group_num": 2,
+    "course": "BIO102B"
+  },
+  {
+    "courseId": "BIO302",
+    "group_num": 1,
+    "course": "BIO104"
+  },
+  {
+    "courseId": "CS208",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "CS208",
+    "group_num": 2,
+    "course": "CS203"
+  },
+  {
+    "courseId": "CH208",
+    "group_num": 1,
+    "course": "CH102-17"
+  },
+  {
+    "courseId": "CH204",
+    "group_num": 1,
+    "course": "CH102-17"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 2,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "CH403",
+    "group_num": 2,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "CH306",
+    "group_num": 2,
+    "course": "CH214"
+  },
+  {
+    "courseId": "CH306",
+    "group_num": 2,
+    "course": "CH215"
+  },
+  {
+    "courseId": "CH314",
+    "group_num": 1,
+    "course": "CH206"
+  },
+  {
+    "courseId": "CH312",
+    "group_num": 1,
+    "course": "CH206"
+  },
+  {
+    "courseId": "CH304",
+    "group_num": 2,
+    "course": "CH214"
+  },
+  {
+    "courseId": "CH304",
+    "group_num": 2,
+    "course": "CH215"
+  },
+  {
+    "courseId": "CH316",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "CS201",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "CS202",
+    "group_num": 1,
+    "course": "CS207"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 1,
+    "course": "CS203"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 2,
+    "course": "CS202"
+  },
+  {
+    "courseId": "CS302",
+    "group_num": 3,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "FMA307",
+    "group_num": 1,
+    "course": "MA208"
+  },
+  {
+    "courseId": "BIO222",
+    "group_num": 1,
+    "course": "BIO104"
+  },
+  {
+    "courseId": "ESE302",
+    "group_num": 1,
+    "course": "MSE202"
+  },
+  {
+    "courseId": "EE326",
+    "group_num": 1,
+    "course": "EE205"
+  },
+  {
+    "courseId": "BMEB324",
+    "group_num": 1,
+    "course": "BMEB315"
+  },
+  {
+    "courseId": "PHY201-15",
+    "group_num": 1,
+    "course": "PHY103B"
+  },
+  {
+    "courseId": "MSE305",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE313",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 1,
+    "course": "PHY104B"
+  },
+  {
+    "courseId": "MSE308",
+    "group_num": 2,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 1,
+    "course": "MA101B"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "EE104",
+    "group_num": 2,
+    "course": "MA103B"
+  },
+  {
+    "courseId": "EE204",
+    "group_num": 1,
+    "course": "EE203"
+  },
+  {
+    "courseId": "EE206",
+    "group_num": 1,
+    "course": "EE205"
+  },
+  {
+    "courseId": "CS203",
+    "group_num": 1,
+    "course": "CS102A"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 1,
+    "course": "MA101B"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "EE208",
+    "group_num": 3,
+    "course": "EE104"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 1,
+    "course": "EE202-17"
+  },
+  {
+    "courseId": "EE304",
+    "group_num": 2,
+    "course": "EE204"
+  },
+  {
+    "courseId": "EE306",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "EE306",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 1,
+    "course": "EE104"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 1,
+    "course": "EE208"
+  },
+  {
+    "courseId": "EE316",
+    "group_num": 2,
+    "course": "EE201-17"
+  },
+  {
+    "courseId": "EE320-15",
+    "group_num": 1,
+    "course": "EE204"
+  },
+  {
+    "courseId": "EE322",
+    "group_num": 1,
+    "course": "EE204"
+  },
+  {
+    "courseId": "ESE206",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "ESE206",
+    "group_num": 1,
+    "course": "CH101B"
+  },
+  {
+    "courseId": "MSE208",
+    "group_num": 1,
+    "course": "CH101A"
+  },
+  {
+    "courseId": "MA302",
+    "group_num": 1,
+    "course": "MA202"
+  },
+  {
+    "courseId": "MA302",
+    "group_num": 2,
+    "course": "MA104b"
+  },
+  {
+    "courseId": "MAE407",
+    "group_num": 1,
+    "course": "PHY204"
+  },
+  {
+    "courseId": "EE202-17L",
+    "group_num": 1,
+    "course": "EE202-17"
+  },
+  {
+    "courseId": "MAE304",
+    "group_num": 1,
+    "course": "MSE305"
+  },
+  {
+    "courseId": "FMA301",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FMA301",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "ME310",
+    "group_num": 1,
+    "course": "ME307"
+  },
+  {
+    "courseId": "ME310",
+    "group_num": 2,
+    "course": "EE205"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 1,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 2,
+    "course": "MA212"
+  },
+  {
+    "courseId": "EE423-14",
+    "group_num": 3,
+    "course": "EE205"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "FIN308",
+    "group_num": 2,
+    "course": "FIN206"
+  },
+  {
+    "courseId": "FMA302",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "MA104b",
+    "group_num": 1,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "MA203a"
+  },
+  {
+    "courseId": "MA202",
+    "group_num": 1,
+    "course": "MA213-16"
+  },
+  {
+    "courseId": "MA212",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "MA212",
+    "group_num": 1,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MA204",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FIN206",
+    "group_num": 1,
+    "course": "FIN203"
+  },
+  {
+    "courseId": "MA214",
+    "group_num": 1,
+    "course": "MA104b"
+  },
+  {
+    "courseId": "FIN302",
+    "group_num": 1,
+    "course": "FIN301"
+  },
+  {
+    "courseId": "FIN302",
+    "group_num": 2,
+    "course": "FMA301"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 2,
+    "course": "FIN204"
+  },
+  {
+    "courseId": "FIN301",
+    "group_num": 2,
+    "course": "FIN201"
+  },
+  {
+    "courseId": "FIN208",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FIN208",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "MA304",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "MA304",
+    "group_num": 1,
+    "course": "MA204"
+  },
+  {
+    "courseId": "FIN306",
+    "group_num": 1,
+    "course": "FIN305"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 1,
+    "course": "MA212"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 2,
+    "course": "FIN206"
+  },
+  {
+    "courseId": "FIN305",
+    "group_num": 3,
+    "course": "FIN301"
+  },
+  {
+    "courseId": "MAT7003",
+    "group_num": 1,
+    "course": "MA302"
+  },
+  {
+    "courseId": "MSE204",
+    "group_num": 1,
+    "course": "MSE202"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 2,
+    "course": "MA102B"
+  },
+  {
+    "courseId": "MSE328",
+    "group_num": 2,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "MSE302",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE306",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE321",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE316",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "MSE318",
+    "group_num": 1,
+    "course": "MSE321"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "MSE320",
+    "group_num": 2,
+    "course": "EE201-17"
+  },
+  {
+    "courseId": "MSE403",
+    "group_num": 1,
+    "course": "MSE201"
+  },
+  {
+    "courseId": "PHY205-15",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY205-15",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "PHY202",
+    "group_num": 1,
+    "course": "PHY103B"
+  },
+  {
+    "courseId": "PHY210",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY210",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "PHY204",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY204",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "PHY324",
+    "group_num": 1,
+    "course": "PHY210"
+  },
+  {
+    "courseId": "PHY330",
+    "group_num": 1,
+    "course": "PHY206-15"
+  },
+  {
+    "courseId": "PHY208",
+    "group_num": 1,
+    "course": "PHY207-15"
+  },
+  {
+    "courseId": "PHY328",
+    "group_num": 1,
+    "course": "PHY204"
+  },
+  {
+    "courseId": "PHY206-15",
+    "group_num": 1,
+    "course": "PHY203-15"
+  },
+  {
+    "courseId": "PHY206-15",
+    "group_num": 1,
+    "course": "PHY205-15"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 1,
+    "course": "PHY105A"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 1,
+    "course": "PHY105B"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 2,
+    "course": "MA103A"
+  },
+  {
+    "courseId": "PHY207-15",
+    "group_num": 3,
+    "course": "PHY203-15"
+  },
+  {
+    "courseId": "CLE039",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "CLE041",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "GE2229",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "CLE042",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "HUM018",
+    "group_num": 1,
+    "course": "HUM005"
+  },
+  {
+    "courseId": "CLE024",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "GEL006",
+    "group_num": 1,
+    "course": "CLE030"
+  },
+  {
+    "courseId": "MA203a",
+    "group_num": 1,
+    "course": "MA102a"
+  },
+  {
+    "courseId": "CLE030",
+    "group_num": 1,
+    "course": "CLE023"
+  },
+  {
+    "courseId": "MA102B",
+    "group_num": 1,
+    "course": "MA101B"
+  },
+  {
+    "courseId": "PHY105C",
+    "group_num": 1,
+    "course": "PHY103B"
+  },
+  {
+    "courseId": "PHY105B",
+    "group_num": 1,
+    "course": "PHY103B"
+  }
+]

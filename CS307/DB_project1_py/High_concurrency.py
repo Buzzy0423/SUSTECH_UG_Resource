@@ -14,8 +14,6 @@ def select():
                                   port=5432)
     con = connection.cursor()
     start = time.time()
-    con.execute('begin transaction;')
-    con.execute('set transaction isolation level read uncommitted;')
     con.execute(s)
     connection.commit()
     con.fetchone()
@@ -27,7 +25,7 @@ def select():
 
 if __name__ == '__main__':
     threads = []
-    for i in range(1, 100):
+    for i in range(1, 501):
         threads.append(threading.Thread(target=select()))
     for t in threads:
         t.start()

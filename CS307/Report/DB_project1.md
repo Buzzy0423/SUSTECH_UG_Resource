@@ -2,7 +2,7 @@
 
 ## Task 1: Database design
 
-<img src="截屏2021-10-29 下午3.47.28.png" alt="截屏2021-10-29 下午3.47.28" style="zoom:50%;" />
+<img src="截屏2021-10-29 下午3.47.28.png" alt="截屏2021-10-29 下午3.47.28" style="zoom:30%;" />
 
 ​	数据库的结构如图所示，总共由11个表组成。
 
@@ -10,49 +10,11 @@
 
 ​	设计此数据库时，我将表分类为**实体表和关系表**，并根据数据库设计三大范式对数据进行了分析。若是两个实体表中的属性为一对多的关系，则可以不用单独建立关系表，而是在其中一张表中建立外键。若两个属性为多对多的关系，则需要建立关系表，例如图中的class_teacher表。并且**为了数据库的可拓展性，我对location，dept等仅有一个属性的实体建立了表格，方便以后添加属性。** 
 
-### dept
+**实体表：** dept, course, student, class, teacher, class_detail
 
-​	dept表为实体表，因为所给数据没有包含更多信息，故只有主键dept_name。
+**关系表：** course_prerequisite, class_teacher, student_course
 
-### college
-
-​	college表为实体表，因为所给数据没有包含更多信息，故只有主键college_name。
-
-### course
-
-​	course表为实体表，主键为course_id，其他列为course自身所包含的属性，其中course_dept为一个与dept表中主键dept_name关联的外键
-
-### location
-
-​	location为实体表，主键为location。
-
-### student
-
-​	student表为实体表，主键为student_id，其他列为student自身属性，**其中sex一列的数据类型为只包含"F"和"M"enum类**。college为与college表中的college_name相关联的外键
-
-### student_course
-
-​	student_course表为关系表，因为学生和所选课程之间的关系是多对多的。student_id为与student中student_id关联的外键，course_id为与course中course_id关联的外键。**student_id和course_id为联合主键**
-
-### class
-
-​	class表为实体表，**其中的属性都不为唯一值，所以我建立了class_id列作为主键，便于后续关系表的建立**。因为course和class是一对多的关系，所以在class表中建立了**与course中course_id关联的外键course_id。**
-
-### teacher
-
-​	teacher表为实体表，**因为考虑到teacher可能会重名，所以我建立了teacher_id列作为主键，便于后续关系表的建立**。
-
-### course_prerequisite
-
-​	course_prerequisite为关系表，**因为前置课程间有一定的逻辑关系，所以我在表中添加了一列group_num，即每个course从该课所有的group_num中各选一节课即组成该课的前置条件**。 course_id，group_num和pre_course为联合主键。course_id和pre_course都是指向course中course_id的外键。
-
-### class_detail
-
-​	class_detail为json文件中classlist类，为实体表，class_detail和class为一对多关系，所以在class_detail中建立与class中class_id关联的外键class_id。**其中的属性都不为唯一值，所以建立联合主键(class_id,location,class_time,weekday)。**
-
-### class_teacher
-
-​	class_teacher为关系表，class_id和teacher_id分别为关联class表中class_id和teacher表中teacher_id的外键。
+**student中sex一列的数据类型为只包含"F"和"M"enum类**
 
 ## **Task 2: Import data**	
 
@@ -100,10 +62,7 @@ for (Pre p : courses) {
               	//存在这门课，course_name是一个存放了所有课程名的List
                 if (quote) check = true;
                 pre_courses.add(new Pre_course(p.courseId, num, p.prerequisite.substring(tmp + 1, i)));
-            }
-        }
-    }
-}
+            }}}}
 ```
 
 ​	对于select_course.csv文件，清洗数据用的是python的pandas包，**去除了空格和制表符，删除了选课信息中重复的数据并并且重新调整表格形状以方便导入**。（一开始忘记去空格导致外键一直匹配不上...）
@@ -358,7 +317,7 @@ if __name__ == '__main__':
 
 分别对数据库执行10，100，1000，10000次查询操作重复三次取平均值，结果如下表
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124201741073.png" alt="image-20211124201741073" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124201741073.png" alt="image-20211124201741073" style="zoom:50%;" />
 
 由图可知，数据库在进行大量查询时会进行优化，查询速度会随着查询次数提升至瓶颈。
 
@@ -368,7 +327,7 @@ if __name__ == '__main__':
 sql = 'select * from student s join student_course sc on sc.student_id = s.student_id where s.student_id = %s;'
 ```
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124202714703.png" alt="image-20211124202714703" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124202714703.png" alt="image-20211124202714703" style="zoom:50%;" />
 
 由上表可知，多表连结查询速率要明显低于单表查询。
 
@@ -394,7 +353,7 @@ if __name__ == '__main__':
 
 分别对数据库执行10，100，1000，10000次插入操作重复三次取平均值，结果如下表：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124231456417.png" alt="image-20211124231456417" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124231456417.png" alt="image-20211124231456417" style="zoom:50%;" />
 
 由表可知，插入速度随插入条数逐渐递增。
 
@@ -422,7 +381,7 @@ if __name__ == '__main__':
 
 结果如下表：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124235831919.png" alt="image-20211124235831919" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211124235831919.png" alt="image-20211124235831919" style="zoom:50%;" />
 
 删除速度随条数提升，且提升幅度较大，推测是因为少量条数时查找占用时间较长导致。
 
@@ -450,7 +409,7 @@ if __name__ == '__main__':
 
 结果如下图：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125000648052.png" alt="image-20211125000648052" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125000648052.png" alt="image-20211125000648052" style="zoom:50%;" />
 
 由图可知，删除速度随条数增加，且增加速率逐渐下降。
 
@@ -483,7 +442,7 @@ if __name__ == '__main__':
 
 结果如下图：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125013122282.png" alt="image-20211125013122282" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125013122282.png" alt="image-20211125013122282" style="zoom:50%;" />
 
 由图可知，更新速度随更新次数上升。
 
@@ -513,7 +472,7 @@ if __name__ == '__main__':
     print(end - start)
 ```
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125013629241.png" alt="image-20211125013629241" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125013629241.png" alt="image-20211125013629241" style="zoom:50%;" />
 
 由上图可知，更新速度随条数增加，且增加速率逐渐下降。
 
@@ -550,7 +509,7 @@ if __name__ == '__main__':
 
 随机进行10，100，1000，10000次操作测试速度，结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125192814580.png" alt="image-20211125192814580" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125192814580.png" alt="image-20211125192814580" style="zoom:50%;" />
 
 ### 总结
 
@@ -574,9 +533,9 @@ if __name__ == '__main__':
 
 结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125190612715.png" alt="image-20211125190612715" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125190612715.png" alt="image-20211125190612715" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125190811347.png" alt="image-20211125190811347" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125190811347.png" alt="image-20211125190811347" style="zoom:50%;" />
 
 由图可知，文件的查询效率远远低于数据库，且查询数据量越大数据库优势越明显。
 
@@ -595,9 +554,9 @@ if __name__ == '__main__':
 
 结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125230323396.png" alt="image-20211125230323396" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125230323396.png" alt="image-20211125230323396" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125230339000.png" alt="image-20211125230339000" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211125230339000.png" alt="image-20211125230339000" style="zoom:50%;" />
 
 由图可知，文件的写入速率慢得令人发指，其比例达到了将近600倍，因为写入速率实在太慢故不测试10000条数据插入。
 
@@ -618,9 +577,9 @@ if __name__ == '__main__':
 
 结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126004844671.png" alt="image-20211126004844671" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126004844671.png" alt="image-20211126004844671" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126004855225.png" alt="image-20211126004855225" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126004855225.png" alt="image-20211126004855225" style="zoom:50%;" />
 
 结果出乎意料，文件的删除速度比数据库要更快，且快了近一倍。
 
@@ -638,9 +597,9 @@ if __name__ == '__main__':
     print(end2 - start2)
 ```
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126011619178.png" alt="image-20211126011619178" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126011619178.png" alt="image-20211126011619178" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126011630462.png" alt="image-20211126011630462" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126011630462.png" alt="image-20211126011630462" style="zoom:50%;" />
 
 文件在应对大量操作时的性能显然远远低于数据库。
 
@@ -662,9 +621,9 @@ if __name__ == '__main__':
 
 结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126112256212.png" alt="image-20211126112256212" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126112256212.png" alt="image-20211126112256212" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126112306158.png" alt="image-20211126112306158" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126112306158.png" alt="image-20211126112306158" style="zoom:50%;" />
 
 由上表可以看出，文件在单次操作时的速度要高于数据库。
 
@@ -685,11 +644,13 @@ file = pandas.read_csv('clean_data.csv')
 
 结果如下图
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126114651090.png" alt="image-20211126114651090" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126114651090.png" alt="image-20211126114651090" style="zoom:50%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126114703368.png" alt="image-20211126114703368" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211126114703368.png" alt="image-20211126114703368" style="zoom:50%;" />
 
 ### 总结
+
+由上述测试可以发现，文件的各种操作的耗时几乎和次数成正比，即执行效率一定。而数据库的耗时与次数成对数关系，在数据量较大时，效率增长趋于平滑。数据库在应对大量操作时的表现远远优于数据库，推测是因为数据库使用了B+Tree等数据结构，将原本O(n)的复杂度优化成了O(logn)，大大提升了操作效率。
 
 #### 文件的优点：
 
@@ -702,11 +663,7 @@ file = pandas.read_csv('clean_data.csv')
 #### 文件的缺点：
 
 1. 在执行大量操作时速率极低。
-
 2. 统一数据可能会以不同的格式存储，造成数据冗余。
-
-3. 不支持并发访问。
-
 4. 事务管理困难。
 
 #### 数据库的优点
@@ -715,7 +672,7 @@ file = pandas.read_csv('clean_data.csv')
 
 2. DBMS使得用户可以简单的操作数据。
 
-3. 支持并发访问。
+3. 支持高并发访问。
 
 4. 数据库的日志管理更为完善。
 
@@ -744,13 +701,13 @@ grant select on course,class,class_detail,class_teacher,course_prerequisite,dept
 
 ​	用此用户连接数据库：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-08 下午8.38.20.png" alt="截屏2021-11-08 下午8.38.20" style="zoom:40%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-08 下午8.38.20.png" alt="截屏2021-11-08 下午8.38.20" style="zoom:30%;" />
 
 ​	测试权限：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-08 下午11.02.59.png" alt="截屏2021-11-08 下午11.02.59" style="zoom:50%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-08 下午11.02.59.png" alt="截屏2021-11-08 下午11.02.59" style="zoom:40%;" />
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-09 上午12.00.49.png" alt="截屏2021-11-09 上午12.00.49" style="zoom:50%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-09 上午12.00.49.png" alt="截屏2021-11-09 上午12.00.49" style="zoom:40%;" />
 
 ​	创建教师权限账户：
 
@@ -762,7 +719,7 @@ grant insert,delete on student_course to test_teacher;
 
 ​	测试权限：
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-09 上午12.11.14.png" alt="截屏2021-11-09 上午12.11.14" style="zoom:50%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-09 上午12.11.14.png" alt="截屏2021-11-09 上午12.11.14" style="zoom:40%;" />
 
 ​	测试过程中发现若是不给予学生student_course表的select权限，学生账户就无法删除student_course中的数据，**推测是因为select权限涉及到数据库信息筛选，导致delete时where语句后面的条件请求被数据库拒绝。**这样若是要限制学生用户读取student_course表中的数据则需要在前端进行限制。
 
@@ -828,7 +785,6 @@ grant insert,delete on student_course to test_teacher;
 
 	<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-24 上午11.22.05.png" alt="截屏2021-11-24 上午11.22.05" align = "left" style="zoom:50%;" /><img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-24 上午11.23.50.png" alt="截屏2021-11-24 上午11.23.50" style="zoom:50%;" />
 	<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-24 上午11.24.15.png" align = "left" alt="截屏2021-11-24 上午11.24.15" style="zoom:50%;" />
-
 	<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-24 上午11.24.37.png" align = "left" alt="截屏2021-11-24 上午11.24.37" style="zoom:50%;" />
 	
 	由运行结果可知，在readuncommitted等级下，pgsql也避免了脏读的出现，但其他数据库在read uncommitted下允许脏读。
@@ -874,35 +830,11 @@ grant insert,delete on student_course to test_teacher;
 	
 	由测试结果可知，在pgsql中，Repeatable read中幻读也不可能出现。
 
-	**不同隔离等级下高并发查询速率**（用100个线程模拟）
+	**不同隔离等级下高并发查询速率**
 	
-	```python
-	start = time.time()
-	    con.execute('begin transaction;')
-	    con.execute('set transaction isolation level serializable;')
-	    con.execute(s)
-	    connection.commit()
-	    con.fetchone()
-	    end = time.time()
-	```
+	详见高并发部分
 	
-	```python
-	threads = []
-	    for i in range(1, 100):
-	        threads.append(threading.Thread(target=select()))
-	    for t in threads:
-	        t.start()
-	    tt = 0
-	    for i in tmp:
-	        tt = tt + i
-	    print('Average time: ' + str(round((tt / 100), 4)))
-	```
 	
-	结果如下图
-	
-	<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211127144654709.png" alt="image-20211127144654709" style="zoom:70%;" />
-
-	上图从左到右分别为serializable，repeatable read，read committed，read uncommitted。由图可知随着隔离等级上升，并发性能确实有所下降。read committed和read uncommitted等级的查询速度基本持平，推测是因为在pgsql中这两种隔离等级的限制基本一样导致的。
 
 ### 索引
 
@@ -916,7 +848,6 @@ create index student_name_index on student(student_name);
 
 ```python
 tmp = []
-
 def select():
     s = "select * from student where student_name = '李谢恩';"
     connection = psycopg2.connect(database='db_project1', user='lee', password='buzz10161', host='localhost',
@@ -930,7 +861,6 @@ def select():
     con.close()
     connection.close()
     tmp.append((end - start))
-
 if __name__ == '__main__':
     threads = []
     for i in range(1, 100):
@@ -958,12 +888,77 @@ if __name__ == '__main__':
 
 ### pg数据库与mysql数据库对比
 
-<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-28 上午11.17.36.png" alt="截屏2021-11-28 上午11.17.36" style="zoom:50%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/截屏2021-11-28 上午11.17.36.png" alt="截屏2021-11-28 上午11.17.36" style="zoom:30%;" align = "left" />
 
-这里使用mysql8.0.27版本进行对比测试，为了避免python中不同包对执行时间的影响（尝试的时候mysql的包慢的离谱），这部分直接使用sql命令行进行测试。
+这里使用mysql8.0.27版本进行对比测试，为了避免python中不同包对执行时间的影响（尝试的时候mysql的包慢的离谱），这部分直接使用sql命令行进行测试，连续测试三次求平均。（测试的时候还发现第一次执行的时间要略长，推测是第一次执行时恢复数据库连接占用了时间）对比结果如下：
 
-对比结果如下
-
-<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211128142303011.png" alt="image-20211128142303011" style="zoom:70%;" />
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211128142303011.png" alt="image-20211128142303011" style="zoom:50%;" />
 
 图中数据所占比例越大代表效率越高，由图可知PGSQL的部分性能与MYSQL接近，delete和update性能要高于MYSQL
+
+
+
+### 高并发测试
+
+使用python多线程同时对数据库发出请求，模拟高并发情况，测试数据库执行效率
+
+```python
+tmp = []
+def select():
+    s = "select * from student where student_name = '李谢恩';"
+    connection = psycopg2.connect(database='db_project1', user='lee', password='buzz10161', host='localhost',
+                                  port=5432)
+    con = connection.cursor()
+    start = time.time()
+    con.execute(s)
+    connection.commit()
+    con.fetchone()
+    end = time.time()
+    con.close()
+    connection.close()
+    tmp.append((end - start))
+    
+if __name__ == '__main__':
+    threads = []
+    for i in range(1, 100):
+        threads.append(threading.Thread(target=select()))
+    for t in threads:
+        t.start()
+    tt = 0
+    for i in tmp:
+        tt = tt + i
+    print('Average time: ' + str(round((tt / 100), 4)))
+```
+
+测试三次求平均，平均时间为0.26s，相比于单客户端直接查询100次稍慢，但还不足以看出明显区别。
+
+故第二次测试使用500个线程模拟，平均时间0.24378s，单客户端500次查询平均0.24s。差别还不是很大。
+
+#### 不同隔离等级对并发性能的影响
+
+```sql
+begin transaction;
+set transaction isolation level ----;
+```
+
+在执行前设置隔离等级进行测试，使用100个线程模拟，结果如下。
+
+<img src="/Users/lee/Library/Application Support/typora-user-images/image-20211127144654709.png" alt="image-20211127144654709" style="zoom:50%;" />
+
+上图从左到右分别为serializable，repeatable read，read committed，read uncommitted。由图可知随着隔离等级上升，并发性能确实有所下降。read committed和read uncommitted等级的查询速度基本持平，推测是因为在pgsql中这两种隔离等级的限制基本一样导致的。
+
+#### 索引对并发性能的影响
+
+详见上文索引部分。
+
+#### 其他提升高并发性能的方法
+
+1. 延迟修改，高并发状况下可以把多次修改请求先保存到缓存中，之后再定时执行缓存中的请求。
+2. 批量提交，可以把多次请求合并为单次，减少链接数据库开销。
+3. 分表，可以把请求次数较多的数据单独建表，比如大一通识课查询量较大，则可以为这些数据单独建表，先在此表查询，如果没有找到再去主表找。
+
+## 总结
+
+本项目设计实现了一个包含课程数据，学生，老师选课任课情况的数据库，并对先修课等复杂关系进行了一定的处理。并在导入数据的时候总共实现了包括批量提交，重建外键和主键等7种提高效率的方法。在完成数据的导入之后，使用python程序对数据库和文件进行操作，分别测试了文件和数据库的各种性能，总结了数据库和文件分别的优点和缺点。此外，还对用户权限管理，数据库事务管理，索引和高并发进行了一定程度上的探索。最后还将PGSQL和MYSQL做了横向对比，比较了两个数据库的性能。
+
+附github链接（目前私有）：https://github.com/Buzzy0423/SUSTECH_2021_Fall

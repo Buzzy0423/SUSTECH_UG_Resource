@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f868af7-aa7f-42f5-98fc-cec72feef95e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_class.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_teacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_dept.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_teacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class_teacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_class_teacher.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_location.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class_detail.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_location.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zXnmIf7GEA3VziGo84BY8JNmk5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.GoodLoader_student">
+    <configuration name="AwfulLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AwfulLoader" />
+      <module name="DB_project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BadLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BadLoader" />
+      <module name="DB_project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodLoader_class_detail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodLoader.GoodLoader_class_detail" />
+      <module name="DB_project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoodLoader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodLoader_student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GoodLoader.GoodLoader_student" />
+      <module name="DB_project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GoodLoader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VeryBadLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VeryBadLoader" />
+      <module name="DB_project1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GoodLoader_student" />
+        <item itemvalue="Application.GoodLoader_class_detail" />
+        <item itemvalue="Application.AwfulLoader" />
+        <item itemvalue="Application.VeryBadLoader" />
+        <item itemvalue="Application.BadLoader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f868af7-aa7f-42f5-98fc-cec72feef95e" name="Changes" comment="" />
+      <created>1634303458185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634303458185</updated>
+      <workItem from="1634303459799" duration="1379000" />
+      <workItem from="1634305736080" duration="1791000" />
+      <workItem from="1634309631583" duration="1778000" />
+      <workItem from="1635003020721" duration="409000" />
+      <workItem from="1635054773036" duration="19317000" />
+      <workItem from="1635306204014" duration="522000" />
+      <workItem from="1635306929211" duration="1065000" />
+      <workItem from="1635316533993" duration="2353000" />
+      <workItem from="1635319135868" duration="192000" />
+      <workItem from="1635321936362" duration="13574000" />
+      <workItem from="1635417897632" duration="2507000" />
+      <workItem from="1635496672245" duration="1362000" />
+      <workItem from="1635517478078" duration="177000" />
+      <workItem from="1635562165670" duration="17000" />
+      <workItem from="1635776252839" duration="1785000" />
+      <workItem from="1635846681635" duration="1083000" />
+      <workItem from="1635863244794" duration="5772000" />
+      <workItem from="1635917199618" duration="3004000" />
+      <workItem from="1635928478957" duration="11444000" />
+      <workItem from="1636112063151" duration="896000" />
+      <workItem from="1637378412560" duration="31000" />
+      <workItem from="1637378537620" duration="30000" />
+      <workItem from="1637379705738" duration="11000" />
+      <workItem from="1637380426821" duration="33000" />
+      <workItem from="1637743667301" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_prerequisite.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_teacher.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class_teacher.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JwxtParser/Prerequisite_editor.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,2 +1,2 @@
-# SUSTECH_2021_Fall
- All assignment and one-man project
+# SUSTECH_UG_Resource
+ Help yourself

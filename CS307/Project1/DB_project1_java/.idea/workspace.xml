@@ -17,19 +17,11 @@
       </list>
     </option>
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_class.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_teacher.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_dept.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_teacher.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class_teacher.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_class_teacher.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/GoodLoader/GoodLoader_location.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_class_detail.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/JwxtParser/JwxtParser_location.java" root0="FORCE_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectId" id="1zXnmIf7GEA3VziGo84BY8JNmk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -138,6 +130,7 @@
       <workItem from="1637379705738" duration="11000" />
       <workItem from="1637380426821" duration="33000" />
       <workItem from="1637743667301" duration="20000" />
+      <workItem from="1646275885234" duration="126000" />
     </task>
     <servers />
   </component>

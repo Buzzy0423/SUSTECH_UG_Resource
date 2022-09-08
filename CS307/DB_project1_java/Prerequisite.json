@@ -1,0 +1,1353 @@
+[ {
+    "courseId": "ESE212",
+    "prerequisite": "[\"化学原理 A\",\"化学原理 B\"],[\"大学物理A（下）\",\"大学物理 B(下)\",\"大学物理A(下)\"],\"化学原理实验A\""
+  },
+  {
+    "courseId": "GE232",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE332",
+    "prerequisite": "[\"数字电路\",\"数字电路\",\"数字电路\"]"
+  },
+  {
+    "courseId": "CH215",
+    "prerequisite": "[\"无机化学I\",\"无机化学导论\"]"
+  },
+  {
+    "courseId": "BIO320",
+    "prerequisite": "[\"普通生物学\",\"普通生物学\"]"
+  },
+  {
+    "courseId": "CH305-2",
+    "prerequisite": "\"仪器分析原理\""
+  },
+  {
+    "courseId": "EE210",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS402",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME306",
+    "prerequisite": "[\"机械设计基础\"],[\"控制工程基础\",\"控制工程基础 \"]"
+  },
+  {
+    "courseId": "ESE218",
+    "prerequisite": "\"水力学\""
+  },
+  {
+    "courseId": "CH323",
+    "prerequisite": "\"有机化学II\""
+  },
+  {
+    "courseId": "ESE216",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "BIO340",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME303",
+    "prerequisite": "\"材料力学\",\"CAD与工程制图\",[\"理论力学I\",\"理论力学I-B\"]"
+  },
+  {
+    "courseId": "CS401",
+    "prerequisite": "[\"计算机程序设计基础\",\"计算机编程基础\",\"计算机程序设计基础A\"],[\"数据结构与算法分析\",\"数据结构与算法设计\"],\"计算机组成原理\""
+  },
+  {
+    "courseId": "MSE202",
+    "prerequisite": "[\"化学原理\",\"化学原理 A\"],[\"高等数学（下）\",\"高等数学（下）A\",\"数学分析II\"]"
+  },
+  {
+    "courseId": "MED307",
+    "prerequisite": "[\"细胞生物学\",\"分子生物学\",\"组织学与胚胎学\"]"
+  },
+  {
+    "courseId": "EE106",
+    "prerequisite": null
+  },
+  {
+    "courseId": "IPE105",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESS102",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE306",
+    "prerequisite": "\"普通地质学\""
+  },
+  {
+    "courseId": "MA314",
+    "prerequisite": "[\"概率论与数理统计\",\"数理统计\",\"数理统计\"]"
+  },
+  {
+    "courseId": "MA201b",
+    "prerequisite": "[\"高等数学（下）\",\"高等数学（下）A\",\"高等数学（下）B\"]"
+  },
+  {
+    "courseId": "CH305-1",
+    "prerequisite": "[\"分析化学\",\"分析化学实验\"]"
+  },
+  {
+    "courseId": "MA322",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\"]"
+  },
+  {
+    "courseId": "ME308",
+    "prerequisite": "\"机械制造基础\""
+  },
+  {
+    "courseId": "ESE304",
+    "prerequisite": "[\"环境化学\",\"物理化学\"]"
+  },
+  {
+    "courseId": "MSE330-16",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE308",
+    "prerequisite": "\"海洋生态系统导论\""
+  },
+  {
+    "courseId": "BMEB322",
+    "prerequisite": "\"生物医学工程实验（一）\""
+  },
+  {
+    "courseId": "ESE310",
+    "prerequisite": "[\"固体废弃物处理处置与资源化\",\"大气污染与防治\"]"
+  },
+  {
+    "courseId": "MED305",
+    "prerequisite": "\"生理学与病理生理学 I\""
+  },
+  {
+    "courseId": "MA224",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\"]"
+  },
+  {
+    "courseId": "MAES001",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE304",
+    "prerequisite": "[\"计算机程序设计基础B\",\"计算机程序设计基础A\",\"计算机编程基础\",\"计算机程序设计基础\"]"
+  },
+  {
+    "courseId": "ME305",
+    "prerequisite": "\"机械设计基础\""
+  },
+  {
+    "courseId": "OCE307",
+    "prerequisite": "\"海洋生态系统导论\""
+  },
+  {
+    "courseId": "EE201-17L",
+    "prerequisite": "[\"模拟电路\",\"模拟电路\",\"工程电路与电子基础\"]"
+  },
+  {
+    "courseId": "CH214",
+    "prerequisite": "[\"无机化学I\",\"无机化学导论\"]"
+  },
+  {
+    "courseId": "EE202-17",
+    "prerequisite": "[\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "PHY203-15",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"],[\"线性代数I-A\",\"线性代数I\"]"
+  },
+  {
+    "courseId": "ESS312",
+    "prerequisite": "[\"高等数学（上）A\",\"高等数学（上）\",\"数学分析I\",\"数学分析I\"],[\"线性代数I-A\",\"线性代数I\"]"
+  },
+  {
+    "courseId": "MAE403",
+    "prerequisite": "[\"流体力学\",\"流体力学\"]"
+  },
+  {
+    "courseId": "IPE103",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME102",
+    "prerequisite": null
+  },
+  {
+    "courseId": "IPE102",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME301",
+    "prerequisite": "[\"理论力学I\",\"理论力学I\",\"理论力学I-B\"],[\"常微分方程\",\"常微分方程A\",\"常微分方程B\"]"
+  },
+  {
+    "courseId": "FET306",
+    "prerequisite": null
+  },
+  {
+    "courseId": "IPE101",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE404",
+    "prerequisite": "[\"海洋科学导论\",\"海洋地质学\"]"
+  },
+  {
+    "courseId": "ESE318",
+    "prerequisite": "\"地球科学概论\""
+  },
+  {
+    "courseId": "ME405",
+    "prerequisite": "[\"机械设计基础\",\"创新设计实践\"]"
+  },
+  {
+    "courseId": "BIO332",
+    "prerequisite": "[\"细胞生物学\",\"细胞生物学\"]"
+  },
+  {
+    "courseId": "ME307",
+    "prerequisite": "\"电路基础\""
+  },
+  {
+    "courseId": "CH320",
+    "prerequisite": "[\"化学原理 A\",\"化学原理\"]"
+  },
+  {
+    "courseId": "MAE204",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"线性代数I\",\"线性代数I-A\"]"
+  },
+  {
+    "courseId": "MA201a",
+    "prerequisite": "[\"数学分析精讲\",\"数学分析III\"],\"线性代数II\""
+  },
+  {
+    "courseId": "ESE316",
+    "prerequisite": "\"水文学原理与应用\""
+  },
+  {
+    "courseId": "FET470",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESS205",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESE332",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"],[\"化学原理 A\",\"化学原理 B\"]"
+  },
+  {
+    "courseId": "ESE330",
+    "prerequisite": "\"环境微生物学\""
+  },
+  {
+    "courseId": "EE201-17",
+    "prerequisite": "[\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理A（下）\"],\"电路基础\""
+  },
+  {
+    "courseId": "CS316",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA206",
+    "prerequisite": "[\"常微分方程A\",\"常微分方程B\",\"常微分方程\"]"
+  },
+  {
+    "courseId": "MA403",
+    "prerequisite": "\"统计线性模型\""
+  },
+  {
+    "courseId": "ESS202",
+    "prerequisite": "[\"计算机编程基础\",\"计算机程序设计基础B\",\"计算机程序设计基础A\",\"计算机程序设计基础\"]"
+  },
+  {
+    "courseId": "BMEB312",
+    "prerequisite": "\"定量生理学（一）\""
+  },
+  {
+    "courseId": "ESS201",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE305",
+    "prerequisite": "[\"海洋科学导论\",\"海洋学概论\"]"
+  },
+  {
+    "courseId": "MAT8010",
+    "prerequisite": "[\"抽象代数\",\"抽象代数\"]"
+  },
+  {
+    "courseId": "CH322",
+    "prerequisite": "\"分析化学\""
+  },
+  {
+    "courseId": "MSE201",
+    "prerequisite": "[\"大学物理A（下）\",\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理 B(下)\"],[\"化学原理\",\"化学原理 A\"]"
+  },
+  {
+    "courseId": "FET303",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\",\"数理统计\"],\"公司金融\""
+  },
+  {
+    "courseId": "MA327",
+    "prerequisite": "[\"常微分方程A\",\"常微分方程B\",\"常微分方程\"]"
+  },
+  {
+    "courseId": "MA208",
+    "prerequisite": "[\"数学分析III\",\"数学分析III\",\"数学分析精讲\"],[\"概率论\",\"概率论与数理统计\"],\"线性代数II\""
+  },
+  {
+    "courseId": "MA406",
+    "prerequisite": "[\"数学分析III\",\"数学分析III\",\"数学分析精讲\"]"
+  },
+  {
+    "courseId": "ESE329",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"大学物理A（下）\",\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理 B(下)\"],\"地球科学概论\""
+  },
+  {
+    "courseId": "MED308",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME304",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"],[\"流体力学\",\"工程流体力学\",\"传热学\",\"工程热力学\"]"
+  },
+  {
+    "courseId": "MAE202",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],[\"线性代数I\",\"线性代数I-A\"]"
+  },
+  {
+    "courseId": "MA417",
+    "prerequisite": "[\"数理统计\",\"概率论与数理统计\",\"数理统计\"]"
+  },
+  {
+    "courseId": "MAT7041",
+    "prerequisite": "\"统计线性模型\""
+  },
+  {
+    "courseId": "ME434",
+    "prerequisite": "\"机器人基础\""
+  },
+  {
+    "courseId": "FET302",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BMEB325",
+    "prerequisite": "\"医学影像系统原理\""
+  },
+  {
+    "courseId": "EE328",
+    "prerequisite": "\"数字信号处理\""
+  },
+  {
+    "courseId": "ESE201",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MAT7012",
+    "prerequisite": "[\"抽象代数\",\"抽象代数\"]"
+  },
+  {
+    "courseId": "MAE314",
+    "prerequisite": "[\"高等数学（下）A\",\"数学分析II\",\"高等数学（下）\",\"数学分析II\"]"
+  },
+  {
+    "courseId": "CS307",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESE307",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"]"
+  },
+  {
+    "courseId": "MAE302-16",
+    "prerequisite": "[\"流体力学\",\"流体力学\",\"工程流体力学\"]"
+  },
+  {
+    "courseId": "EE334",
+    "prerequisite": "[\"数字电路\",\"数字电路\",\"数字电路\"]"
+  },
+  {
+    "courseId": "MAE310",
+    "prerequisite": "[\"弹性力学\",\"弹性力学\"]"
+  },
+  {
+    "courseId": "ESE331",
+    "prerequisite": "\"生态学概论\""
+  },
+  {
+    "courseId": "IPE104",
+    "prerequisite": null
+  },
+  {
+    "courseId": "PHY442",
+    "prerequisite": "\"量子力学I\""
+  },
+  {
+    "courseId": "CS306",
+    "prerequisite": "\"数据结构与算法分析\""
+  },
+  {
+    "courseId": "FET206",
+    "prerequisite": "[\"计算机程序设计基础A\",\"计算机程序设计基础\",\"计算机编程基础\"]"
+  },
+  {
+    "courseId": "MA333",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\"]"
+  },
+  {
+    "courseId": "CH102-17",
+    "prerequisite": "[\"化学原理\",\"化学原理 A\"]"
+  },
+  {
+    "courseId": "CS207",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA210",
+    "prerequisite": "[\"数学分析III\",\"数学分析III\",\"数学分析精讲\",\"数学分析精讲\",\"数学分析精讲\"]"
+  },
+  {
+    "courseId": "FET202",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME302",
+    "prerequisite": "[\"制造工程认知实践\",\"机械设计基础\"]"
+  },
+  {
+    "courseId": "ESE214",
+    "prerequisite": "\"环境监测\""
+  },
+  {
+    "courseId": "BIO342",
+    "prerequisite": "\"微生物学实验\""
+  },
+  {
+    "courseId": "MA213-16",
+    "prerequisite": "[\"高等数学（下）\",\"高等数学（下）A\"]"
+  },
+  {
+    "courseId": "PHY431",
+    "prerequisite": "[\"固体物理\",\"固体物理\"],\"量子力学II\""
+  },
+  {
+    "courseId": "MA110",
+    "prerequisite": "\"线性代数II\""
+  },
+  {
+    "courseId": "CH212-16",
+    "prerequisite": "[\"化学原理 A\",\"化学原理\"]"
+  },
+  {
+    "courseId": "OCE408",
+    "prerequisite": "\"矿物学与岩石学\""
+  },
+  {
+    "courseId": "PHY439",
+    "prerequisite": "[\"线性代数I-A\",\"线性代数I\"],\"分析力学\""
+  },
+  {
+    "courseId": "FET204",
+    "prerequisite": "[\"微观经济学\",\"财务会计\"]"
+  },
+  {
+    "courseId": "MAE308",
+    "prerequisite": "[\"高等数学（下）A\",\"数学分析II\",\"高等数学（下）\",\"数学分析II\"]"
+  },
+  {
+    "courseId": "CS209A",
+    "prerequisite": "[\"计算机程序设计基础A\",\"计算机程序设计基础\",\"计算机编程基础\",\"计算机程序设计基础B\"]"
+  },
+  {
+    "courseId": "CH308-14",
+    "prerequisite": "[\"有机化学II\",\"物理化学I\"]"
+  },
+  {
+    "courseId": "CH318-14",
+    "prerequisite": "[\"化学原理 A\",\"化学原理\"]"
+  },
+  {
+    "courseId": "CS205",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO203",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO301",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO303",
+    "prerequisite": "[\"生物化学与分子生物学实验\",\"遗传学\"]"
+  },
+  {
+    "courseId": "BIO305",
+    "prerequisite": "\"普通生物学\""
+  },
+  {
+    "courseId": "BIO304",
+    "prerequisite": "[\"普通生物学\",\"普通生物学\"],\"概率论与数理统计\""
+  },
+  {
+    "courseId": "BIO306",
+    "prerequisite": "\"计算生物学\""
+  },
+  {
+    "courseId": "BIO308",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO104",
+    "prerequisite": "[\"普通生物学\",\"普通生物学\"],\"生命科学概论\""
+  },
+  {
+    "courseId": "BIO202",
+    "prerequisite": "[\"生物化学I（生物大分子）\",\"生物化学I（生物大分子）\"]"
+  },
+  {
+    "courseId": "BIO310",
+    "prerequisite": "[\"生物化学I（生物大分子）\",\"生物化学I（生物大分子）\"]"
+  },
+  {
+    "courseId": "BIO302",
+    "prerequisite": "[\"生物化学I（生物大分子）\",\"生物化学I（生物大分子）\"],[\"细胞生物学\",\"细胞生物学\"],\"普通生物学实验\""
+  },
+  {
+    "courseId": "BIO331",
+    "prerequisite": "[\"生物化学I（生物大分子）\",\"生物化学I（生物大分子）\"]"
+  },
+  {
+    "courseId": "PHY104B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESS310",
+    "prerequisite": "[\"地球物理学基础I（地震学原理）\",\"地球物理学基础II（地磁地电地热和重力）\"]"
+  },
+  {
+    "courseId": "EE404",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE407",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ME112",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FET490",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MAT7045",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS208",
+    "prerequisite": "[\"计算机编程基础\",\"计算机程序设计基础\",\"计算机程序设计基础A\"],[\"数据结构与算法分析\",\"数据结构与算法设计\"]"
+  },
+  {
+    "courseId": "CH328",
+    "prerequisite": "\"物理化学I\""
+  },
+  {
+    "courseId": "CH208",
+    "prerequisite": "[\"化学原理实验\",\"化学原理实验A\"],\"有机化学I\""
+  },
+  {
+    "courseId": "CH206",
+    "prerequisite": "\"有机化学I\""
+  },
+  {
+    "courseId": "CH204",
+    "prerequisite": "[\"化学原理实验A\",\"化学原理实验\"],[\"无机化学I\",\"无机化学导论\"]"
+  },
+  {
+    "courseId": "CH302",
+    "prerequisite": "\"物理化学I\""
+  },
+  {
+    "courseId": "CH210",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CH403",
+    "prerequisite": "[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\",\"数学分析II\"],[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "CH306",
+    "prerequisite": "\"物理化学I\",[\"无机化学II\",[\"金属有机化学\",\"配位化学\"]]"
+  },
+  {
+    "courseId": "CH314",
+    "prerequisite": "\"有机化学II\",[\"现代策略合成\",[\"现代策略合成中的金属有机化学\",\"现代策略合成中的高等有机化学\"]]"
+  },
+  {
+    "courseId": "CH312",
+    "prerequisite": "\"有机化学II\""
+  },
+  {
+    "courseId": "CH304",
+    "prerequisite": "\"物理化学I\",[\"无机化学II\",[\"金属有机化学\",\"配位化学\"]]"
+  },
+  {
+    "courseId": "CH316",
+    "prerequisite": "[\"化学原理 A\",\"化学原理\"]"
+  },
+  {
+    "courseId": "CS201",
+    "prerequisite": "[\"数学分析II\",\"高等数学（下）\",\"高等数学（下）A\",\"数学分析II\"],[\"线性代数I\",\"线性代数I-A\"]"
+  },
+  {
+    "courseId": "CS202",
+    "prerequisite": "\"数字逻辑\""
+  },
+  {
+    "courseId": "CS302",
+    "prerequisite": "\"数据结构与算法分析\",\"计算机组成原理\",[\"计算机程序设计基础A\",\"计算机程序设计基础\",\"计算机编程基础\"]"
+  },
+  {
+    "courseId": "CS304",
+    "prerequisite": "\"面向对象分析与设计\""
+  },
+  {
+    "courseId": "CS312",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS318",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS322",
+    "prerequisite": null
+  },
+  {
+    "courseId": "OCE202",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FMA307",
+    "prerequisite": "[\"应用随机过程\",\"应用随机过程\"]"
+  },
+  {
+    "courseId": "BMEB314",
+    "prerequisite": "\"生物医学工程（一）\""
+  },
+  {
+    "courseId": "OCE204",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO222",
+    "prerequisite": "[\"生物化学I（生物大分子）\",\"生物化学I（生物大分子）\"],\"普通生物学实验\""
+  },
+  {
+    "courseId": "ME101",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESE302",
+    "prerequisite": "[\"物理化学\",\"环境工程原理\"]"
+  },
+  {
+    "courseId": "CS314",
+    "prerequisite": "[\"计算机网络\",\"面向对象分析与设计\"]"
+  },
+  {
+    "courseId": "OCE201",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE330",
+    "prerequisite": "\"数字信号处理\""
+  },
+  {
+    "courseId": "ME103",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE326",
+    "prerequisite": "\"信号和系统\""
+  },
+  {
+    "courseId": "BIO323",
+    "prerequisite": "[\"细胞生物学\",\"细胞生物学\"]"
+  },
+  {
+    "courseId": "BMEB324",
+    "prerequisite": "[\"生物医学光学\",\"生物医学光学\"]"
+  },
+  {
+    "courseId": "PHY201-15",
+    "prerequisite": "[\"大学物理A（上）\",\"大学物理 B(上)\",\"大学物理A（上）\"]"
+  },
+  {
+    "courseId": "MSE305",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"]"
+  },
+  {
+    "courseId": "MSE313",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"]"
+  },
+  {
+    "courseId": "MSE308",
+    "prerequisite": "[\"基础物理实验\",\"基础物理实验\"],[\"材料科学基础\",\"材料科学基础\"]"
+  },
+  {
+    "courseId": "MSE310",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BMEB315",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS406",
+    "prerequisite": "\"高级算法\""
+  },
+  {
+    "courseId": "EE104",
+    "prerequisite": "[\"高等数学（上）A\",\"高等数学（上）\",\"数学分析I\",\"数学分析I\"],[\"线性代数I-A\",\"线性代数I\",\"线性代数I-B\"]"
+  },
+  {
+    "courseId": "EE203",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE204",
+    "prerequisite": "\"固态电子学\""
+  },
+  {
+    "courseId": "EE205",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE206",
+    "prerequisite": "\"信号和系统\""
+  },
+  {
+    "courseId": "CS203",
+    "prerequisite": "[\"计算机程序设计基础A\",\"计算机程序设计基础\",\"计算机编程基础\"]"
+  },
+  {
+    "courseId": "EE208",
+    "prerequisite": "[\"高等数学（上）A\",\"高等数学（上）\",\"数学分析I\"],[\"线性代数I-A\",\"线性代数I\"],\"电路基础\""
+  },
+  {
+    "courseId": "EE302",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE304",
+    "prerequisite": "[\"数字电路\",\"数字电路\",\"数字电路\"],\"半导体器件导论\""
+  },
+  {
+    "courseId": "EE306",
+    "prerequisite": "[\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "EE308",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE310",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE314",
+    "prerequisite": "\"无线通信\""
+  },
+  {
+    "courseId": "EE316",
+    "prerequisite": "[\"电路基础\",\"工程电磁场理论\"],[\"模拟电路\",\"模拟电路\"]"
+  },
+  {
+    "courseId": "EE318",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE320-15",
+    "prerequisite": "\"半导体器件导论\""
+  },
+  {
+    "courseId": "EE322",
+    "prerequisite": "\"半导体器件导论\""
+  },
+  {
+    "courseId": "EE402",
+    "prerequisite": null
+  },
+  {
+    "courseId": "EE480",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESE202",
+    "prerequisite": null
+  },
+  {
+    "courseId": "ESE206",
+    "prerequisite": "[\"化学原理 A\",\"化学原理\",\"化学原理 B\"]"
+  },
+  {
+    "courseId": "MSE208",
+    "prerequisite": "[\"化学原理\",\"化学原理 A\"]"
+  },
+  {
+    "courseId": "MA302",
+    "prerequisite": "[\"实变函数\",\"实变函数\"],[\"复变函数\",\"复变函数\"],\"线性代数II\""
+  },
+  {
+    "courseId": "OCE301",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MAE407",
+    "prerequisite": "[\"工程热力学\",\"热力学与统计物理I\"]"
+  },
+  {
+    "courseId": "EE202-17L",
+    "prerequisite": "[\"数字电路\",\"数字电路\"]"
+  },
+  {
+    "courseId": "MAE304",
+    "prerequisite": "[\"理论力学I\",\"理论力学I\"],[\"材料力学\",\"材料力学\"]"
+  },
+  {
+    "courseId": "FMA301",
+    "prerequisite": "[\"概率论与数理统计\",\"数理统计\",\"数理统计\"]"
+  },
+  {
+    "courseId": "ME310",
+    "prerequisite": "[\"控制工程基础\",\"控制工程基础 \"],[\"信号和系统\"]"
+  },
+  {
+    "courseId": "BIO403-16",
+    "prerequisite": "[\"细胞生物学\",\"细胞生物学\"],\"动物生理学\""
+  },
+  {
+    "courseId": "EE423-14",
+    "prerequisite": "[\"线性代数I\",\"线性代数I-A\"],[\"概率论与数理统计\",\"概率论\"],\"信号和系统\""
+  },
+  {
+    "courseId": "FIN210",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FIN308",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\",\"数理统计\",\"数理统计\"],\"公司金融\""
+  },
+  {
+    "courseId": "FIN490",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FMA302",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\"]"
+  },
+  {
+    "courseId": "MA104b",
+    "prerequisite": "[\"线性代数I-A\",\"线性代数I\",\"线性代数I A\"]"
+  },
+  {
+    "courseId": "MA202",
+    "prerequisite": "[\"数学分析III\",\"数学分析III\",\"数学分析精讲\",\"数学分析精讲\",\"数学分析精讲\"]"
+  },
+  {
+    "courseId": "MA212",
+    "prerequisite": "[\"数学分析II\",\"数学分析II\",\"高等数学（下）\",\"高等数学（下）A\",\"高等数学（下）B\"]"
+  },
+  {
+    "courseId": "MA204",
+    "prerequisite": "[\"概率论\",\"概率论与数理统计\"]"
+  },
+  {
+    "courseId": "FIN204",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FIN206",
+    "prerequisite": "\"财务会计\""
+  },
+  {
+    "courseId": "FIN201",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FIN202",
+    "prerequisite": null
+  },
+  {
+    "courseId": "FIN203",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA214",
+    "prerequisite": "\"线性代数II\""
+  },
+  {
+    "courseId": "FIN302",
+    "prerequisite": "\"金融投资概论\",[\"计量经济学\",\"计量经济学\"]"
+  },
+  {
+    "courseId": "FIN301",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\",\"数理统计\"],[\"宏观经济学\",\"微观经济学\"]"
+  },
+  {
+    "courseId": "FIN208",
+    "prerequisite": "[\"概率论与数理统计\",\"概率论\",\"数理统计\"]"
+  },
+  {
+    "courseId": "MA325",
+    "prerequisite": "[\"偏微分方程\",\"偏微分方程\",\"偏微分方程\"]"
+  },
+  {
+    "courseId": "MA304",
+    "prerequisite": "[\"概率论与数理统计\",\"数理统计\",\"数理统计\"]"
+  },
+  {
+    "courseId": "FIN306",
+    "prerequisite": "\"金融衍生品\""
+  },
+  {
+    "courseId": "FIN305",
+    "prerequisite": "\"概率论与数理统计\",\"公司金融\",\"金融投资概论\""
+  },
+  {
+    "courseId": "MAT7003",
+    "prerequisite": "\"泛函分析\""
+  },
+  {
+    "courseId": "MSE102",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MSE204",
+    "prerequisite": "\"物理化学\""
+  },
+  {
+    "courseId": "MSE328",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"],[\"高等数学（下）A\",\"高等数学（下）\",\"数学分析II\"],\"晶体学\""
+  },
+  {
+    "courseId": "MSE302",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"]"
+  },
+  {
+    "courseId": "MSE304",
+    "prerequisite": "\"材料学综合实验I\""
+  },
+  {
+    "courseId": "MSE306",
+    "prerequisite": "\"材料科学基础\""
+  },
+  {
+    "courseId": "MSE321",
+    "prerequisite": "\"材料科学基础\""
+  },
+  {
+    "courseId": "MSE316",
+    "prerequisite": "[\"材料科学基础\",\"材料科学基础\"]"
+  },
+  {
+    "courseId": "MSE318",
+    "prerequisite": "\"材料科学创新实验I\""
+  },
+  {
+    "courseId": "MSE320",
+    "prerequisite": "[\"大学物理A（下）\",\"大学物理 B(下)\",\"大学物理A(下)\",\"大学物理 B(下)\"],[\"模拟电路\",\"模拟电路\",\"模拟电路\",\"工程电路与电子基础\"]"
+  },
+  {
+    "courseId": "MSE403",
+    "prerequisite": "\"材料科学基础\""
+  },
+  {
+    "courseId": "MSE480",
+    "prerequisite": null
+  },
+  {
+    "courseId": "PHY205-15",
+    "prerequisite": "[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "PHY202",
+    "prerequisite": "[\"大学物理A（上）\",\"大学物理 B(上)\",\"大学物理A（上）\"]"
+  },
+  {
+    "courseId": "PHY210",
+    "prerequisite": "[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "PHY204",
+    "prerequisite": "[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"]"
+  },
+  {
+    "courseId": "PHY324",
+    "prerequisite": "[\"近代光学\",\"原子物理学\"]"
+  },
+  {
+    "courseId": "PHY330",
+    "prerequisite": "[\"量子力学I\",\"近代光学\"]"
+  },
+  {
+    "courseId": "PHY208",
+    "prerequisite": "\"电动力学I\""
+  },
+  {
+    "courseId": "PHY328",
+    "prerequisite": "\"热力学与统计物理I\""
+  },
+  {
+    "courseId": "PHY206-15",
+    "prerequisite": "[\"数学物理方法\",\"分析力学\"]"
+  },
+  {
+    "courseId": "PHY207-15",
+    "prerequisite": "[\"大学物理A(下)\",\"大学物理 B(下)\",\"大学物理A（下）\"],[\"线性代数I-A\",\"线性代数I\"],\"数学物理方法\""
+  },
+  {
+    "courseId": "PHY326-15",
+    "prerequisite": "\"固体物理\""
+  },
+  {
+    "courseId": "PHY332-15",
+    "prerequisite": "\"固体物理\""
+  },
+  {
+    "courseId": "SS018",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS043",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE039",
+    "prerequisite": "[\"EAP\",\"学术英语 III\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "GELS02",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM029",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS048",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE041",
+    "prerequisite": "[\"EAP\",\"学术英语 III\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "HUM028",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS007",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM024",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM032",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS016",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS051",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM017",
+    "prerequisite": null
+  },
+  {
+    "courseId": "IE001",
+    "prerequisite": null
+  },
+  {
+    "courseId": "DHSSS002",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS010",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM008",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM013",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS054",
+    "prerequisite": null
+  },
+  {
+    "courseId": "DHSSS001",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM033",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS009",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS041",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GE2229",
+    "prerequisite": "[\"EAP\",\"学术英语 III\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "GE2100",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE042",
+    "prerequisite": "[\"EAP\",\"学术英语 III\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "SS044",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM026",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS024",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS046",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS028",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS052",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM018",
+    "prerequisite": "[\"科幻电影鉴赏与批评\",\"科幻：从小说到电影\"]"
+  },
+  {
+    "courseId": "HUM027",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM026",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS053",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE024",
+    "prerequisite": "[\"学术英语 III\",\"EAP\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "SS047",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM034",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM036",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS025",
+    "prerequisite": null
+  },
+  {
+    "courseId": "INO001",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM035",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HE004",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS049",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS019",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM009",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEJ013",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS050",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS027",
+    "prerequisite": null
+  },
+  {
+    "courseId": "SS042",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GE212",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM022",
+    "prerequisite": null
+  },
+  {
+    "courseId": "INO005",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEM006",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GE1221",
+    "prerequisite": null
+  },
+  {
+    "courseId": "GEL006",
+    "prerequisite": "[\"学术英语 III\",\"EAP\",\"学术用途英语\"]"
+  },
+  {
+    "courseId": "HUM005",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM007",
+    "prerequisite": null
+  },
+  {
+    "courseId": "HUM008",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO102B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "BIO102A",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CS102B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "PHY105A",
+    "prerequisite": "\"大学物理A（上）\""
+  },
+  {
+    "courseId": "MA203a",
+    "prerequisite": "[\"数学分析II\",\"数学分析II\"]"
+  },
+  {
+    "courseId": "CS102A",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE023",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE022",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA101B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE030",
+    "prerequisite": "\"SUSTech English III\""
+  },
+  {
+    "courseId": "MA102B",
+    "prerequisite": "[\"高等数学（上）A\",\"高等数学（上）\"]"
+  },
+  {
+    "courseId": "PHY103B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA103B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CLE021",
+    "prerequisite": null
+  },
+  {
+    "courseId": "PHY105C",
+    "prerequisite": "[\"大学物理A（上）\",\"大学物理 B(上)\"],[\"大学物理A（上）\",\"大学物理B(上)\"]"
+  },
+  {
+    "courseId": "MA103A",
+    "prerequisite": null
+  },
+  {
+    "courseId": "MA102a",
+    "prerequisite": "[\"数学分析I\",\"数学分析I\"]"
+  },
+  {
+    "courseId": "CH101B",
+    "prerequisite": null
+  },
+  {
+    "courseId": "CH101A",
+    "prerequisite": null
+  },
+  {
+    "courseId": "PHY105B",
+    "prerequisite": "[\"大学物理A（上）\",\"大学物理 B(上)\",\"大学物理A（上）\"]"
+  }
+]

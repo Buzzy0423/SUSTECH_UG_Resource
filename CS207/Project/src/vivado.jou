@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Dec 19 09:59:11 2021
+# Process ID: 17476
+# Current directory: D:/SUSTC-Project-2021F/CS207/src
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14688 D:\SUSTC-Project-2021F\CS207\src\src.xpr
+# Log file: D:/SUSTC-Project-2021F/CS207/src/vivado.log
+# Journal file: D:/SUSTC-Project-2021F/CS207/src\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/SUSTC-Project-2021F/CS207/src/src.xpr
+pdate_compile_order -fileset sources_1

@@ -1,0 +1,14 @@
+import pymysql
+import time
+
+if __name__ == '__main__':
+    connection = pymysql.connect(db='db_project1', user='root', password='buzz10161', host='localhost', charset='utf8')
+    con = connection.cursor()
+    sql = 'select * from student where student_id > %s;'
+    start = time.time()
+    con.execute(con.mogrify(sql, (11000001,)), ())
+    connection.commit()
+    end = time.time()
+    con.close()
+    connection.close()
+    print(end - start)

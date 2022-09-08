@@ -1,0 +1,119 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec  7 23:07:41 2021
+# Process ID: 10428
+# Current directory: C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent33552 C:\Users\86133\Desktop\SUSTC-Project-2021F\CS207\src\src.xpr
+# Log file: C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/vivado.log
+# Journal file: C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.xpr
+import_files -norecurse {C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/minisys_key.v C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/pair_uid.v C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/freq_div_even.v C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/seg_tube.v C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/music.v C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/tmp/timer.v}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+file mkdir C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/sources_1/new
+close [ open C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/sources_1/new/main_test.v w ]
+add_files C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/sources_1/new/main_test.v
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top main_test [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top main_test [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+launch_runs impl_1 -jobs 16
+wait_on_run impl_1
+open_run impl_1
+set_property IOSTANDARD LVCMOS33 [get_ports [list {col[3]} {col[2]} {col[1]} {col[0]}]]
+set_property IOSTANDARD LVCMOS33 [get_ports [list {row[3]} {row[2]} {row[1]} {row[0]}]]
+set_property IOSTANDARD LVCMOS33 [get_ports [list {seg_en[7]} {seg_en[6]} {seg_en[5]} {seg_en[4]} {seg_en[3]} {seg_en[2]} {seg_en[1]} {seg_en[0]}]]
+set_property IOSTANDARD LVCMOS33 [get_ports [list {seg_out[7]} {seg_out[6]} {seg_out[5]} {seg_out[4]} {seg_out[3]} {seg_out[2]} {seg_out[1]} {seg_out[0]}]]
+place_ports {col[3]} M2
+place_ports {col[2]} K6
+place_ports {col[1]} J6
+place_ports {col[0]} L5
+place_ports {row[3]} K4
+place_ports {row[2]} J4
+place_ports {row[1]} L3
+place_ports {row[0]} K3
+place_ports {seg_en[7]} A18
+place_ports {seg_en[6]} A20
+place_ports {seg_en[5]} B20
+place_ports {seg_en[4]} B18
+place_ports {seg_en[3]} F18
+place_ports {seg_en[2]} D19
+place_ports {seg_en[1]} E19
+place_ports {seg_en[0]} C19
+place_ports {seg_out[7]} E13
+place_ports {seg_out[6]} C15
+place_ports {seg_out[5]} C14
+place_ports {seg_out[4]} E17
+place_ports {seg_out[3]} F16
+place_ports {seg_out[2]} F14
+place_ports {seg_out[1]} F13
+place_ports {seg_out[0]} F15
+file mkdir C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/constrs_1/new
+close [ open C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/constrs_1/new/main_test.xdc w ]
+add_files -fileset constrs_1 C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/constrs_1/new/main_test.xdc
+set_property target_constrs_file C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.srcs/constrs_1/new/main_test.xdc [current_fileset -constrset]
+save_constraints -force
+reset_run synth_1
+launch_runs impl_1 -jobs 16
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+close_design
+open_run impl_1
+place_ports clk Y18
+set_property IOSTANDARD LVCMOS33 [get_ports [list clk]]
+place_ports key_en W4
+set_property IOSTANDARD LVCMOS33 [get_ports [list key_en]]
+save_constraints
+reset_run impl_1
+launch_runs impl_1 -jobs 16
+wait_on_run impl_1
+launch_runs impl_1 -to_step write_bitstream -jobs 16
+wait_on_run impl_1
+open_hw
+connect_hw_server
+open_hw_target
+set_property PROGRAM.FILE {C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.runs/impl_1/main_test.bit} [get_hw_devices xc7a100t_0]
+current_hw_device [get_hw_devices xc7a100t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a100t_0] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7a100t_0]
+set_property PROGRAM.FILE {C:/Users/86133/Desktop/SUSTC-Project-2021F/CS207/src/src.runs/impl_1/main_test.bit} [get_hw_devices xc7a100t_0]
+program_hw_devices [get_hw_devices xc7a100t_0]
+refresh_hw_device [lindex [get_hw_devices xc7a100t_0] 0]
+close_hw
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+wait_on_run synth_1
+reset_run synth_1

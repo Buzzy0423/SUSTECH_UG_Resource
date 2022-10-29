@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab8/A.cpp
+cmath
+-
+complex
+-
+iostream
+-
+iomanip
+-
+

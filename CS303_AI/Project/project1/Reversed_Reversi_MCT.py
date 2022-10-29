@@ -175,8 +175,8 @@ class AI(object):
         self.Nsa = {}  # stores #times edge s,a was visited
         self.Ns = {}  # stores #times board s was visited
 
-        self.Es = {}  # stores game.getGameEnded ended for board s
-        self.Vs = {}  # stores game.getValidMoves for board s
+        self.Es = {}  # stores terminal ended for board s
+        self.Vs = {}  # stores get_valid_moves for board s
 
     # The input is the current chessboard. Chessboard is a numpy array.
 

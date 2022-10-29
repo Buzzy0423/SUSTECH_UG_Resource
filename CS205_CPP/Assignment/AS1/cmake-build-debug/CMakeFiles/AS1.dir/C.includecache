@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lee/课件/CS205_C++/Assignment/AS1/code/assign1_mat.c
+memory.h
+-
+stdlib.h
+-
+assign1_mat.h
+/Users/lee/课件/CS205_C++/Assignment/AS1/code/assign1_mat.h
+
+/Users/lee/课件/CS205_C++/Assignment/AS1/code/assign1_mat.h
+stddef.h
+-
+

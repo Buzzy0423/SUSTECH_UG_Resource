@@ -1,0 +1,10 @@
+# The executable files. 
+*.out 
+
+# This is your own code, do not upload it! 
+assign2.cpp 
+
+.vscode 
+
+# If you want to output the test information in a file, use the .log postfix. 
+*.log 

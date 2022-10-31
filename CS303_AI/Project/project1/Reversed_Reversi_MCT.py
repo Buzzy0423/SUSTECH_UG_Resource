@@ -186,13 +186,13 @@ class AI(object):
         self.candidate_list = get_valid_moves(chessboard, self.color)
 
         if len(self.candidate_list) == 0:
-            return
+            return 0
 
         board = get_canonical_board(chessboard, self.color)
-        #loop_time = 0
+        loop_time = 0
         while (time() - start_time) < (self.time_out * 0.88):
             self.search(board)
-            #loop_time += 1
+            loop_time += 1
 
         s = board.tostring()
         reward = -float('inf')
@@ -205,13 +205,13 @@ class AI(object):
         if act:
             self.candidate_list.append(act)
 
-        #print(loop_time)
+        return loop_time
 
     def next(self, board):
-        self.go(board)
+        l = self.go(board)
         if len(self.candidate_list) == 0:
-            return board
-        return play(board, self.candidate_list[-1], self.color)
+            return board, l
+        return play(board, self.candidate_list[-1], self.color), l
 
     def search(self, board):
         s = board.tostring()

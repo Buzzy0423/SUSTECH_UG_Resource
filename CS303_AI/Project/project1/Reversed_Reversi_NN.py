@@ -215,14 +215,16 @@ class AI(object):
     # The input is the current chessboard. Chessboard is a numpy array.
 
     def go(self, chessboard):
+        start_time = time()
         self.candidate_list.clear()
         self.candidate_list = get_valid_moves(chessboard, self.color)
         if len(self.candidate_list) == 0:
-            return
-
+            return 0
+        loop_time = 0
         canonical_board = get_canonical_board(chessboard, self.color)
-        for i in range(self.iter):
+        while time() - start_time < 0.8*self.time_out:
             self.search(canonical_board)
+            loop_time += 1
 
         s = canonical_board.tostring()
         reward = -float('inf')
@@ -235,12 +237,14 @@ class AI(object):
         if act:
             self.candidate_list.append(act)
 
+        return loop_time
+
     def next(self, board):
         try:
-            self.go(board)
+            loop_time = self.go(board)
             if len(self.candidate_list) == 0:
-                return board
-            return play(board, self.candidate_list[-1], self.color)
+                return board, loop_time
+            return play(board, self.candidate_list[-1], self.color), loop_time
         except RecursionError:
             print(self.color)
             print(board)

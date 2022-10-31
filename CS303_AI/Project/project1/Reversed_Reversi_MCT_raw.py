@@ -248,13 +248,14 @@ class AI(object):
             if tmp is not None:
                 self.candidate_list.append(tmp)
         else:
-            self.candidate_list = self.uct(chessboard, scalar)
+            self.candidate_list, loop_time = self.uct(chessboard, scalar)
+            return loop_time
 
     def next(self, board):
-            self.go(board)
+            loop_time = self.go(board)
             if len(self.candidate_list) == 0:
-                return board
-            return play(board, self.candidate_list[-1], self.color)
+                return board, loop_time
+            return play(board, self.candidate_list[-1], self.color), loop_time
 
     def go_minmax(self, board, depth):
         root_node = Node(board, self.color)
@@ -335,7 +336,7 @@ class AI(object):
         result = get_valid_moves(board, self.color)
         loop_time = 0
         if len(result) == 0:
-            return []
+            return [], 0
         root_node = Node(board, self.color)
         self.expand(root_node)
         while (time() - start_time) < (self.time_out * 0.76):
@@ -344,8 +345,7 @@ class AI(object):
             self.backup(node, reward)
             loop_time += 1
         result.append(ucb(root_node, 0).move)
-        #print(loop_time)
-        return result
+        return result, loop_time
 
     def select_policy(self, node, scalar=1.0):
         while not terminal(node.board):

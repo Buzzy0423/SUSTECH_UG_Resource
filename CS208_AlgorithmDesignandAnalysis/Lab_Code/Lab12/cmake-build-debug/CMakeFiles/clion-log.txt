@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab12
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab12/cmake-build-debug

@@ -1,3 +1,0 @@
-/Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab12/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab12/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/lee/课件/CS208_AlgorithmDesignandAnalysis/Lab/Lab12/cmake-build-debug/CMakeFiles/main.dir
